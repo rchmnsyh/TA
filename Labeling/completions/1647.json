@@ -1,0 +1,16 @@
+{
+  "completions": [
+    {
+      "created_at": 1600348118,
+      "id": 1647001,
+      "lead_time": 148.701,
+      "result": [],
+      "skipped": true,
+      "was_cancelled": true
+    }
+  ],
+  "data": {
+    "text": "imam amel"
+  },
+  "id": 1647
+}

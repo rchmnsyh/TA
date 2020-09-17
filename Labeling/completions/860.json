@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600343989,
+      "id": 860001,
+      "lead_time": 37.259,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "V8BgXTHKFm",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 122,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 98,
+            "text": "porsi makanan nya banyak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "TAHy69bBNx",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 138,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 123,
+            "text": "menunya beragam"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "jDOpEhMMxM",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 158,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 139,
+            "text": "tempatnya juga luas"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "6I9KyfwNgT",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 210,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 159,
+            "text": "gak malumaluin sih kalo rekomendasiin ke tementemen"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "kalo lagi cari tempat makan yang bisa dipake buat reunian golden chopstick emang paling cocok sih porsi makanan nya banyak menunya beragam tempatnya juga luas gak malumaluin sih kalo rekomendasiin ke tementemen"
+  },
+  "id": 860
+}

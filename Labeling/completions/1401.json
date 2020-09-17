@@ -1,0 +1,168 @@
+{
+  "completions": [
+    {
+      "created_at": 1600340437,
+      "id": 1401001,
+      "lead_time": 651.984,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "B6_UOsO8ao",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 146,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 121,
+            "text": "kuah tomyumnya cukup enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "KXh5hIqHUA",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 173,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 147,
+            "text": "rasa pedes asemnya balance"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "5aZjuSSfw-",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 232,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 202,
+            "text": "pilihan veggie nya lumayan byk"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "h6rHvTWSnn",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 261,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 233,
+            "text": "tp menurut gw agak krg fresh"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "WCmiB39Hjn",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 292,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 262,
+            "text": "buat menu grillnya lumayan byk"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "91bqerYNEE",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 326,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 296,
+            "text": "menu buffet nya jg lumayan byk"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "daqP-vatIv",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 406,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 392,
+            "text": "matchanya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "LQlUJlqM-n",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 459,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 425,
+            "text": "pilihan minuman nya jg lumayan byk"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "JgG6NkUuFo",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 501,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 460,
+            "text": "waktu makan dsini 2 jam jd mayan lama yah"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "pilih yg basic beef grill  shabu arround 180k per org buat kuah shabu kata waitrees nya tomyum  original chicken yg fave kuah tomyumnya cukup enak rasa pedes asemnya balance tp lebih enak yg chicken si pilihan veggie nya lumayan byk tp menurut gw agak krg fresh buat menu grillnya lumayan byk jg menu buffet nya jg lumayan byk ada beef teriyaki sushi steak ice cream tempura sushi  ice cream matchanya enak  yg lainnya b aja pilihan minuman nya jg lumayan byk waktu makan dsini 2 jam jd mayan lama yah which is yg lain cm 90 mnt"
+  },
+  "id": 1401
+}

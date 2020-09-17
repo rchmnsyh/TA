@@ -1,0 +1,151 @@
+{
+  "completions": [
+    {
+      "created_at": 1600343214,
+      "id": 49001,
+      "lead_time": 101.104,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "pLQ-dz-xyo",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 151,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 103,
+            "text": "it was nicely designed with natural wooden theme"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "2LsdfWdXVW",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 273,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 227,
+            "text": "it was a perfect place to relax in the morning"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "C4N86S5jOI",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 480,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 451,
+            "text": "this beef sandwich is amazing"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "JabZcpa4UK",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 533,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 481,
+            "text": "the bread was freshly baked so the crust was perfect"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "yMQ0c9tIh2",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 558,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 538,
+            "text": "the texture was good"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "x0MNuFYRl1",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 670,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 563,
+            "text": "beef filling was also tender juicy and matched so well with the freshness of the vegetables and cranberries"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "o4WFizPnUS",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 727,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 672,
+            "text": "the service was also good fast friendly and informative"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "VuP-BJZXxY",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 750,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 729,
+            "text": "very very recommended"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "more on instagram stanzazone   moms artisan bakery is located at progo street next to hummingbird cafe it was nicely designed with natural wooden theme the place was also serene with natural sunlight and morning bandung breeze it was a perfect place to relax in the morning  ordered beef sandwich which is one of their signature sandwiches that consist of freshly baked bread filled with beef meat lettuce sliced tomato sliced onions and cranberries  this beef sandwich is amazing the bread was freshly baked so the crust was perfect and the texture was good the beef filling was also tender juicy and matched so well with the freshness of the vegetables and cranberries  the service was also good fast friendly and informative  very very recommended "
+  },
+  "id": 49
+}

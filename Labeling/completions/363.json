@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600346822,
+      "id": 363001,
+      "lead_time": 36.425,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "T2FYStAV93",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 27,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "kopi toko jawa awannya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "vSW4KaBNG0",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 78,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 56,
+            "text": "coklatnya trll dominan"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "pQNISwKh7q",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 120,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 99,
+            "text": "cinnamon rollnya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "-Td8L0--ON",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 98,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 79,
+            "text": "rasa kopinya hilang"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "kopi toko jawa awannya enak kopi coklatnya sayang skali coklatnya trll dominan rasa kopinya hilang cinnamon rollnya enak"
+  },
+  "id": 363
+}

@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600348976,
+      "id": 1091001,
+      "lead_time": 36.278,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "uJgOq__uWJ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 28,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 0,
+            "text": "the food was worth the price"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "GlhkIAYUkX",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 81,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 33,
+            "text": "there is a wide selection of meat you can choose"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "the food was worth the price and there is a wide selection of meat you can choose"
+  },
+  "id": 1091
+}

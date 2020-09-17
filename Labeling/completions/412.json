@@ -1,0 +1,32 @@
+{
+  "completions": [
+    {
+      "created_at": 1600346734,
+      "id": 412001,
+      "lead_time": 18.38,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "OZPsE0kJyb",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 38,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 17,
+            "text": "makanannya enak semua"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "lunch disini dan makanannya enak semua apalagi es kopyor nya yang udh melegenda juga es krim yang ada di kelapa itu  aglio olio nya menurutku biasa aja "
+  },
+  "id": 412
+}

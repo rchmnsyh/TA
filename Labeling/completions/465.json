@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600344355,
+      "id": 465001,
+      "lead_time": 21.374,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "zflOZKqOum",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 74,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 59,
+            "text": "tempat nya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "0BJ23dmx4_",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 99,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 79,
+            "text": "makanannya juga enak"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "ini restaurant favorite kalo ke bandung ya ke braga permai tempat nya enak dan makanannya juga enak favorite ku salmon ini gk tau namanya apa harganya kalo gk salah 130k "
+  },
+  "id": 465
+}

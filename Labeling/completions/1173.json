@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600342161,
+      "id": 1173001,
+      "lead_time": 408.409,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "LXQckE4-ZQ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 83,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 71,
+            "text": "kuahnya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "RhrVFkbXpA",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 183,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 89,
+            "text": "pilihan untuk shabu kurang banyak dan agak males juga minta dagingnya karena pake sistem pesan"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "UYRRwhXzfO",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 225,
+            "labels": [
+              "Negative",
+              "Miscellaneous"
+            ],
+            "start": 184,
+            "text": "lebih nyaman sama all you can eat sebelah"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "pesan yg australian reguler tanpa grill total sekitar 318k untuk berduakuahnya enak tapi pilihan untuk shabu kurang banyak dan agak males juga minta dagingnya karena pake sistem pesan lebih nyaman sama all you can eat sebelah dimana daging dll bisa langsung ambil tapi overall cukup memuaskan"
+  },
+  "id": 1173
+}

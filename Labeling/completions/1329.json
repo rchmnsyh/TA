@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600342780,
+      "id": 1329001,
+      "lead_time": 21.914,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "355CWS4F5E",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 120,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 102,
+            "text": "pelayanannya bagus"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "4BzgGRENZ6",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 199,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 164,
+            "text": "salmon head fish soup enak sekaliii"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "akhirakhir ini saya lebih suka makan di sushi tei jalan sumatra ini krn males juga cari parkir di tsm pelayanannya bagus juga  kalo ingin yg anget2 pedes bisa coba salmon head fish soup enak sekaliii"
+  },
+  "id": 1329
+}

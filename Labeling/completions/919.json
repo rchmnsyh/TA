@@ -1,0 +1,32 @@
+{
+  "completions": [
+    {
+      "created_at": 1600349112,
+      "id": 919001,
+      "lead_time": 21.228,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "mEPS1VXFKC",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 126,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 86,
+            "text": "appucino cafe latte tasted not so strong"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "came here because i was staying at kollektiv hotel upstairs i ordered cafe latte and cappucino cafe latte tasted not so strong even though i didnt add any sugar cappucino was soso"
+  },
+  "id": 919
+}

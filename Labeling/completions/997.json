@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600344257,
+      "id": 997001,
+      "lead_time": 19.768,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "4TOG0_O3_T",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 36,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 8,
+            "text": "selalu suka sama makanannya "
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "jlSfdHD99H",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 76,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 65,
+            "text": "enak banget"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "favorit selalu suka sama makanannya dan harus coba eskosu karena enak banget"
+  },
+  "id": 997
+}

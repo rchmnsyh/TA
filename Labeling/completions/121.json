@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600342958,
+      "id": 121001,
+      "lead_time": 27.594,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "rdcdjyQ5Ag",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 23,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "suasananya cozy  tenang"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "7dx7HtbN7c",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 83,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 24,
+            "text": "porsi makanannya pas gak terlalu banyak gak terlalu sedikit"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "WEAMNK61cN",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 103,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 84,
+            "text": "kopi nya juga enakk"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "suasananya cozy  tenang porsi makanannya pas gak terlalu banyak gak terlalu sedikit kopi nya juga enakk"
+  },
+  "id": 121
+}

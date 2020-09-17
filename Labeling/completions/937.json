@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600346715,
+      "id": 937001,
+      "lead_time": 48.35,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "QXJ-C5tweu",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 18,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "ice cream nya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Cb4NSmxHC0",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 92,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 68,
+            "text": "must try kalo ke bandung"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "_5_H0pyGeU",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 46,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 20,
+            "text": "iga garang asamnya jg enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "r4zhK5zjEJ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 66,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 48,
+            "text": "nasgor kencur best"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "ice cream nya enak  iga garang asamnya jg enak  nasgor kencur best  must try kalo ke bandung "
+  },
+  "id": 937
+}

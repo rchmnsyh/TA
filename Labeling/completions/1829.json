@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600342565,
+      "id": 1829001,
+      "lead_time": 26.436,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "P2vsSdpPng",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 23,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "tempatnya bagus bangett"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "lL1R6jegiy",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 155,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 107,
+            "text": "appetizer main course dan dessertnya enak semuaa"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "AUb_os3HtJ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 200,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 156,
+            "text": "fav banget dehh bener\u201d worth it makan disini"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "tempatnya bagus bangett termasuk salah satu restoran fine dining di bandung yang wajib didatengin nih dari appetizer main course dan dessertnya enak semuaa fav banget dehh bener\u201d worth it makan disini"
+  },
+  "id": 1829
+}

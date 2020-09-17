@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600346451,
+      "id": 1831001,
+      "lead_time": 76.218,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "AwNdU3K1Gw",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 144,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 105,
+            "text": "waktu mau order agak lama sih gatau knp"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "lArMMCsk59",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 274,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 231,
+            "text": " rasa tres leches nya pas gak terlalu manis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "SJWQq_8pNA",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 370,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 327,
+            "text": "tempatnya bersih ky cafe eropa gitu classic"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "AF97Uw06LA",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 381,
+            "labels": [
+              "Negative",
+              "Price"
+            ],
+            "start": 371,
+            "text": "agak mahal"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "gue kesini sabtu sore dan lagi rame bgt sama anak gaul bandung yg pada rapi2 sementara gue cm pake jepit waktu mau order agak lama sih gatau knp either emg krn rame atau gue pake jepit p trus gue pesen tres leches sama kopi vietnam rasa tres leches nya pas gak terlalu manis dan kopi vietnamnya yaudah gitu aja haha but anyway tempatnya bersih ky cafe eropa gitu classic agak mahal tp worth it sih"
+  },
+  "id": 1831
+}

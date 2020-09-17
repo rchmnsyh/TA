@@ -1,0 +1,100 @@
+{
+  "completions": [
+    {
+      "created_at": 1600343691,
+      "id": 625001,
+      "lead_time": 53.53,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "E0eiiapHWk",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 154,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 121,
+            "text": "suka sama interior nya yang homey"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "FKOPvypgKN",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 197,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 160,
+            "text": "banyak spot yang seru untuk ditempati"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "2xn62AqHCX",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 299,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 280,
+            "text": "kopi djawa nya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "LQ7E0acBBQ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 339,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 300,
+            "text": "cemilan cake atopun donat nya juga enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "oVRhfgQtyy",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 395,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 354,
+            "text": "harga nya bandung banget aka murah meriah"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "salah satu tempat nongkrong baru yang ada di kawasan braga deket banget sama braga city walk pas sampe sini aku langsung suka sama interior nya yang homey plus banyak spot yang seru untuk ditempati  sebagai orang yang cuma bisa minum kopi asalkan kopi susu saya bisa bilang kalau kopi djawa nya enak cemilan cake atopun donat nya juga enak ditambah lagi harga nya bandung banget aka murah meriah pas pisan untuk ditampi   ig  makansamaoki  makansamaoki"
+  },
+  "id": 625
+}

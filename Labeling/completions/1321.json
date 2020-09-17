@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600347968,
+      "id": 1321001,
+      "lead_time": 24.151,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "ssYH1Xmv97",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 103,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 79,
+            "text": "wakame salad juga fav ku"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "d6IOf2iKPL",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 175,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 142,
+            "text": "always love this resto keep it up"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "sepertinya sushi tei masih jadi favoritku diantara resto fushion sushi yg lain wakame salad juga fav ku buat seimbangin rasa amis dari sushi  always love this resto keep it up"
+  },
+  "id": 1321
+}

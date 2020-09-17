@@ -1,0 +1,100 @@
+{
+  "completions": [
+    {
+      "created_at": 1600348850,
+      "id": 675001,
+      "lead_time": 399.904,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "vLxYq2kqq5",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 52,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 0,
+            "text": "restonya authentic banget cocok buat makan2 keluarga"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "x4ka9Y2O57",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 79,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 53,
+            "text": "suka banget selat solo nya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Rk3dVUUQHQ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 103,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 80,
+            "text": "rotinya juga cukup enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "95-LjphFU5",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 138,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 104,
+            "text": "cita rasanya jadul alias authentic"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "-VmzQfI50i",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 222,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 201,
+            "text": "pelayanan cukup sigap"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "restonya authentic banget cocok buat makan2 keluarga suka banget selat solo nya rotinya juga cukup enak cita rasanya jadul alias authentic cocok buat bawa ortu atau eyang kita  atau camer makan malam  pelayanan cukup sigap"
+  },
+  "id": 675
+}

@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600342462,
+      "id": 245001,
+      "lead_time": 301.039,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "pRrMbRs8dm",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 110,
+            "labels": [
+              "Negative",
+              "Price"
+            ],
+            "start": 92,
+            "text": "memang agak pricey"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "dTtgRn0qjS",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 257,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 236,
+            "text": "dagingnya empuk semua"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "kOV5OVuE9p",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 303,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 282,
+            "text": "kriuknya dapet banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "uYZuc2nkaR",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 493,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 459,
+            "text": "cabenya pedesss banget tapi enaaak"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "masuk salah satu makanan yang wajibb kalo ke bandung versi saya yaaa harganya 60rb per porsimemang agak pricey yaa tapi menurutku worth it saja selain nasi campur ada juga sop sayur asin nasi campurnya ini favorit dagingnya nggak pelit dagingnya empuk semua dan yg babi asinnya ini kriuknya dapet banget kalau mau tambah nasii harganya 5rb ya per porsi btw biar makin mantaps bisa di tambah saus2nya gitu ada yg kuah merah kecap asin sampai minyak cabe atii2 cabenya pedesss banget tapi enaaak hahaha pakenya bisa sedikit2 aja ya untuk kuah merahnya juga enak pakainya juga sedikit2 ya kalo kebanyakan asin soalnya menurut info dari tantenya nasi campur ini buka sampai sehabisnya maksimal di jam 11301200 malam tutupnya"
+  },
+  "id": 245
+}

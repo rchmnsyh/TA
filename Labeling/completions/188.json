@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600343500,
+      "id": 188001,
+      "lead_time": 235.038,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "t9r41UqlJF",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 94,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 79,
+            "text": "makanannya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "kNhNge2SoQ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 152,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 124,
+            "text": "harganya jg oke masi standar"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "l2bvkVrOE2",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 191,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 157,
+            "text": "tempatnya cozy buat ngobrol santai"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "setiap ke bandung pasti sempetin mampir utk lunchdinner disini karna udh pasti makanannya enak mau yg asian or western food harganya jg oke masi standar dan tempatnya cozy buat ngobrol santai"
+  },
+  "id": 188
+}

@@ -1,0 +1,100 @@
+{
+  "completions": [
+    {
+      "created_at": 1600341617,
+      "id": 132001,
+      "lead_time": 78.874,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "wvCXIbzDHJ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 262,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 238,
+            "text": "rasa kopinya enak banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "B1WJ1S4Ltl",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 339,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 310,
+            "text": "rasa kopinya lingering banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "lvB183u_ZQ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 463,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 421,
+            "text": "sayangnya disini nggak menyediakan cemilan"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "b0qlHyS7ZK",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 571,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 550,
+            "text": "ambience cafenya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "29S4MtrsDI",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 594,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 577,
+            "text": "seatingnya banyak"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "kesini karena lagi liburan ke bandung dan coffeeshop ini masuk ke salah satu trending di zomato akhirnya memutuskan mampir dan kebetulan lagi hujan juga jadi pas banget minum kopi panas aku dan suami pesen cappucino  cafe latte hot untuk rasa kopinya enak banget sih disini karena benerbener fresh brewed jadi rasa kopinya lingering banget bahkan setelah beberapa saat selesai diminum harga kopinya sekitar 30 ribuan dan sayangnya disini nggak menyediakan cemilan cuma ada beberapa cake aja padahal enak banget untuk nongkrong disini lamalama karena ambience cafenya enak plus seatingnya banyak ada indoor dan outdoor"
+  },
+  "id": 132
+}

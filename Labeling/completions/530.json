@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600348140,
+      "id": 530001,
+      "lead_time": 21.712,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "g1fzgaxW9o",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 46,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 0,
+            "text": "pelayanannya sukaaa bangeeet ramahramah semuaa"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "0uTRxm1AKi",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 116,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 98,
+            "text": "bumbunya enak enak"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "pelayanannya sukaaa bangeeet ramahramah semuaa  dibantu ka meta mas dani ka kokom dan   kak tiar  bumbunya enak enak paling suka bumbu rawit cabe bawang putihnya"
+  },
+  "id": 530
+}

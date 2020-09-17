@@ -1,0 +1,185 @@
+{
+  "completions": [
+    {
+      "created_at": 1600348449,
+      "id": 81001,
+      "lead_time": 262.968,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "_6nYi1d9m6",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 67,
+            "labels": [
+              "Negative",
+              "Price"
+            ],
+            "start": 38,
+            "text": "buat ukuran bandung ini mahal"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "x2mlgitD8k",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 134,
+            "labels": [
+              "Negative",
+              "Price"
+            ],
+            "start": 75,
+            "text": "dibanding nasi campur di jakarta pun ini kemahalan pokoknya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "kwzu04IkHq",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 214,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 200,
+            "text": "nasinya kering"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "OR_MlQDXl5",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 237,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 215,
+            "text": "lauknya jg udah dingin"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "FKjfJUsB7u",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 376,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 324,
+            "text": "di wadah banyak uapnya tp begitu sampai sudah dingin"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "6Dkxjhs5BT",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 412,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 379,
+            "text": "porsi daging dan telornya sedikit"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "d3QbrwXvTS",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 602,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 585,
+            "text": "rasanya gak tasty"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "_nL9722VO7",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 620,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 603,
+            "text": "gak ada gurih2nya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "5RbW1SZVj7",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 667,
+            "labels": [
+              "Negative",
+              "Miscellaneous"
+            ],
+            "start": 646,
+            "text": "reorder absolutely no"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "qKgiOyS86Q",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 911,
+            "labels": [
+              "Negative",
+              "Miscellaneous"
+            ],
+            "start": 850,
+            "text": "sorry to say ya nasi campur 88 you should improve the quality"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "sy beli via g krn malas antri 1 mahal buat ukuran bandung ini mahal bahkan dibanding nasi campur di jakarta pun ini kemahalan pokoknya kena 90 ribu plus ongkir buat makan ky gini doang 2 semua dingin nasinya kering lauknya jg udah dingin padahal dari cibadak ke tempat sy dekat banget cm butuh wkt 510 menit aja bingung sih di wadah banyak uapnya tp begitu sampai sudah dingin 3 porsi daging dan telornya sedikit malesin banget ky dicacah kecil2 supaya kelihatan banyak telornya gak utuh 1 dgn harga kalian yg tergolong pricey harusnya kasih porsi daging dan telornya lebih generous 4 rasanya gak tasty gak ada gurih2nya intinya sih mengecewakan reorder absolutely no gak semua yg terkenal itu enak ya gengss be a smart buyer  ps  nasi campur di jakarta lebih tasty dan dari segi harga pun masuk akal contoh  nasi campur di muara karang  di krendang sorry to say ya nasi campur 88 you should improve the quality"
+  },
+  "id": 81
+}

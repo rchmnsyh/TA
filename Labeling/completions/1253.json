@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600346666,
+      "id": 1253001,
+      "lead_time": 39.928,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "qo_MD4yI57",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 58,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 38,
+            "text": "potatonya enak gurih"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "AwavIzQjry",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 70,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 59,
+            "text": "rasanya pas"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "PiHuHsFXjY",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 99,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 71,
+            "text": "lidah bistiknya juga terbaik"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "oA0Z8ynUdc",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 140,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 110,
+            "text": "jadi resto keluarga terfavorit"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "pesan lidah bistik with mashed potato potatonya enak gurih rasanya pas lidah bistiknya juga terbaik sih masih jadi resto keluarga terfavorit"
+  },
+  "id": 1253
+}

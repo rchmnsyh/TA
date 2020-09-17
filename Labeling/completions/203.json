@@ -1,0 +1,100 @@
+{
+  "completions": [
+    {
+      "created_at": 1600341752,
+      "id": 203001,
+      "lead_time": 76.825,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "m-KB8b3uwi",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 58,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 23,
+            "text": "tempatnya super nyamaaan dan cantik"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "VGvZSapG34",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 91,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 59,
+            "text": "makanan sama minumannya jg enak2"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "TFpqau3zxN",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 108,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 96,
+            "text": "porsinya pas"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "bS6Q_pRpeg",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 127,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 109,
+            "text": "pelayanannya ramah"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "OnmcwVsK2b",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 178,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 158,
+            "text": "sgt rekomen kesiniii"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "kesini pas lg sepi dan tempatnya super nyamaaan dan cantik makanan sama minumannya jg enak2 dan porsinya pas pelayanannya ramah ada tempat bermain sm mushola sgt rekomen kesiniii"
+  },
+  "id": 203
+}

@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600343578,
+      "id": 2042001,
+      "lead_time": 27.892,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "wdSD1hU4TQ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 120,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 78,
+            "text": "konsistensi rasa dan cita rasa yang tinggi"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "6bDEIfweJ5",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 77,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 0,
+            "text": "restoran steak langganan keluarga sejak tahun awal tahun 2000 hingga sekarang"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "restoran steak langganan keluarga sejak tahun awal tahun 2000 hingga sekarang konsistensi rasa dan cita rasa yang tinggi menjadikan restoran ini tetap bertahan"
+  },
+  "id": 2042
+}

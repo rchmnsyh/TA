@@ -1,0 +1,16 @@
+{
+  "completions": [
+    {
+      "created_at": 1600343951,
+      "id": 1198001,
+      "lead_time": 230.511,
+      "result": [],
+      "skipped": true,
+      "was_cancelled": true
+    }
+  ],
+  "data": {
+    "text": "the ice cream and the avocado juice taste reminds me the taste from my childhood"
+  },
+  "id": 1198
+}

@@ -1,0 +1,134 @@
+{
+  "completions": [
+    {
+      "created_at": 1600347085,
+      "id": 1627001,
+      "lead_time": 77.243,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "bgemaY8CtX",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 36,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "banyaaak banget pilihan roti dan kue"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "pcw6PxnhMf",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 234,
+            "labels": [
+              "Negative",
+              "Price"
+            ],
+            "start": 219,
+            "text": "agak mahal hehe"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "fHmWLXvhJk",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 255,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 235,
+            "text": "tempat nyaman bersih"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "VfQqt7XWWS",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 358,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 344,
+            "text": "pelayanan baik"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "VkQeywGLDh",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 387,
+            "labels": [
+              "Negative",
+              "Price"
+            ],
+            "start": 359,
+            "text": "sayang harga agak mahal hehe"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "cyThCJ7gM7",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 412,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 388,
+            "text": "tapi enak enak semuaaaaa"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "OR51toKmnK",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 479,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 434,
+            "text": "next kesini lagi kalau ke bandung favorit nih"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "banyaaak banget pilihan roti dan kue namanya jadul pake bahasa belanda kas brood schaschlik etc selain itu ada beberapa menu main course seperti nasi kuning liwet iga dll dan juga es krim aku belum cobain eskrimnya krn agak mahal hehe tempat nyaman bersih dateng pas covid 19 semua makanan disajikan terbungkus ada smoking dan non smoking room pelayanan baik sayang harga agak mahal hehe tapi enak enak semuaaaaa pengen beli semuanya next kesini lagi kalau ke bandung favorit nih"
+  },
+  "id": 1627
+}
