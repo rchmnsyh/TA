@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600782492,
+      "id": 309001,
+      "lead_time": 18.174,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "ieba3Z5_Md",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 76,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 66,
+            "text": "tasty food"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "QIjUdPyEql",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 60,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 41,
+            "text": "cozy for long talks"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "i go here whenever i want a place that\u2019s cozy for long talks with tasty food. this really is that restaurant you go to when you have nowhere else to go because it\u2019s so reliable."
+  },
+  "id": 309
+}

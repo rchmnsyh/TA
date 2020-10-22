@@ -1,0 +1,32 @@
+{
+  "completions": [
+    {
+      "created_at": 1600786250,
+      "id": 96001,
+      "lead_time": 5.391,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "FWkpStkclD",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 19,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "terong rais terbaik"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "terong rais terbaik"
+  },
+  "id": 96
+}

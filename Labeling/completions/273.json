@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600507061,
+      "id": 273001,
+      "lead_time": 46.412,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "V5IKdUPsKL",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 14,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "ambiencenya ok"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "d-g-wNMvQJ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 125,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 105,
+            "text": "nasi sushinya benyek"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "wd8vnj4Igv",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 200,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 168,
+            "text": "grilled salmon juga kurang fresh"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "aRiL9gJQmu",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 216,
+            "labels": [
+              "Negative",
+              "Miscellaneous"
+            ],
+            "start": 201,
+            "text": "no second visit"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "ambiencenya ok, beda dengan outlet sutei di jakarta tp sayang saat order, menunya ada beberapa yg kosong nasi sushinya benyek tidak seperti sushi tei pd umumnya. pesan grilled salmon juga kurang fresh no second visit to this sutei branch"
+  },
+  "id": 273
+}

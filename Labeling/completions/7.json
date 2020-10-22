@@ -1,0 +1,32 @@
+{
+  "completions": [
+    {
+      "created_at": 1600788757,
+      "id": 7001,
+      "lead_time": 12.133,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "_U_7a73WRL",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 140,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 96,
+            "text": "not as delicious as the original (pork) se'i"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "dozen of us having dinner, ordered 1 kg of beef platter with 6 different chilli. cost us 600k+. not as delicious as the original (pork) se'i but taste almost the same"
+  },
+  "id": 7
+}

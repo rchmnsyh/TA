@@ -1,0 +1,117 @@
+{
+  "completions": [
+    {
+      "created_at": 1600683732,
+      "id": 374001,
+      "lead_time": 64.088,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "8qwP-4pn37",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 185,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 163,
+            "text": "tingkat kematangan pas"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "hoOf5lthAY",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 259,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 216,
+            "text": "rasa steaknya sendiri agak kurang seasoning"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "9tq0EZFvVU",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 278,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 266,
+            "text": "empuk banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Sz-sam8eBI",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 350,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 326,
+            "text": "jus jeruknya seger, enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "pxaltK3Ww_",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 368,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 352,
+            "text": "tempatnya cantik"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "HpHqY5-H1j",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 451,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 398,
+            "text": "enak buat nongkrong karena ga ada ada nyamuk dan adem"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "pesen tenderloin dan sirloin, upgrade ke 250 gr cuma nambah 30 ribu. aku ga pakai mashed potato atau french fries, tapi saladnya ditambahin, pakai balsamic sauce. tingkat kematangan pas seperti yang diminta, medium. rasa steaknya sendiri agak kurang seasoning, tapi empuk banget. mungkin memang ditujukan untuk pakai sausnya. jus jeruknya seger, enak. tempatnya cantik, ada outdoornya di belakang. enak buat nongkrong karena ga ada ada nyamuk dan adem."
+  },
+  "id": 374
+}

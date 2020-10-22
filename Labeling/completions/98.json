@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600781534,
+      "id": 98001,
+      "lead_time": 16.584,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "hlXqzczgB7",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 43,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 26,
+            "text": "ayam ungkep mayan"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "2hrdho9dQy",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 61,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 45,
+            "text": "sayur asem mayan"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "tG1cUJF7IP",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 80,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 63,
+            "text": "gurame bakar enak"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "cobain terong raos so so, ayam ungkep mayan, sayur asem mayan, gurame bakar enak."
+  },
+  "id": 98
+}

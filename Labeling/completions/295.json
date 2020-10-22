@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600684987,
+      "id": 295001,
+      "lead_time": 36.735,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "OMOGqMd_tm",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 59,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 18,
+            "text": "teppan sapi red wine langsung suka banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "5P8Rf91D4I",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 81,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 61,
+            "text": "sapinya empuk banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ACSmc0U0fs",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 198,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 175,
+            "text": "dimsumnya ga kalah enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "X49fcKU3uU",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 223,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 203,
+            "text": "harga termasuk worth"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "first time cobain teppan sapi red wine langsung suka banget! sapinya empuk banget (buat orang tua yang susah nguyah ga usah khawatir ) saosnya ditaruh di nasi anget bedeuhhh  dimsumnya ga kalah enak dan harga termasuk worth untuk rasanya untuk dimsum yang digoreng buat saya terlalu berminyak untuk yang suka goreng2 mungkin pas  recommended place for you dimsum lovers"
+  },
+  "id": 295
+}

@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600506333,
+      "id": 329001,
+      "lead_time": 46.416,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "1avm6QhE71",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 59,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 21,
+            "text": "rasanya biasa saja, malah cukup hambar"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "hV521bqymt",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 18,
+            "labels": [
+              "Negative",
+              "Miscellaneous"
+            ],
+            "start": 0,
+            "text": "ternyata overrated"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "j8i9F_qqWH",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 84,
+            "labels": [
+              "Negative",
+              "Price"
+            ],
+            "start": 61,
+            "text": "harganya jg agak pricey"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "qgQe3kW8LS",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 139,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 110,
+            "text": "pelayanannya pun mengecewakan"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "ternyata overrated.. rasanya biasa saja, malah cukup hambar..harganya jg agak pricey untuk rasa yg kyk gini.. pelayanannya pun mengecewakan.."
+  },
+  "id": 329
+}

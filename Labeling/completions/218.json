@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600683463,
+      "id": 218001,
+      "lead_time": 37.826,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "qnt1kmJeqO",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 82,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 53,
+            "text": "harganya bener bener standard"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "rEkMYmMVfx",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 115,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 90,
+            "text": "pilihan menu yang beragam"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "shabu hachi tuh menurut aku resto all u can eat yang harganya bener bener standard dengan pilihan menu yang beragam dari appetizer - dessert bener bener lengkap. mereka tuh nyediain ice cream sellu berbeda loh rasanya tiap hari. menu soup yang paling emak diaini menurutku tomyum ya. untuk pilihan daging regular (suki) + grill (rp 168.000 nett)kalau kalian group (min. 10 orang) bisa booking dan dpt harga spesial.selamat mencoba!!"
+  },
+  "id": 218
+}

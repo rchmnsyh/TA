@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600679892,
+      "id": 3001,
+      "lead_time": 17.934,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "1PmKexUgzR",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 11,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "enak bgtttt"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "2JC_PCU5G2",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 24,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 13,
+            "text": "sambel enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "qBHOokx9_0",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 41,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 26,
+            "text": "daging sho good"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "enak bgtttt, sambel enak, daging sho good gatau apa kurangnya, pokoknya gaada!!!"
+  },
+  "id": 3
+}

@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600683555,
+      "id": 344001,
+      "lead_time": 48.231,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "7IR4dob8LU",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 34,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 9,
+            "text": "the attractive decoration"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "BI5rHPWr1J",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 123,
+            "labels": [
+              "Negative",
+              "Ambience"
+            ],
+            "start": 40,
+            "text": "totally bothered by the high number of smoker without proper air circulation system"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "w-oSKp4scp",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 278,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 234,
+            "text": "good things are the decor is very attractive"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "2eyiZiBKJ1",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 318,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 302,
+            "text": "affordable price"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "here for the attractive decoration. but totally bothered by the high number of smoker without proper air circulation system.  prepare your mask if youre not smoking and pick the best seat at least near the window to avoid the smoke.  good things are the decor is very attractive,strategic location and affordable price."
+  },
+  "id": 344
+}

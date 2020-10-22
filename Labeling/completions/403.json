@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600677668,
+      "id": 403001,
+      "lead_time": 34.055,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "U4zr0CnZIq",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 27,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "cute bakery and coffee shop"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "tdgzmJf-_2",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 333,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 292,
+            "text": "it was moist and the cheese not too thick"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "cute bakery and coffee shop behind gedung sate. the place is somehow semi open and no ac, thankfully that the weather was good when we came here  we already had lunch before so we just ordered some drinks and snacks : baker iced coffee, tea and blueberry cheesecake  the cheesecake was good, it was moist and the cheese not too thick. the baker iced coffee was somehow unique, espresso ice cubed served with one scoop of ice cream. it came with a milk in a different glass. it took quite sometimes for the espresso ice cube to dissolve. so i could only taste the milk  i also bought bread for take away, 10k for 2 pcs of bread"
+  },
+  "id": 403
+}

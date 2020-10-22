@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600506467,
+      "id": 301001,
+      "lead_time": 29.06,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "ZwXgpr82Zd",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 14,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "place is great"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "7USJt4yTre",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 80,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 59,
+            "text": "food is below average"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "mX7dc7fisj",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 154,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 127,
+            "text": "servers were not responsive"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "place is great, and that\u2019s all what good about this place. food is below average and took way too long even for a simple dish. servers were not responsive despite being all nice and apologetic about the food."
+  },
+  "id": 301
+}

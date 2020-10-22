@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600679713,
+      "id": 348001,
+      "lead_time": 25.124,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "8GxNQmiXGW",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 176,
+            "labels": [
+              "Negative",
+              "Miscellaneous"
+            ],
+            "start": 164,
+            "text": "cukup kecewa"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "tVEOsPuLO-",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 361,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 340,
+            "text": "suasananya cukup enak"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "kesini minggu pagi sekitar jam 9.30. saat kami akan order menu makanan ternyata semuanya belum siap, hanya ada french fries. infonya menu makanan baru ready siang. cukup kecewa karena datang kesini untuk breakfast. berhubung tdk ada menu makanan yang bisa diorder akhirnya kami tidak pesan apa2 dan cari tempat breakfast yang lain. padahal suasananya cukup enak di pagi hari dan belum terlalu ramai"
+  },
+  "id": 348
+}

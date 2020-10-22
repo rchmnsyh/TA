@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600680261,
+      "id": 282001,
+      "lead_time": 45.89,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "13-9W-elnQ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 66,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 24,
+            "text": "paling adem, nyaman, dan seatnya banyaaaak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ACs5pSQ5iD",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 95,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 69,
+            "text": "ambience nya nyaman banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "EqBS4KrE6w",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 169,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 148,
+            "text": "one of the best sushi"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "1gDzX4gNds",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 325,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 306,
+            "text": "dessert nya rekomen"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "favorite outlet so far! paling adem, nyaman, dan seatnya banyaaaak.. ambience nya nyaman banget. soal makanan, semua udah pada tau lah ya sushi nya one of the best sushi in indonesia. kalo bawa baby pas peak hour kesini, siap2 waiting list buat baby chair. mungkin sushi tei perlu nambah baby chair?  oya, dessert nya rekomen nama chocolate ice cream, buat yg nggak suka eskrim manis, ini pas bgt! satu lagi bisa coba avocado mousse."
+  },
+  "id": 282
+}

@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600680192,
+      "id": 253001,
+      "lead_time": 19.439,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "ph-hSAK1sL",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 52,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 39,
+            "text": "paling endoll"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "g5mF5Fkw_Z",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 86,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 55,
+            "text": "selalu bikin pengen kesini lagi"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "ayam goreng telur asin goldenchopstick paling endoll.. selalu bikin pengen kesini lagi #chinesefoodhalal #goldenchopstick #kulinerbandung"
+  },
+  "id": 253
+}

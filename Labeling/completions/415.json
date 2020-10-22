@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600681373,
+      "id": 415001,
+      "lead_time": 31.849,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "u5H7OmwcW6",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 373,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 360,
+            "text": "semuanya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "s4OsJbkcGl",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 405,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 376,
+            "text": "temannya juga unik dan nyaman"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "DDRxWLmuJq",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 484,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 466,
+            "text": "pokoknya bagus deh"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "nanny's pavillion bandung emang beda banget suasananya dengan yang ada di jakarta.  letaknya di sebelah karnivor, awalnya kemarin mau makan di karnivor. tapi biar bisa mesen menu yg beragam, jadinya malah nyebrang ke nanny's pavillion.  saya dan keluarga pesen fish n chips, vanilla milkshake, waffle sama mango smoothies, nasi goreng, dan pasta. intinya sih: semuanya enak!  temannya juga unik dan nyaman. bisa outdoor dan indoor. ada musholla nya juga dibelakang. pokoknya bagus deh "
+  },
+  "id": 415
+}

@@ -1,0 +1,32 @@
+{
+  "completions": [
+    {
+      "created_at": 1600689419,
+      "id": 138001,
+      "lead_time": 31.844,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "IYDJaq6D39",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 191,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 149,
+            "text": "comfort food of bread with various topping"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "roti gempol might be one of the oldest bread shop in bandung, if not one of the most famous. located in small alleyway at gempol area, they served a comfort food of bread with various topping, from the sweet ones with chocolate or the savory with korned and cheese. there is always a queue in the shop on the weekend, so you need to prepare beforehand. you can enjoy the meal on the spot or take it on the go because they also have a bulk package of bread if you want to enjoy it with your friends/family."
+  },
+  "id": 138
+}

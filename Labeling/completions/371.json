@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600683092,
+      "id": 371001,
+      "lead_time": 18.854,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "pydEph7ipP",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 35,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 0,
+            "text": "banyak menu yg ga update di menunya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "T5utRfMsxY",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 135,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 113,
+            "text": "seasoningnya ga merata"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "banyak menu yg ga update di menunya. pesen ausie rib eye dngn kematangan medium rare, so far ya oke lah... tp ya seasoningnya ga merata, jd asin di bbrp titik aja"
+  },
+  "id": 371
+}

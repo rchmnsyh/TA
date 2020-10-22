@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600626543,
+      "id": 230001,
+      "lead_time": 2407.424,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "DbP7gBeMlP",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 164,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 150,
+            "text": "tpii cepet kok"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "5I9sZhr6Oj",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 118,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 59,
+            "text": "yg blm ksinii emang harus  kudu banget dicoba bakso disinii"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "bagi warga bandung udah ga asing sama tempat bakso inii... yg blm ksinii emang harus  kudu banget dicoba bakso disinii...tmpatnya penuh trus memang...tpii cepet kok.."
+  },
+  "id": 230
+}

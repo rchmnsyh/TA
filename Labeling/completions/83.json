@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600784528,
+      "id": 83001,
+      "lead_time": 20.989,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "m2v4P9Mwlk",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 247,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 228,
+            "text": "porsinya besarr bgt"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "QMASzDmTek",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 267,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 252,
+            "text": "isinya melimpah"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "c18SYEYgMY",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 295,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 273,
+            "text": "rasa mnrt saya just ok"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "di area sudirman street, stall ini yang paling ramee antriannya.. pas dtg, ambil nomor antrian dan dibilangin mbaknya skitar 40 mnt an lg..akhirnya jajan2 yg lain dulu di sekitar sini lalu balik lg buat ngambil (take away). utk porsinya besarr bgt dan isinya melimpah. utk rasa mnrt saya just ok, not that special."
+  },
+  "id": 83
+}

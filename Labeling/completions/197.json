@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600686626,
+      "id": 197001,
+      "lead_time": 57.982,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "0iSU0OIguI",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 44,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 6,
+            "text": "kopi susu gula aren nya lumayan strong"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "0sMLKKosYk",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 236,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 200,
+            "text": "ambience nya oke banget homie sekali"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "bvvkpu16tR",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 372,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 345,
+            "text": "toilet mereka sedikit jorok"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "untuk kopi susu gula aren nya lumayan strong, tapi ga se strong tu ku ya, lumayan buat harga 20k, sangat tdk recommend untuk yg tdk suka manis untuk pesan kopi susu awan mereka, karena lumayan manis, ambience nya oke banget homie sekali dan aada beberapa ruang di lantai 2 yg luas serta ada outdoor mereka diatas, namun sangat disayangkan untuk toilet mereka sedikit jorok karena tissue yg berjatuhan dilantai dan sempit."
+  },
+  "id": 197
+}

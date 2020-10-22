@@ -1,0 +1,117 @@
+{
+  "completions": [
+    {
+      "created_at": 1600685330,
+      "id": 235001,
+      "lead_time": 48.962,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "cE6_tT1Efu",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 115,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 79,
+            "text": "banyak banget porsinya sampe ga kuat"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "GoxIFz240h",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 132,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 118,
+            "text": "yamiennya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "fDh8VqdkZc",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 152,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 134,
+            "text": "kuahnya paling top"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "kUYVbc1YJg",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 178,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 164,
+            "text": "ga bikin seret"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Xtyb90sLB6",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 226,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 205,
+            "text": "semua toppingnya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "vq1v54Uv4h",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 263,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 241,
+            "text": "porsinya banyak banget"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "makanan yang selalu bikin trauma setelah pulangnya (tapi tetep makan di situ). banyak banget porsinya sampe ga kuat!  yamiennya enak, kuahnya paling top, clean dan ga bikin seret. kayaknya no micin2 deh.. semua toppingnya enak.. tapi ya itu porsinya banyak banget.  sampe besoknya rasanya masih kenyang."
+  },
+  "id": 235
+}

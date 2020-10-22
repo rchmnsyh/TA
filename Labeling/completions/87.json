@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600506799,
+      "id": 87001,
+      "lead_time": 47.5,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "_XRM2PLOad",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 240,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 230,
+            "text": "saosnya ok"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "plGl15KtmP",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 271,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 241,
+            "text": "pilihan dagingnya cukup banyak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "kTuTEy80uY",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 352,
+            "labels": [
+              "Negative",
+              "Price"
+            ],
+            "start": 332,
+            "text": "harga yg lebih mahal"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "mLEdLYaUKB",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 383,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 375,
+            "text": "worth it"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "kesini berdua, dannn well the best ayce (belum nyobain gyukaku) sekitar 450 untuk berdua, + favorite adalah chicken karage.   untuk pilihan buffetnya cukup komplit komplit sampe ikan      ama cumi ada dan side dishies yg lain.    saosnya ok pilihan dagingnya cukup banyak - waiting list, kita dateng harus nunggu sekitar sejaman    harga yg lebih mahal dari ayce lainnya but worth it"
+  },
+  "id": 87
+}

@@ -1,0 +1,32 @@
+{
+  "completions": [
+    {
+      "created_at": 1600678571,
+      "id": 64001,
+      "lead_time": 12.83,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "6oRBcfpkWr",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 54,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 32,
+            "text": "small delivery portion"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "roasted rosemary chicken: 6/10 (small delivery portion) carrot cake: 9/10 filet mignon: 7/10 chicken carbonara: 7/10 nasi goreng ayam wijen: 6/10"
+  },
+  "id": 64
+}

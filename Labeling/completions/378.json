@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600679276,
+      "id": 378001,
+      "lead_time": 34.548,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "G_-yKDcGa8",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 229,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 199,
+            "text": "rasanya enak dan ga bikin enek"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "v2syOerPGt",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 258,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 253,
+            "text": "seger"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "D-nKhJV9r-",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 358,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 342,
+            "text": "ambienceny lucuk"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "tempatnya nyempil ,gabung sama papyrus photo. paling favorit untuk pilihan dessert ya gelato. nyari ini di zomato yg katanya reviewny bagus.oke kita coba rasa frozen berry dan blueberry cheese cake. rasanya enak dan ga bikin enek, frozen berry nya juga seger cuma tempat untuk duduk dan nongkrongnya kurang adem apalagi kalo siang hari. tapi ambienceny lucuk. masuk ke papyrus nya juga lucu tempatnya"
+  },
+  "id": 378
+}

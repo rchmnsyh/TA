@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600782577,
+      "id": 256001,
+      "lead_time": 27.668,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "a8ITNTHWMN",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 124,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 100,
+            "text": "porsi makanan nya banyak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "WKgV1sVkp8",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 141,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 126,
+            "text": "menunya beragam"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "u6uXy558Dj",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 162,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 143,
+            "text": "tempatnya juga luas"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "DnibSiwFCS",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 217,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 164,
+            "text": "gak malu-maluin sih kalo rekomendasiin ke temen-temen"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "kalo lagi cari tempat makan yang bisa dipake buat reunian, golden chopstick emang paling cocok sih. porsi makanan nya banyak, menunya beragam, tempatnya juga luas. gak malu-maluin sih kalo rekomendasiin ke temen-temen."
+  },
+  "id": 256
+}

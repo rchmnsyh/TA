@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600679603,
+      "id": 264001,
+      "lead_time": 42.69,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "IdxexPK_pB",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 16,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "tempatnya nyaman"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "PEsjE0Eewn",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 57,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 18,
+            "text": "enak untuk ngobrol sore hari sama teman"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "B64DE3ZWNs",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 78,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 59,
+            "text": "makananny juga enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "2XE65V8hUb",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 112,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 84,
+            "text": "harganya tidak terlalu mahal"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "tempatnya nyaman, enak untuk ngobrol sore hari sama teman. makananny juga enak, dan harganya tidak terlalu mahal. tempatnya agak susah dicari alamatnya tp khas dan sudah lama berdiri dan tetap rame."
+  },
+  "id": 264
+}

@@ -1,0 +1,32 @@
+{
+  "completions": [
+    {
+      "created_at": 1600684674,
+      "id": 166001,
+      "lead_time": 28.051,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "7zSy1ZYrt8",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 359,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 305,
+            "text": "kuah kari nya tuhhh berasa banget pedas dan rempah2nya"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "rumah makan ini udah tahu dan sering dengar dari bipbip, yang katanya enakkkkkkpake buanget. setelah melakukan perjalanan panjang garut-bandung aku dan teman2 cobain ini. tempatnya didekat stasiun gitu sebelah sama perkedel bondon (uhnyamnyam). makan ikan sale, daging cincang, telur dadar... uuuh bener2 kuah kari nya tuhhh berasa banget pedas dan rempah2nya. tapi sayang gak kefoto semua makanannya :\u201d"
+  },
+  "id": 166
+}

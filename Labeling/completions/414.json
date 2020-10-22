@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600678287,
+      "id": 414001,
+      "lead_time": 32.678,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "TbAvaQvMdq",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 73,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 59,
+            "text": "rasanya hambar"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "cXHMwT5d8S",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 115,
+            "labels": [
+              "Negative",
+              "Miscellaneous"
+            ],
+            "start": 103,
+            "text": "cukup kecewa"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "saya baru pertama ke outlet yang ada di riau, entah kenapa rasanya hambar tidak seperti biasanya. saya cukup kecewa dengan pengalaman yang saya rasakan. saya tidak tahu apakah hanya di outlet riau yang seperti ini atau di outlet yang berada di bandung juga seperti ini. saya harap saat saya kembali lagi kesini, pengalaman hari ini tidak terulang. terimakasih"
+  },
+  "id": 414
+}

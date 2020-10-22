@@ -1,0 +1,117 @@
+{
+  "completions": [
+    {
+      "created_at": 1600691772,
+      "id": 347001,
+      "lead_time": 486.4,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "zlET6N92J2",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 30,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "i absolutely love the ambience"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "qzrOK7CAu0",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 61,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 32,
+            "text": "staff were polite and helpful"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Sf3l6YjIOT",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 76,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 63,
+            "text": "food was good"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "2sXCIYdbQN",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 104,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 81,
+            "text": "totally worth the price"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "qoh6jiAhku",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 145,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 106,
+            "text": "the place itself is quiet big and clean"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "X1gkY2w6LP",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 162,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 147,
+            "text": "coffee was nice"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "i absolutely love the ambience. staff were polite and helpful. food was good and totally worth the price. the place itself is quiet big and clean. coffee was nice."
+  },
+  "id": 347
+}

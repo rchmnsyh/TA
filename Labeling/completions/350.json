@@ -1,0 +1,117 @@
+{
+  "completions": [
+    {
+      "created_at": 1600516624,
+      "id": 350001,
+      "lead_time": 208.635,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "10F0bsG5nk",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 155,
+            "labels": [
+              "Negative",
+              "Ambience"
+            ],
+            "start": 126,
+            "text": "kurang suka sama lighting nya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "l8okekUfm0",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 115,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 100,
+            "text": "konsepnya bagus"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "7lIfDTFucj",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 260,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 228,
+            "text": "menu yang disediakan pun beragam"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "IliHahTRrb",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 347,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 334,
+            "text": "semuanya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "-uLxIkLTjE",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 393,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 374,
+            "text": "sayangnya gak segar"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "VRSsPRdoHB",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 422,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 395,
+            "text": "paling manteb sama harganya"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "tahun lalu gw janjian sama temen lama untuk cobain salah satu fine dining baru yang ada di bandung. konsepnya bagus sih, cuma kurang suka sama lighting nya karena kesan nya suram dengan decornya yang kebanyakan berwarna putih.  menu yang disediakan pun beragam, dari lokal hingga western. aku nyobain steak, sop iga, butter rice yang semuanya enak. waktu pesan orange juice sayangnya gak segar. paling manteb sama harganya, dengan 4 pax makan + minum aku ngabisin kurang dari 500 ribu. best value buat kamu yang mau romantic dinner!   ig : @makansamaoki | #makansamaoki"
+  },
+  "id": 350
+}

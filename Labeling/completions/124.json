@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600788064,
+      "id": 124001,
+      "lead_time": 19.027,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Om9VDEBKpJ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 26,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 11,
+            "text": "enak makanannya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "H4ypJ1inCU",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 68,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 34,
+            "text": "chicken basil rasanya sedikt tawar"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ABpDLzGZOF",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 131,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 119,
+            "text": "pasta enakkk"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "sebenernya enak makanannya, tp yg chicken basil rasanya sedikt tawar, gurihnya sih dapet, jd harus nambah salt sndiri. pasta enakkk, mungkin lebih enak kalau dagingnya medium jangan well done"
+  },
+  "id": 124
+}

@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600679687,
+      "id": 15001,
+      "lead_time": 83.742,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "EWChkRdc6Z",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 56,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 36,
+            "text": "rasanya biasa banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "RlZY-VTCN4",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 120,
+            "labels": [
+              "Negative",
+              "Miscellaneous"
+            ],
+            "start": 58,
+            "text": "reviewnya berlebihan sampe blg martabak nya enak banget banget"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "pesen martabak pandan jagung keju . rasanya biasa banget. reviewnya berlebihan sampe blg martabak nya enak banget banget."
+  },
+  "id": 15
+}

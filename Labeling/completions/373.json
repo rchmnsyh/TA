@@ -1,0 +1,355 @@
+{
+  "completions": [
+    {
+      "created_at": 1600678999,
+      "id": 373001,
+      "lead_time": 247.134,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Urz6WwZzCB",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 284,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 268,
+            "text": "juicy dan lembut"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "9NVCeoGpM7",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 310,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 304,
+            "text": "nikmat"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "NWynkqg65E",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 347,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 333,
+            "text": "maknyus banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "uxYbFlgHre",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 406,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 371,
+            "text": "garing nikmat serta tidak berminyak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ngdVK0K7a_",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 443,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 428,
+            "text": "enak dan lembut"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "J4Zdfo_eR1",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 478,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 466,
+            "text": "fresh banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "SGTadESkqQ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 510,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 504,
+            "text": "nikmat"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "LzNJcQu5Il",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 619,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 600,
+            "text": "lembut juicy nikmat"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "a3BypmvuIx",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 682,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 649,
+            "text": "enak garing serta tidak berminyak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Vd6R69_LT9",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 745,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 733,
+            "text": "fresh banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "gWW7ZxqGJt",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 859,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 853,
+            "text": "lembut"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "7Ie7pAPwj7",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 904,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 886,
+            "text": "juicy lembut empuk"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "0IzadQDooP",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 928,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 923,
+            "text": "fresh"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "0oYxNkSajp",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 964,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 957,
+            "text": "maknyus"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "7IviqIr_LO",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1008,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 989,
+            "text": "menambah kenikmatan"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "9_YriTYHMy",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1110,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 1098,
+            "text": "fresh banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "AOHzIXkLdu",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1134,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 1119,
+            "text": "tidak berminyak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "gGYcVoXFPB",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1160,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 1139,
+            "text": "bumbunya yang meresap"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "N-gTMeadJp",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1200,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 1187,
+            "text": "nikmat banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "yogZAuhIQ9",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1333,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 1273,
+            "text": "pilihan makanan dan minumannya banyak banget dan menggiurkan"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "#cewekrakus seneng banget diculik ke @justussteakhouse ,jadi pengen kode deh buka di jakarta ehhhhh  . walaupun baru adanya di bandung doang tapi ini ngak kalah enak dan recommended . cus kesini lagi .  .  germany platter ( 4,2/5 ;  68k) isi : grilled beef patty yang juicy dan lembut + smoked beef yang nikmat + beef bratwurst yang maknyus banget + breaded chicken yang garing nikmat serta tidak berminyak + mashed potato yang enak dan lembut + balsamic salad yang fresh banget + blackpepper sauce yang nikmat (ditambah tabasco dan saus sambal semakin nikmat)   aussie tenderloin steak 200gr ( 4/5) lembut juicy nikmat ; ditambah french fries yang enak garing serta tidak berminyak + sauted spring bean corn onion grill tomato yang fresh banget + saus mushroom yang menambah kenikmatan    blackpepper beef fettuccine ( 44k  4,1/5 ) fettuccine nya yang lembut ditambah daging sapi yang juicy lembut empuk lalu sayuran yang fresh serta saus blackpepper yang maknyus serta garlic bread yang menambah kenikmatan . perpaduan yang sangat pas .    seafood platter (89k  4,2/5) salmon dory udang cumi nya fresh banget , serta tidak berminyak dan bumbunya yang meresap . serta saus kejunya yang nikmat banget , ditambah saus sambel semakin nikmat .  .  @justussteakhouse  . disini pilihan makanan dan minumannya banyak banget dan menggiurkan . asyiknya kalian bisa pilih untuk di steak kalian sesuai selera kalian mulai dari kentang (french  fries , potato wedges , mashed potato) , sayuran (balsamic salad , sauted spring bean corn onion grill tomato) , dan sauce (barbeque , blackpepper , mushroom) . asyiknya kalian juga bisa pilih tingkat kematengan pada steak kalian ."
+  },
+  "id": 373
+}

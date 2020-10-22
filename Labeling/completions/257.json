@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600787311,
+      "id": 257001,
+      "lead_time": 42.345,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "1OxgH6d_Yg",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 23,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "yamin asiiin terfavorit"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "KIMfGGmdIT",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 82,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 51,
+            "text": "enak banget sambelnya juga unik"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "xy_3rY2DzW",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 157,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 121,
+            "text": "tempatnya jg vintage2 gt lucu banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "l5ZpBqmQuC",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 211,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 189,
+            "text": "harganya jg affordable"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "yamin asiiin terfavorit! ga ngerti lagi kenapa ini enak banget sambelnya juga unik, pedes, cocok bgt sama yamin asinnya. tempatnya jg vintage2 gt lucu banget ga kaya tempat makan mie ayam. harganya jg affordable! selalu yg terpertama kucari kalau ke bandung!"
+  },
+  "id": 257
+}

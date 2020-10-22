@@ -1,0 +1,32 @@
+{
+  "completions": [
+    {
+      "created_at": 1600688814,
+      "id": 39001,
+      "lead_time": 16.945,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "svjmoCXhML",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 294,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 259,
+            "text": "untuk rasaaa ga usah diragukan lagi"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "disini di bagi beberapa menu, ada menu breakfast, lunch, dinner... jadi makanannya tergantung kapan kita dateng kesana... sejujurnya lebih menggiurkan menu lunch  but, pas kesana, masih jam nya breakfast...  : crocket crab salmon  : start from 30 for food  : untuk rasaaa ga usah diragukan lagi sih, mantulllll semoga lain kali bisa datang saat menu lunch "
+  },
+  "id": 39
+}

@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600782244,
+      "id": 78001,
+      "lead_time": 19.533,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "mgMYI8H0JV",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 21,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 0,
+            "text": "galak banget orangnya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "lcYyQmqk2A",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 94,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 51,
+            "text": "attitude mas2 & mba2 asistennya lebih ramah"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "galak banget orangnya, padahal rasanya biasa aja.. attitude mas2 & mba2 asistennya lebih ramah sedangkan yg punyanya malah ketus dan emosian"
+  },
+  "id": 78
+}

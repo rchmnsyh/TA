@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600788502,
+      "id": 383001,
+      "lead_time": 103.73,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "EqBy36ckFA",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 70,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 56,
+            "text": "tempatnya lucu"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "kjIPdhIh-L",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 101,
+            "labels": [
+              "Negative",
+              "Ambience"
+            ],
+            "start": 84,
+            "text": "aga kurang bersih"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "xUKzroIjqd",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 321,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 300,
+            "text": "strawberrynya segerrr"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "karna seneng banget sm ice cream jadi kesini deh, untuk tempatnya lucu, cuma sayang aga kurang bersih ajaaaa waktu aku dateng.  harga yang aku pesen di foto 30ribuan, dengan cone dan bisa pilih 2 rasa, kl belum tau rasa ice cream nya bisa cobain dululoh karena banyak pilihanya! yang rasa yakult dan strawberrynya segerrr cocok bgt kalo lg panas"
+  },
+  "id": 383
+}

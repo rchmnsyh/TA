@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600683506,
+      "id": 168001,
+      "lead_time": 42.951,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "ZhfCzPka6S",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 112,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 37,
+            "text": "this is the best dendeng batokok (beef with green chilies) that you can get"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "e_cWQED9RY",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 250,
+            "labels": [
+              "Negative",
+              "Ambience"
+            ],
+            "start": 231,
+            "text": "small, untidy place"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "apart from actually going to padang, this is the best dendeng batokok (beef with green chilies) that you can get. i have toured all the famous padang restaurants in bandung and jakarta, and the dendeng batokok sold by this humble, small, untidy place trumps them all.  i have heard that their secret is actually sourcing their green chilies and red onions from padang itself. if that's true, no wonder it's so delicious.  if you are from jakarta and travel to bandung via trains, this humble place is only a few minutes of walking away from the bandung station."
+  },
+  "id": 168
+}

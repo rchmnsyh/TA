@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600678499,
+      "id": 361001,
+      "lead_time": 38.914,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "gLfPlzC434",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 224,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 200,
+            "text": "dessertnya tidak menarik"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "GqOFIKr1E6",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 156,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 119,
+            "text": "sushi isinya hanya wortel dan bonteng"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "mmmm ngajak makan emak karena ud blenger makanan santan. dari foto2 sih tampak menarik..tapi tak semudah itu maemunah, sushi isinya hanya wortel dan bonteng *lha gw kaya kappa* dagingnya sih not bad..dessertnya tidak menarik minat bakat, dan sisanya b tp ya not bad"
+  },
+  "id": 361
+}

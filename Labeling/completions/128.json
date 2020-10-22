@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600783189,
+      "id": 128001,
+      "lead_time": 62.735,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Ueos0-h_Ba",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 212,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 190,
+            "text": "interior nya ok banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "zXZ4xkyK63",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 234,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 213,
+            "text": "pencahayaan mendukung"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "kgzZbcgJ7D",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 285,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 257,
+            "text": "staff nya ckup ramah menyapa"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "-yVWETC_-A",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 313,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 287,
+            "text": "ambience juga cukup tenang"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "first timer here, dari luar keliatan kecil tapi begitu masuk ada lorong panjang dan cukup luas ada indoor dan outdoor, pilih yang indoor ada sofa dan bantalan kursi yang empuk buat santai2, interior nya ok banget pencahayaan mendukung, disediain air putih, staff nya ckup ramah menyapa, ambience juga cukup tenang"
+  },
+  "id": 128
+}

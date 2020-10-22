@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600684556,
+      "id": 59001,
+      "lead_time": 37.407,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "BHKoCfkEid",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 39,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 17,
+            "text": "lebih suka ambiencenya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "y0LKR6jGJT",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 150,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 127,
+            "text": "makanannya juga lumayan"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "reSYGmiF3i",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 168,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 152,
+            "text": "overall good sih"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "kalau disini aku lebih suka ambiencenya. dinner disini bawaannya tenang aja pas kesini mungkin waktunya juga lagi pas kali ya. makanannya juga lumayan. overall good sih ini"
+  },
+  "id": 59
+}

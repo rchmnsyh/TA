@@ -1,0 +1,100 @@
+{
+  "completions": [
+    {
+      "created_at": 1600684519,
+      "id": 231001,
+      "lead_time": 530.786,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "sgm_kWTxC1",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 14,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "ceker nya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "4qedLpKNhQ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 39,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 16,
+            "text": "yamin nya terlalu manis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Gh75p2u3NE",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 97,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 41,
+            "text": "kirain porsi banyak kaya yg di review ternyata biasa aja"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "lEt71uxVek",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 169,
+            "labels": [
+              "Negative",
+              "Price"
+            ],
+            "start": 154,
+            "text": "harga nya mahal"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "JWx1ZeTRLN",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 152,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 143,
+            "text": "dikit bgt"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "ceker nya enak. yamin nya terlalu manis. kirain porsi banyak kaya yg di review ternyata biasa aja. pesen 1/2 porsi takut kebanyakan, gatau nya dikit bgt. harga nya mahal"
+  },
+  "id": 231
+}

@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600785522,
+      "id": 333001,
+      "lead_time": 21.251,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "3_w4BP_l07",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 23,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "suasana malamnya nyaman"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "EuGSxfRRwy",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 51,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 26,
+            "text": "makanannya nyaman dilidah"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "IBUZ_tIGA5",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 85,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 53,
+            "text": "porsi bnr bnr berlimpah ga pelit"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "suasana malamnya nyaman.. makanannya nyaman dilidah, porsi bnr bnr berlimpah ga pelit, nasi goreng saja tersaji enak bgt apalagi menu yg lain.. cumi hitamnya masyaallah... legittt!!"
+  },
+  "id": 333
+}

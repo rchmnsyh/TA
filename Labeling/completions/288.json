@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600692635,
+      "id": 288001,
+      "lead_time": 40.148,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "h90TtfFnaJ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 13,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "good ambience"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "K-EDHfhU--",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 398,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 348,
+            "text": "most of the sushi, are getting smaller and smaller"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "M9e7Tx9dBc",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 459,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 413,
+            "text": "the quality of the fish were somehow different"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "good ambience, suitable for family gathering or just simply enjoy their sushi by yourself or with friends.   better reserve before you come, but if you are okay with long list of queue, you can come and wait to be seated.   even though i enjoy the ambience, i suggest they to have a quality control for their sushi. i realized that some, i can say most of the sushi, are getting smaller and smaller. in addition, the quality of the fish were somehow different from what i have on my mind."
+  },
+  "id": 288
+}

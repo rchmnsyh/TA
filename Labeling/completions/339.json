@@ -1,0 +1,185 @@
+{
+  "completions": [
+    {
+      "created_at": 1600516099,
+      "id": 339001,
+      "lead_time": 91.925,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "f48ba8ZqBX",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 23,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 7,
+            "text": "tempatnya nyaman"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "BsA-QUl8f3",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 52,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 25,
+            "text": "adem karena banyak pohonnya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "NfPbhXyU3L",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 78,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 58,
+            "text": "bagus buat foto-foto"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Vbtw59Ng7k",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 193,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 165,
+            "text": "tempat parkirnya juga banyak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "JcC0nzFroT",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 229,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 195,
+            "text": "toilet dan mushollanya juga bersih"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "VSvFvlhe2e",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 341,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 321,
+            "text": "ayamnya enak bangett"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "APEEjgwIzG",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 418,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 390,
+            "text": "sambelnya berlimpah ga pelit"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "yql8l_ZxTg",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 439,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 423,
+            "text": "pedesnya lumayan"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "iW6oRDZrkp",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 582,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 557,
+            "text": "overall aku sukaa ayamnya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "5-xaeFsocQ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 620,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 605,
+            "text": "dagingnya empuk"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "place: tempatnya nyaman, adem karena banyak pohonnya, dan bagus buat foto-foto. mejanya juga banyak dan waktu itu kesini pas weekday makan siang jd ga terlalu rame. tempat parkirnya juga banyak. toilet dan mushollanya juga bersih makanan: disini aku pesen ayam goreng santai sambel bledek (45k) dan lidah cabe ijo (55k). ayamnya enak bangett kulitnya gurih gorengnya sampe yg krispy gt dan sambelnya berlimpah ga pelit dan pedesnya lumayan kl yg gasuka pedes mungkin akan kepedesan dan ada sayur kacang panjangnya nah ini sayurnya lebih pedes dari ayamnya. overall aku sukaa ayamnya kedua lidah cabe ijo, dagingnya empuk dan satu porsi isinya ada 6 daging, untuk cabe ijonya menurutku lebih cenderung manis ga pedes."
+  },
+  "id": 339
+}

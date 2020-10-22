@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600682074,
+      "id": 220001,
+      "lead_time": 30.201,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "0-14qTqfdf",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 67,
+            "labels": [
+              "Negative",
+              "Ambience"
+            ],
+            "start": 53,
+            "text": "ga sebagus itu"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "qaHKsDxKYt",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 467,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 437,
+            "text": "cappuccino nya enak bangeeeeet"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "kesini karena kepo katanya tempatnya bagus, ternyata ga sebagus itu juga sih haha but still cute. karena sebelumnya udah makan, akhirnya numpang ngopi dan ngemil aja disini dengan mesen: 1. hara choco berry:35.000 2. cappuccino double shot: 38.000 3. cassava grated coconut:30.000 total semuanya dengan tax dan service charge 119.000. yg gue suka dari tempat ini malah playlist lagunya, enak2 ayak sylo nozra dll dan gue sesuka itu sama cappuccino nya enak bangeeeeet! buat yg suka kopi wajib coba cappuccino double shot nya!"
+  },
+  "id": 220
+}

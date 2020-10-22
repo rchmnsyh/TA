@@ -1,0 +1,100 @@
+{
+  "completions": [
+    {
+      "created_at": 1600516006,
+      "id": 331001,
+      "lead_time": 55.009,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "oKq0g41oV0",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 54,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 46,
+            "text": "enak bgt"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "DHnLzljB7k",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 188,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 176,
+            "text": "porsi banyak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "V6YcT65F6E",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 211,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 190,
+            "text": "pangsit kuah nya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "4dslo1WKdV",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 242,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 213,
+            "text": "variant mie lainnya juga enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "S2PZ1pYVPi",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 255,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 244,
+            "text": "recommended"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "mie rica pedasnya emang yang menu originalnya enak bgt pedas dan gurih (daging babi) jadi untuk yang cari halal food tidak cocok dengan tempat ini ya. harganya kisaran 35rb an porsi banyak. pangsit kuah nya enak. variant mie lainnya juga enak. recommended dan bukanya dibagi bagi ya jam 2-4 istrahat mulai lagi jam 5-8 malam"
+  },
+  "id": 331
+}

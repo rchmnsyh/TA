@@ -1,0 +1,151 @@
+{
+  "completions": [
+    {
+      "created_at": 1600787499,
+      "id": 338001,
+      "lead_time": 70.927,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "fBA7XzaOwI",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 241,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 205,
+            "text": "all the food is yummy, even so yummy"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "BjQH4tmVDO",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 263,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 244,
+            "text": "love the atmosphere"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "VFIS2qCR_6",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 299,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 292,
+            "text": "so cozy"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ToaOW-c-ID",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 350,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 302,
+            "text": "all the staffs were nice, helpful and responsive"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "VZf_-L-ZC-",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 427,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 394,
+            "text": "cumi lada garam was cut too thick"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ePz6MAZV8X",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 453,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 429,
+            "text": "difficult to eat / chew "
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "w25XaPD2e0",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 521,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 483,
+            "text": "the meat at sup iga was hard and chewy"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "-EAeeHqGK-",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 539,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 523,
+            "text": "difficult to eat"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "on our way to our hotel (intercontinental) and found akasya teras as good option to have lunch.. we ordered tumis bunga pepaya, sup iga, cumi lada garam, chicken salted egg & cakalang rica.. surprisingly, all the food is yummy, even so yummy ! love the atmosphere too.. it's semi outdoor and so cozy.. all the staffs were nice, helpful and responsive.. but i have some comments to be noted : - cumi lada garam was cut too thick, difficult to eat / chew (tapi secara rasa enak yah) - the meat at sup iga was hard and chewy, difficult to eat (secara rasa sudah enak) overall, i love this restaurant and will definitely recommend it to my friends"
+  },
+  "id": 338
+}

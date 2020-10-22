@@ -1,0 +1,32 @@
+{
+  "completions": [
+    {
+      "created_at": 1600506751,
+      "id": 184001,
+      "lead_time": 13.659,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "brn5LD5MIo",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 40,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 9,
+            "text": "makanan nya enak banget pokonya"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "all meat makanan nya enak banget pokonya.. premium buffer good... pelayanan dari mba kokom mba metamas dani mas harus baik dan ramah,,,,,,,,,,"
+  },
+  "id": 184
+}

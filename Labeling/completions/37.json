@@ -1,0 +1,52 @@
+{
+  "completions": [
+    {
+      "created_at": 1600788937,
+      "id": 37001,
+      "lead_time": 122.963,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Rts6CRq4jN",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 279,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 256,
+            "text": "pelayanan sangat lambat"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "atpxr1XwQF",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 302,
+            "labels": [
+              "Negative",
+              "Miscellaneous"
+            ],
+            "start": 281,
+            "text": "definetly not wort it"
+          }
+        }
+      ],
+      "skipped": false,
+      "was_cancelled": false
+    }
+  ],
+  "data": {
+    "text": "kita pesen chicken parmagiana, tunggu 40 menit masih belum datang2,saya complaint staff nya bilang belum dibuat,malah orang yang baru datang makanan nya sudah datang dan mereka mengakui,tunggu 10 menit lg masih belum datang2, disuruh nunggu 10 menit lg ,, pelayanan sangat lambat! definetly not wort it"
+  },
+  "id": 37,
+  "predictions": []
+}

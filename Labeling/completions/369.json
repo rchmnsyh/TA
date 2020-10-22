@@ -1,0 +1,100 @@
+{
+  "completions": [
+    {
+      "created_at": 1600689676,
+      "id": 369001,
+      "lead_time": 32.416,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "v7eIiaba-v",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 16,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "makanan nya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "OqTizS_Dz9",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 46,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 23,
+            "text": "harga nya juga worth it"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ju-VU_sf_5",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 73,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 49,
+            "text": "musholla nya juga bersih"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "F_k-f2zEVu",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 84,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 78,
+            "text": "nyaman"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "2943qYH8zf",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 119,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 86,
+            "text": "nanti bakal balik lagi deh kesini"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "makanan nya enak untuk harga nya juga worth it , musholla nya juga bersih dan nyaman, nanti bakal balik lagi deh kesini ....................."
+  },
+  "id": 369
+}

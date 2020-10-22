@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600679799,
+      "id": 298001,
+      "lead_time": 39.809,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "SHUmqyQNlX",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 176,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 164,
+            "text": "kecil banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "MPE-SiL69X",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 258,
+            "labels": [
+              "Negative",
+              "Price"
+            ],
+            "start": 239,
+            "text": "harga lumayan mahal"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "8bJdx-U-WM",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 286,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 271,
+            "text": "pelayanan ramah"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "2D258Qumib",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 301,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 288,
+            "text": "tempat nyaman"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "kesini untuk nongkrong dan ngemil, saat pandemi protokol kesehatannya oke, dibatasi satu jam per kloter pengunjung. order snack cumi cabe garam, untuk harga segitu kecil banget, kayanya cuma satu cumi kecil dipotong-potong terus digoreng  harga lumayan mahal. selebihnya pelayanan ramah, tempat nyaman"
+  },
+  "id": 298
+}

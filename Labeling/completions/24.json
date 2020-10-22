@@ -1,0 +1,100 @@
+{
+  "completions": [
+    {
+      "created_at": 1600682173,
+      "id": 24001,
+      "lead_time": 67.902,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "kwns3mjfuT",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 29,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 2,
+            "text": "really love their milkshake"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "pySwQztQZE",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 119,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 98,
+            "text": "rasa manisnya tuh pas"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "DKE9OOqnCe",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 175,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 132,
+            "text": "salmon sambal matah mereka juga enak banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "uQpz4uSHgP",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 211,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 187,
+            "text": "they grilled it overcook"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "7L38iY9KvF",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 400,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 369,
+            "text": "i\u2019ll come back soon after covid"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "i really love their milkshake! especially the marie regal one. the creaminess to the fullest, dan rasa manisnya tuh pas. selain itu salmon sambal matah mereka juga enak banget. sayangnya they grilled it overcook. and i love salmon when it\u2019s still medium rare. tapi kesalahan ada di aku karna ga minta tingkat kematangan but they should ask the customer about it first. i\u2019ll come back soon after covid, no regrets."
+  },
+  "id": 24
+}

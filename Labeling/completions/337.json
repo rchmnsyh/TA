@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600785501,
+      "id": 337001,
+      "lead_time": 17.237,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "_aTwD8LR9D",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 64,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 25,
+            "text": "tempatnya asik dan bagus buat foto foto"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "cePmBVcNfT",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 96,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 70,
+            "text": "pelayanan nya sangat ramah"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "kalo kesini betah karena tempatnya asik dan bagus buat foto foto, dan pelayanan nya sangat ramah loh, untuk wifinya ada tapi engga aku pakai si karena aku bawa mifi smartfren, hehehe oia rekomen ni !!!"
+  },
+  "id": 337
+}

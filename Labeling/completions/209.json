@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600788212,
+      "id": 209001,
+      "lead_time": 21,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "8k_UnGw7Gm",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 23,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 0,
+            "text": "kecewa sm pelayanan nya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "P3Y3oZjRsK",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 126,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 92,
+            "text": "pelayanan yg lain nya sangat ramah"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "kecewa sm pelayanan nya kmrn ada mba2 namanya mba via dia ga menghargai tamu sama sekali,tp pelayanan yg lain nya sangat ramah"
+  },
+  "id": 209
+}

@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600783540,
+      "id": 77001,
+      "lead_time": 27.429,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "3nksTCrEVP",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 142,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 118,
+            "text": "porsinya cukup banyaakkk"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "94vu3eIZLu",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 166,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 144,
+            "text": "rasanyaaaa mantulitaaa"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "MNHMMfbmtC",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 187,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 168,
+            "text": "daging babinya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "7LVs717NpF",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 213,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 189,
+            "text": "ga pelit2 kasih porsinya"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "kalau ada yang nanya, makan nasi campur di bandung enaknya dimana. jawabannya yaitu nasi campur 88. kenapaaa?  karena porsinya cukup banyaakkk, rasanyaaaa mantulitaaa, daging babinya enak, ga pelit2 kasih porsinya  antrian kalau agak malem dan weekend udah panjangggg wkwk kalau males bisa online aja si paling"
+  },
+  "id": 77
+}

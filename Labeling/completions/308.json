@@ -1,0 +1,304 @@
+{
+  "completions": [
+    {
+      "created_at": 1600784398,
+      "id": 308001,
+      "lead_time": 181.227,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "x54edtOHj-",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 46,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "one of the coziest place to hang out and chill"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "xJX408oaKd",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 88,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 76,
+            "text": "cukup nyaman"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "eMVWsuytHJ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 259,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 218,
+            "text": "tempatnya sangat chill dan instagrammable"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "iCa98JSguH",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 417,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 376,
+            "text": "pelayanan disini sangat baik dan membantu"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "X4bebgRE08",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 538,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 451,
+            "text": "mbak dan masnya sangat baik membantu menginformasikan apapun yang terjadi pada customer"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "d33E_lYRSC",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 759,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 737,
+            "text": "banyak variasi makanan"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "3uQN3qgrh1",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1051,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 1000,
+            "text": "caramel latte-nya dikemas sangat cantik dan menarik"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "q916aPIxCW",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1234,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 1197,
+            "text": "porsi dari lattenya pun tidak sedikit"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "S4y8uvYU36",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1295,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 1267,
+            "text": "rasanya memuaskan lidah saya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "W9xJw5JiQN",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1388,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 1350,
+            "text": "avocado croissant-nya one of the best!"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "8OAX8lQV_2",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1447,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 1414,
+            "text": "kurang suka tekstur croissant-nya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "4AJRdcJqm2",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1503,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 1454,
+            "text": "filling coffee dan avocadonya juara dunia akhirat"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "F_7YvByBgi",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1962,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 1951,
+            "text": "sangat enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "OjPoLN8o9D",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2132,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 2120,
+            "text": "rasanya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "XRJ7a1JGxF",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2169,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 2149,
+            "text": "rollnya kurang panas"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ufQGbMOHF0",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2300,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 2284,
+            "text": "asam-manis-seger"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "W-Z2D5UJ7F",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 2594,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 2575,
+            "text": "kembali lagi? pasti"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "one of the coziest place to hang out and chill!  tempatnya nyaman dan luas, cukup nyaman untuk jumlah besar. tersedia area indoor yang tidak terlalu banyak seatingnya dan area outdoor yang paling luas menghadap kolam. tempatnya sangat chill dan instagrammable. kalau malam malam datang kemari, akan sangat nyaman untuk menikmati malam sambil mengobrol bersama sahabat dekat.  pelayanan disini sangat baik dan membantu, tidak mengecewakan sama sekali. mbak dan masnya sangat baik membantu menginformasikan apapun yang terjadi pada customer (i.e. ada makanan yang terlambat datang atau kosong)   buku menunya cukup tebal, sehingga cukup memakan waktu bagi pelanggan untuk bisa memutuskan mau pesan apa, sisi baiknya adalah pelanggan punya banyak variasi makanan untuk dipertimbangkan. menu mereka pun ramah anak, karena tersedia menu bento, kalau kalau orang tua pusing memilihkan makanan untuk anak.  saat kemari, saya memesan caramel latte (rp32.000,-) dan avocado and coffee croissant (rp30.000,-)  caramel latte-nya dikemas sangat cantik dan menarik. kalau yang paling basic baristanya akan menghias latte dengan motif hati atau daun, saya menerima latte bergambar wajah kelinci. manis sekali!  porsi dari lattenya pun tidak sedikit, namun tidak banyak. untungnya, rasanya memuaskan lidah saya. tidak terlalu pahit namun tidak terlalu manis. pas.  avocado croissant-nya one of the best! walaupun sebenarnya saya kurang suka tekstur croissant-nya, tapi filling coffee dan avocadonya juara dunia akhirat! senikmat itu! kalau saja adonan croissant-nya bisa senikmat milik ambrogio pattiserie, saya akan berlangganan croissant disini  tapi, memang semuanya ada plus dan minusnya. tapi jujur, urusan isian croissant disini ter nikmat.  lalu, pastinya saya tidak pernah melupakan untuk mencicipi kue dan minuman yang teman teman saya pesan, supaya ada perbandingan. saya sempat mencoba le sultan, yang merupakan satu slice kue cokelat berlapis lapis, dan sangat enak! apalagi bagian paling bawahnya yang mengingatkannsaya pada kue milik the harvest. (rp31.000,-)  juga saya coba granola cinnamon roll milik kawan saya, yang rasanya enak, tapi sayangnya rollnya kurang panas. karena terasa dingin di tengah tengah roll-nya (rp20.000,-)  satu lagi, saya juga sempat mencoba mojito-nya yang asam-manis-seger!! paling cocok memang untuk dipesan pada siang hari. (rp35.000,-)  n.b. harga belum termasuk service 5% dan pajak restoran 10% n.b.b. noah's barn ini punya beberapa cabang, rasa dan pelayanan tidak jamin sama  overall: rasa 8.75 /10.00 harga 8.00/10.00 pelayanan 9.00/10.00 kembali lagi? pasti!"
+  },
+  "id": 308
+}

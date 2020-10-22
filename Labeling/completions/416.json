@@ -1,0 +1,32 @@
+{
+  "completions": [
+    {
+      "created_at": 1600693320,
+      "id": 416001,
+      "lead_time": 18.839,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "K3LhZNvO6d",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 116,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 82,
+            "text": "crumblenya nambah tekstur di lidah"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "rasa-rasa favorit yg biasa dipesan... ada manisnya ada asemnya dari strawberry... crumblenya nambah tekstur di lidah jd ga monoton.. nyaamm..."
+  },
+  "id": 416
+}

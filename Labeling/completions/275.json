@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600692041,
+      "id": 275001,
+      "lead_time": 212.36,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "qii0w5nIcj",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 112,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 77,
+            "text": "terbaik dari segi rasa dan kualitas"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "kOSho40y7T",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 223,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 189,
+            "text": "gak ada yang bisa ngalahin rasanya"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "untuk yang suka sushi atau sashimi sih menurut saya sushi tei merupakan yang terbaik dari segi rasa dan kualitas. apalagi kalau pesan sashimi salmon belly yang merupakan menu favorit saya, gak ada yang bisa ngalahin rasanya. memang dari segi harga sushi tei berada di atas kompetitornya, but hey dapet free ocha loh jadi bisalah budget minuman dialihkan ke makanan."
+  },
+  "id": 275
+}

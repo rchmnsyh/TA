@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600683667,
+      "id": 5001,
+      "lead_time": 27.233,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "5nmQ9huNdT",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 167,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 133,
+            "text": "servicenya juga cepet dan gak lama"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "z2Yn4E0QRU",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 130,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 84,
+            "text": "worth it bangetttt will be back here very soon"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "akhirnyaaa nyobain juga, mesen se\u2019i sapi yg sambel ijo, sambel lu\u2019at & blackpepper, worth it bangetttt will be back here very soon!! servicenya juga cepet dan gak lama, waiting list juga engga pake lama"
+  },
+  "id": 5
+}

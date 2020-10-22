@@ -1,0 +1,32 @@
+{
+  "completions": [
+    {
+      "created_at": 1600681651,
+      "id": 279001,
+      "lead_time": 21.084,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "HlgmtNwPJ7",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 165,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 143,
+            "text": "always love this resto"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "sepertinya sushi tei masih jadi favoritku diantara resto fushion sushi yg lain. wakame salad juga fav ku buat seimbangin rasa amis dari sushi  always love this resto. keep it up"
+  },
+  "id": 279
+}

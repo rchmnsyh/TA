@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600788167,
+      "id": 160001,
+      "lead_time": 19.573,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "nU_uUfWhot",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 56,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 47,
+            "text": " enak bgt"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "DvEyYUdijV",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 118,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 95,
+            "text": "dendeng batokoknya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "JoYn6u54ah",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 153,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 125,
+            "text": "nasi putihnya gaterlalu enak"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "pernah 3x ngegofood gule tunjangnya, yg pertama enak bgt selanjutnya antara enak dan biasa aja dendeng batokoknya enak  tapi nasi putihnya gaterlalu enak (yang di nasi ramesnya, gatau kl makan langsung blm pernah)"
+  },
+  "id": 160
+}

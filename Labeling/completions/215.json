@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600692568,
+      "id": 215001,
+      "lead_time": 17.516,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "6Hs9-LIxC6",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 23,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "makanan nya top bangett"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "yWNHExw0MP",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 40,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 24,
+            "text": "tempat nyaa okee"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "makanan nya top bangett tempat nyaa okee. saya sangat suka makan di shabuhachi. makanan all you can eat yang paling enak di bandung ya shabuhachii. adaiin cumii dong hehehe"
+  },
+  "id": 215
+}

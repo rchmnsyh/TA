@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600516911,
+      "id": 21001,
+      "lead_time": 25.444,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "wsEMc4n_F3",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 140,
+            "labels": [
+              "Negative",
+              "Miscellaneous"
+            ],
+            "start": 124,
+            "text": "not coming again"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "0pMwHOCYyk",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 77,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 61,
+            "text": "mana lama bgt lg"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "beli omelette sama nasi salmon yg dtg cmn omelette nya doang mana lama bgt lg. mau beli layered cake best sellernya kosong. not coming again."
+  },
+  "id": 21
+}

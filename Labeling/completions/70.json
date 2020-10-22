@@ -1,0 +1,117 @@
+{
+  "completions": [
+    {
+      "created_at": 1600788146,
+      "id": 70001,
+      "lead_time": 58.939,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "c777tsK_jq",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 194,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 181,
+            "text": "currynya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "O7WQc22Uih",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 321,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 282,
+            "text": "chicken katsunya juga sesuai ekspektasi"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "uTnJlXD3kJ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 359,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 323,
+            "text": "guring gqring di luar empuk di dalam"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "K-QzpNnSbA",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 421,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 397,
+            "text": "enak dibumbui dengan pas"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "lJEORKKgkW",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 623,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 598,
+            "text": "enak dan lembut pudingnya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "BBHf9Guh8p",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 801,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 769,
+            "text": "harga mkaanannya juga masuk akal"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "awalnya ke sini iseng aja karena abis mampir di setiabudhi supermarket.. tadinya nyari cawanmushi buat anak saya..tapi sayang menu itu ga ada. akhirnya memutuskan nyobain currynya..currynya enak,disajikan di piring tahan panas jd awet panasnya..toppingnya saya pilih chicken katsu..chicken katsunya juga sesuai ekspektasi..guring gqring di luar empuk di dalam. lalu nyobain agedashi tofunya juga..enak dibumbui dengan pas..suami si nyoba okonomiyaki,cuma saya ga ikut nyobain jadi ga bisa komentar..  yg jadi favorit sih annin puddingnya ya..dibuat dari almond milk..diberi topping bubble sedikit..enak dan lembut pudingnya..ga terlalu manis kyk yg saya takutin..anak saya sih tapi lbh suka yg mango puddingnya..karena mungkin lbh manis dan cocok di lidah anak.  rata2 harga mkaanannya juga masuk akal..saya berniat dtg lagi ke resto ini..penasaran dg menu kuah2nya..sepertinya cocok dinikmati saat bandung lagi dingin dinginnya seperti ini"
+  },
+  "id": 70
+}

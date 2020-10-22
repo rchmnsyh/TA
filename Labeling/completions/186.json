@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600782549,
+      "id": 186001,
+      "lead_time": 19.339,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "3Ox3_yNANU",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 36,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 21,
+            "text": "bagus dan ramah"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "-yjX5sGffa",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 67,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 42,
+            "text": "tmptnya nyaman dan bersih"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "aFjscuN5IO",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 118,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 103,
+            "text": "makanan yg enak"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "meta dani kokom tiar bagus dan ramah..... tmptnya nyaman dan bersih thankss gyukaku atas pelayanan dan makanan yg enak....."
+  },
+  "id": 186
+}

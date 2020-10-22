@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600787368,
+      "id": 406001,
+      "lead_time": 20.024,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "IytUoj2ekh",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 75,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 62,
+            "text": "semuanya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ESlqYbgRUz",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 90,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 77,
+            "text": "aneka minuman"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "W76K-h8wZV",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 115,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 102,
+            "text": "semuanya enak"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "saya paling sering sarapan di sini. aneka salad sudah dicoba. semuanya enak. aneka minuman juga sama. semuanya enak. kunjungan terakhir ya ini"
+  },
+  "id": 406
+}

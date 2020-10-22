@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600516362,
+      "id": 216001,
+      "lead_time": 20.125,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "dCJw1f-XST",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 30,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "minuman makanan nya top banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ffkQBlyO7S",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 82,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 31,
+            "text": "saya suka juga pelayanan nyaa mba nyaa ramah ramaah"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "minuman makanan nya top banget saya suka juga pelayanan nyaa mba nyaa ramah ramaah . terutama mba nunung selalu menawarkan makanan kalau mau repil makasih buat shabuhachii"
+  },
+  "id": 216
+}

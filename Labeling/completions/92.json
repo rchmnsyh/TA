@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600680122,
+      "id": 92001,
+      "lead_time": 76.868,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "lagMl6dqED",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 14,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "food was great"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ptMKWNZqhs",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 49,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 19,
+            "text": "very devastated by the service"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "xrGXPCbwHg",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 140,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 80,
+            "text": "all the waiters and waitresses was doubting me as a customer"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "food was great but very devastated by the service. i was there eating alone but all the waiters and waitresses was doubting me as a customer. however, as i sat down to my table, all of a sudden pops out a security guard near the cashier.bneedless to say, i was wearing pretty much causal clothes and shoes, but still i dont feel comfortable at all eating with waiter, manager and security looking at me the whole time. the waitress that served me was speaking at a sarcastic way everytime i wanted to order. this was actually like my 3rd time eating there(pvj outlet). really though, everytime i wanted to take buffet, the security was all eyes on me. the funny thing is, i saw a lady eating alone but she didnt get the \u201ctreatment\u201d i received. as i wanted to pay at the cashier, the security was stanby behind me as if i was going to be arrested. as soon as my card was approved on the machine, the waitress all gave a nod to each other and to the security as if i was safe to go. cant believe that this kinda stupid thing still exist."
+  },
+  "id": 92
+}

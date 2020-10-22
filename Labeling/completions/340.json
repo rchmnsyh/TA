@@ -1,0 +1,168 @@
+{
+  "completions": [
+    {
+      "created_at": 1600788865,
+      "id": 340001,
+      "lead_time": 89.437,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "FaKqHx-qYn",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 67,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 49,
+            "text": "kafe favorite saya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "rIIhkLuQuh",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 441,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 349,
+            "text": "harga makanan dan minuman di kafe ini juga tidak mengalami menaikkan harga secara signifikan"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ji0HaxUK3Y",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 482,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 457,
+            "text": "relatif sangat terjangkau"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "KVGndTrqXy",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 776,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 734,
+            "text": "kualitas cakenya tidak pernah mengecewakan"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ppyTLJmSa0",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 890,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 813,
+            "text": "cakenya tidak terlalu manis serta memiliki rasa coklat yang strong dan intens"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "_0ukMf1SHd",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1019,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 994,
+            "text": "cakenya juga moist banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "4l1kUba4qT",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1082,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 1065,
+            "text": "sangat refreshing"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "K5Qk6eYaGB",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1322,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 1310,
+            "text": "lumayan enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Ds6VFZNPZt",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1371,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 1332,
+            "text": "rasa coklatnya agak sedikit kurang kuat"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "kafe ini masih saya tempatkan sebagai salah satu kafe favorite saya di bilangan braga. kafe ini seakan tidak kehilangan hype-nya meskipun sudah buka dari beberapa tahun lalu, kafenya selalu ramai setiap kali saya berkunjung.\u00a0 kafe ini juga tetap mempertahankan ciri khasnya dengan gedung dan interior vintage khas gedung peninggalan zaman kolonial. harga makanan dan minuman di kafe ini juga tidak mengalami menaikkan harga secara signifikan, alhasil masih relatif sangat terjangkau jika dibandingkan kafe sekelas. sayangnya, kafe ini memang tidak ditujukan untuk semua orang, semua area di kafe ini adalah area smoking.\u00a0  - black forest cake (30k) meskipun wiki koffie bukanlah kafe yang memiliki speciality di cake dan pastry, tapi kualitas cakenya tidak pernah mengecewakan, termasuk cake yang saya pesan ini. cakenya tidak terlalu manis serta memiliki rasa coklat yang strong dan intens, namun diimbangin dengan citarasa segar dari filling cherry dan whipe cream di antara setiap layernya. cakenya juga moist banget. enaknya lagi cakenya disajikan dingin, jadi sangat refreshing. what a dessert is!  - black forest milk shake (20k) sebenarnya saya mencoba minum ini akibat sebuah miskomunikasi, saya sebenarnya memesan black forest cake tapi yang datang malahan black forest milkshake. untungnya milkshake lumayan enak meskipun rasa coklatnya agak sedikit kurang kuat dan agak sedikit kemanisan untuk saya."
+  },
+  "id": 340
+}

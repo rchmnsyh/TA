@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600683393,
+      "id": 391001,
+      "lead_time": 53.051,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "c3FmnFVSHi",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 49,
+            "labels": [
+              "Negative",
+              "Ambience"
+            ],
+            "start": 26,
+            "text": "penuh banget dan sempit"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "SnFTRmaHRm",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 189,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 169,
+            "text": "white magic enak bgt"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "fK_dfbu-H6",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 204,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 191,
+            "text": "ukurannya pas"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "2yZ19SxkIk",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 307,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 285,
+            "text": "harga nya sendiri oke."
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "yumaju yang disini, jujur penuh banget dan sempit. kalo 2 orang lewat di depan kasir harus giliran jalannya baru bisa lewat.  order white magic yang ice sama americano. white magic enak bgt, ukurannya pas nggak sebanyak latte. mirip piccolo tapi dingin + espressonya double ristretto. harga nya sendiri oke. order salted caramel pastrynya juga, cocok banget untuk pairing sama kopinya mereka.  mereka tawarin 2 jenis espresso, single origin siraja biak biak atau blend nya siraja biak biak campur aceh gayo. karena saya sangat tidak suka dengan aceh gayo & siraja biak biak sendiri udah jadi beans favorite jadi semua order yang single origin.  overall bakal kesini lagi tapi nggak yang di cabang ini, bahkan disini ngomong bisik-bisik aja suaranya mantul mantul kemana mana"
+  },
+  "id": 391
+}

@@ -1,0 +1,32 @@
+{
+  "completions": [
+    {
+      "created_at": 1600518589,
+      "id": 2001,
+      "lead_time": 13.413,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "x1a74doX3t",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 47,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 24,
+            "text": "simple tapi enak banget"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "makanan yang sebenarnya simple tapi enak banget :)"
+  },
+  "id": 2
+}

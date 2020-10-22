@@ -1,0 +1,151 @@
+{
+  "completions": [
+    {
+      "created_at": 1600691141,
+      "id": 102001,
+      "lead_time": 82.997,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "n1z07D-6JC",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 114,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 97,
+            "text": "adem banget parah"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "xSs62UZzYK",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 313,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 292,
+            "text": "kopinya suka bangettt"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "uQwt-V72EL",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 353,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 336,
+            "text": "sesuai sama harga"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "4tbLDe1X3a",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 413,
+            "labels": [
+              "Negative",
+              "Price"
+            ],
+            "start": 404,
+            "text": "expensive"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "gkwdbPAYKf",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 447,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 424,
+            "text": "pisangnya terlalu keras"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "aX99iZR15X",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 533,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 500,
+            "text": "pelayanannya semuaaa ramah banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "8JcNMnMVY-",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 499,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 476,
+            "text": "susana yg asri bangettt"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "V_PZHPcYe-",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 740,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 727,
+            "text": "instagramable"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "masuk pertama kali untuk ordernya langsung di suguhin bau khas kopi lebih ke beli tempat sih krn adem banget parah, pas banget kalo lagi stres hirup udara segar konsepnya calling name, jadi kita sebut atas nama siapa di orderan kita terus aa aa nya nanti nyari kita keliling2 seluas cafe itu kopinya suka bangettt, pesen vietnam coffee sesuai sama harga but, dengan harga cireng dan pisang goreng segitu expensive sih terus pisangnya terlalu keras, balik lagi emang disuguhin susana yg asri bangettt pelayanannya semuaaa ramah banget, sampe aa nya ada bercanda2nnya gitu pas nganterin orderan. pas banget buat yg lagi stress harus kesini sih  drink : vietnam coffee (8.5/10)  snacks : cireng (8/10) pisang goreng keju (6/10)  +instagramable +outdoor"
+  },
+  "id": 102
+}

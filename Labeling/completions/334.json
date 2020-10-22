@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600507106,
+      "id": 334001,
+      "lead_time": 44.451,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "eibNKSB-zr",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 33,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 26,
+            "text": "so good"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "l8g1ECcruo",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 103,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 72,
+            "text": "buat duduk enak bareng keluarga"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "BGpwJ2YEn_",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 134,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 105,
+            "text": "porsi makan dipiring ga pelit"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "pesan sup kepala salmon.. so good!!! asam asam segar.. anak2bpun suka,, buat duduk enak bareng keluarga, porsi makan dipiring ga pelit,, jd kita bs sharing.."
+  },
+  "id": 334
+}

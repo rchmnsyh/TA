@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600679020,
+      "id": 148001,
+      "lead_time": 21.061,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "wyrF_KOvHJ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 93,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 67,
+            "text": "love this vintage ambience"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "nQlu5Zh4jb",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 201,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 178,
+            "text": "will come to this place"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "went to this coffee shop last week for my short escape to bandung. love this vintage ambience. i ordered affogato, oolong tea, monkey bread and butter croissant. so far so good. will come to this place for another vacay "
+  },
+  "id": 148
+}

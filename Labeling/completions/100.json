@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600782224,
+      "id": 100001,
+      "lead_time": 47.834,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "t0p4qu4S4Q",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 435,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 406,
+            "text": "gak terlalu menyerap bumbunya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "mhXf_gVBHN",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 772,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 725,
+            "text": "kurang sukaa sih karena kayak kurang taste gitu"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "aku kasih rate 3.5 yah atau setara dengan 70  khusus kulineran ke bandunggg,,,ini salah satu resto di bandung yang ratingnya tinggi. datang hari minggu, waw harus antri uda kayak kepuskemas antriannya mirip bgt dikasih bangku2 model gitu.  tapi gaak lama dipanggil kok uda dpt mejanya. disini bisa lesehan juga kalo mau yah.  aku cobain menu2 yang keliatannya enakk : 1. gurame bakar : rasanya biasa saja, gak terlalu menyerap bumbunya. karena bumbu kecap, bawang, dan tomatnya seperti dilumuri diluar sajaa. harganya idr.83k before tax /8 ons  2. ayam bakar : nah ini aku lebih suka kalo bumbunya menyerap, sayangnya tidak.idr. 20k++  3. perkedel : lumayan sih agak2 garing seporsi isi 5 kecil-kecil  4. daging sapi goreng: kurang sukaa sih karena kayak kurang taste gitu.  5. gepuk : bukan yang my fav, tapi its okee lah. idr. 20k an juga deh  6. nasi liwet : berharap ada rasa gurih2nya dari nasi liwet disini ,, taunya sama aja kayak makan nasi putih  7. jengkol : nah ini pesenan partner-ku, kata doi ga ada rasanya jadi agak2 hambar cabainya juga. cmn temenku yg lain bilang kayak makan kentang kalo jengkol disini."
+  },
+  "id": 100
+}

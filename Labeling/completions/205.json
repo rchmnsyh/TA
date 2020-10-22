@@ -1,0 +1,236 @@
+{
+  "completions": [
+    {
+      "created_at": 1600787850,
+      "id": 205001,
+      "lead_time": 117.066,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Cj9T8Gj1PJ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 390,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 371,
+            "text": "pizzanya enak tipis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Y8vG6MIJ3b",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 425,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 393,
+            "text": "garing saos nya juga pas rasanya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "F28ULvxvjU",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 512,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 482,
+            "text": "plating nya kurang menggiurkan"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "5ZGv_VhF37",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 538,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 526,
+            "text": "rasanya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Pyg-wOd5OQ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 556,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 540,
+            "text": "daging nya empuk"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "zAtoOM7YgO",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 631,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 581,
+            "text": "pastri nya crunchy salmonnya juga enak cooked well"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "KxkspmpKvL",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 672,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 640,
+            "text": "saus pendamping nya mengecewakan"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "QLGlK4Zr2H",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 745,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 733,
+            "text": "daging empuk"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "VVH8LZApbu",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 771,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 747,
+            "text": "isinya lumayannya banyak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "xSTLICSmrF",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 803,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 778,
+            "text": "kuahnya terlalu berminyak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Jvs3I3EpxL",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 944,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 913,
+            "text": "lumayan lama untuk penyajiannya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ODIVj9JD8W",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1535,
+            "labels": [
+              "Negative",
+              "Price"
+            ],
+            "start": 1506,
+            "text": "harga main course agak tinggi"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "TMqtP1kW-a",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1635,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 1589,
+            "text": "service nya ok pelayanan nya tanggap dan ramah"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "weekend kemarin ketika liburan di bandung kepikiran utk makan rhum raisin ice cream di braga permai. maka kami pun ke sana sekalian lunch  kami duduk di ruangan bangunan baru yg ada di sebelah bangunan utama dengan dekorasi di buat terkesanrq oldies agar serasi dengan bangunan utama menu yg saya pesan 1.  pizza braga permai : pizza dengan potongan daging ham dan keju. pizzanya enak tipis , garing saos nya juga pas rasanya 2. tenderloin ala braga permai. secara penampilan alias plating nya kurang menggiurkan. tapi untung rasanya enak. daging nya empuk  3. salmon wellington : pastri nya crunchy salmonnya juga enak cooked well. sayang saus pendamping nya mengecewakan. hanya terasa berminyak dan asam2 gak cocok 4. sop buntut : daging empuk, isinya lumayannya banyak. tapi kuahnya terlalu berminyak dan over power dari kayu manis  setelah selesai dengan main course maka kami minta utk di keluarkan ice nya. lumayan lama untuk penyajiannya  dan ketika di serve salah satu ice yg kami order 3 scoope ice sudah meleleh. namun rhum raisin nya masih bagus. dan ketika di coba saya kaget kalau rasanya jauh berbeda dengan dulu. dan saya lihat ini ice cream seperti pabrikan tastenya pun sama. ternyata setelah di cross check benar bahwa menggunakan ice cream pabrikan. kecewa berat padahal ke sana karena ice cream well menurut info yg di dapat mesin ice cream rusak sudah agak lama dan akhirnya memutuskan menggunakan ice cream pabrikan. better beli ice cream di seberang ny better :) sorry to say  untuk harga main course agak tinggi tp mgkn karena membayar juga biaya utk tempat. untuk service nya ok pelayanan nya tanggap dan ramah"
+  },
+  "id": 205
+}

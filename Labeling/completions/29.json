@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600678083,
+      "id": 29001,
+      "lead_time": 33.013,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "p_axmzJDd5",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 86,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 66,
+            "text": "suasananya enak adem"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "AbUJhQIqKD",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 201,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 197,
+            "text": "enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "LjMpk0PkgW",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 311,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 291,
+            "text": "next time mau cobain"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "dine in di masa pandemi, miss bee cm buka bagian outdoornya aja.. suasananya enak adem, better reservasi dulu supaya ga nunggu lama krn tmptnya terbatas. makanan yg kita pesan : crumbed dory fish (enak) dan trio sousage (biasa aja). trus liat makanan orang yang burger, kayaknya enak enak.. next time mau cobain"
+  },
+  "id": 29
+}

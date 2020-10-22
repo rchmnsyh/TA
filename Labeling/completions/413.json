@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600685254,
+      "id": 413001,
+      "lead_time": 20.324,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Uxm1slW0Dw",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 24,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "tempat outdoor nya bagus"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "FrIN5zcznn",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 85,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 59,
+            "text": "maknaan nya enak jugaaaaaa"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "_JFjPQWfA2",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 165,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 148,
+            "text": "dessert nyaa enak"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "tempat outdoor nya bagus aku suka karena banyak tanamannya maknaan nya enak jugaaaaaa terus cocok buat makan santai yang gak berat berat gitu kayak dessert nyaa enak"
+  },
+  "id": 413
+}

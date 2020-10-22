@@ -1,0 +1,35 @@
+{
+  "completions": [
+    {
+      "created_at": 1600518538,
+      "id": 431001,
+      "lead_time": 194.856,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "j4IqgaJJ7h",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 27,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 0,
+            "text": "terlalu lama untuk menunggu"
+          }
+        }
+      ],
+      "skipped": false,
+      "was_cancelled": false
+    }
+  ],
+  "data": {
+    "text": "terlalu lama untuk menunggu makanan selesai dimasak saat makan di tempat padahal tempatnya sedang kosong. isinya hanya ojol untuk delivery. kalo sistem antriannya untuk dine in & take away disamain ya orang yg laper beneran makan di tempat pasti kecewa. konsep open kitchen juga sebaiknya dihilangkan kalau cuma ingin kasih lihat seberapa lambannya staf-staf bekerja"
+  },
+  "id": 431,
+  "predictions": []
+}

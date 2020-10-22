@@ -1,0 +1,100 @@
+{
+  "completions": [
+    {
+      "created_at": 1600781499,
+      "id": 60001,
+      "lead_time": 6697.306,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "FOEzY-HrTk",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 333,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 301,
+            "text": "cukup luas dan ada live musicnya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "jgxC7x2Up6",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 369,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 351,
+            "text": "surprisingly enaak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "YlmEr7Z2dx",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 534,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 506,
+            "text": "ngeblend rasanya dan ga eneg"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "JAjWPaxyvH",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 585,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 573,
+            "text": "cukup banyak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "HZ9Mf9_neM",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 674,
+            "labels": [
+              "Negative",
+              "Price"
+            ],
+            "start": 651,
+            "text": "harga emang agak pricey"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "follow my ig: @pinkpesco  cafe di bandung yang udah lama hits gara\" ada airnya, cocok buat lunch, dinner atau sekedar nongki berjam\".  sayangnya waktu aku kesana ujan terus jadi ga bisa duduk di poolnya  tempatnya sendiri luas tapi ternyata bagian poolnya kecil. ada 2 lantai, di lantai atas ternyata cukup luas dan ada live musicnya.  untuk makanan, surprisingly enaak loh! aku cobain croissant con carne, croissant yang flaky tp lembut dipadukan dengan bolognese sauce, telur, mayo, dan sayuran. creamy, ngeblend rasanya dan ga eneg. side dishnya ada kentang goreng yang cukup banyak dan garing. temenku pesen pasta dan dia juga bilang enak.  untuk harga emang agak pricey kalo menurutku, tapi masih sebanding sih dengan rasa dan tempat."
+  },
+  "id": 60
+}

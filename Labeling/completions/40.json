@@ -1,0 +1,219 @@
+{
+  "completions": [
+    {
+      "created_at": 1600690951,
+      "id": 40001,
+      "lead_time": 1192.698,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "6aDVy4zohy",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 92,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 18,
+            "text": "tempatnya spacious. interiornya keren, bernuansa industrial yang kekiniaan"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "3RKodbIATE",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 157,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 138,
+            "text": "terasa sangat homey"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "rX-n3rBEsf",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 199,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 159,
+            "text": "outdoornya sangat asri dan instagramable"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "SGMqqRe8Az",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 279,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 233,
+            "text": "suka banget deh dengan ambiancenya bikin betah"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "MLgxv_meSx",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 326,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 281,
+            "text": "pilihan roti, cake dan pastrynya cukup banyak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "tn5Ihms7Fh",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 405,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 373,
+            "text": "harganya pun tidak terlalu mahal"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "DNAcNFyViJ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 555,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 543,
+            "text": "kopinya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "-DYprVHgmO",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 635,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 601,
+            "text": "chocolate baileysnya juga enak deh"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "No6nVB2cLS",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 732,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 698,
+            "text": "cinnamon croissant ukurannya besar"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "_V3yKMLH8Y",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 774,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 763,
+            "text": "enak banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "vjlSTIY5dV",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 805,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 779,
+            "text": "harganya juga murah banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "mm2gHXNI1B",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 858,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 807,
+            "text": "one of my fave caf\u00e9 di bandung deh ini, recommended"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "ambrogio cafe ini tempatnya spacious. interiornya keren, bernuansa industrial yang kekiniaan. furniturenya di dominasi dengan unsur kayu. terasa sangat homey. outdoornya sangat asri dan instagramable, di area samping ada kolam ikan. suka banget deh dengan ambiancenya bikin betah. pilihan roti, cake dan pastrynya cukup banyak dan displaynya bagus dan benar2 bikin ngiler. harganya pun tidak terlalu mahal. untuk breakfast kali ini saya pesan cappucino, ice tea, potato hash and beef bacon, chocolate baileys, cinnamon ambro swirrl croissant. kopinya enak, tidak terlalu bold dengan chocolatey taste. chocolate baileysnya juga enak deh. potato hash and beef bacon, perfect for breakfast and lunch. cinnamon croissant ukurannya besar, padat dengan tekstur lembut, enak banget dan harganya juga murah banget. one of my fave caf\u00e9 di bandung deh ini, recommended."
+  },
+  "id": 40
+}

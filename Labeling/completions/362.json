@@ -1,0 +1,117 @@
+{
+  "completions": [
+    {
+      "created_at": 1600505017,
+      "id": 362001,
+      "lead_time": 57.999,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "zZpouL2SxY",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 15,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 5,
+            "text": "cukup enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ZBoDmxREjK",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 33,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 17,
+            "text": "makanan variatif"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "D7z3lthqQy",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 110,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 83,
+            "text": "kualitas dagingnya pun baik"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "WJq25dlW8e",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 196,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 164,
+            "text": "harga cukup lah ga terlalu mahal"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "WUgye02SIO",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 237,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 221,
+            "text": "desertnya enaaak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "68JSAvzBW0",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 289,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 269,
+            "text": "ice creamnya lengkap"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "mmhh cukup enak, makanan variatif, yakiniku grill, sushi, desert dll..dan yg pasti kualitas dagingnya pun baika walau agak tipis sih...menu nasinya pun ada hahaha..harga cukup lah ga terlalu mahal untuk all u can eat sih desertnya enaaak apalagi panacotta nya endeess, ice creamnya lengkap durian, vanilla, greentea"
+  },
+  "id": 362
+}

@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600782124,
+      "id": 47001,
+      "lead_time": 28.316,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "mY4yJbzKC4",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 12,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "food is good"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "vtP73GhF6Y",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 127,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 108,
+            "text": "makanan keluar lama"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "cwhH_UcdUp",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 339,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 327,
+            "text": "makanan enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "0gz-BfsbGX",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 355,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 345,
+            "text": "bad servis"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "food is good, but..... susah cari tempat duduk , crowded... maybe hrs diantisipasi kalau lagi peak hours... makanan keluar lama... garpu pisau sampai habis stocks nya... and jwbannya: nanti ya bu hrs dicuci dulu. masa stock garpu dan pisau bisa ampe habis ? ditawarinnya garpu plastic ... not comforting deh jadinya... sayang, makanan enak tapi bad servis dan lainnya..."
+  },
+  "id": 47
+}

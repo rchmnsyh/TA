@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600781642,
+      "id": 145001,
+      "lead_time": 15.601,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "dmmwm36oEI",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 29,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "tempatnya enak bgt buat nugas"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "QpmRQSXgKT",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 83,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 79,
+            "text": "enak"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "tempatnya enak bgt buat nugas. pesen ice cafe latte, sama salmon bagels. 22nya enak. minusnya tempatnya agak susah dicari karena plangnya kecil."
+  },
+  "id": 145
+}

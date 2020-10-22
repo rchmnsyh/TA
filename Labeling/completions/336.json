@@ -1,0 +1,32 @@
+{
+  "completions": [
+    {
+      "created_at": 1600782159,
+      "id": 336001,
+      "lead_time": 11.464,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "R0QGXWJ10t",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 52,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 24,
+            "text": "makanan tllu lama dateng nya"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "lokasi mudah dijangkau. makanan tllu lama dateng nya. ini smbl nulis udh nunggu 1 jam 40 menit. cm pesen 4 menu pdhl. dan meja2 lain udh pd makan. apa yg salah ya? mgkn bs tambah dapur?"
+  },
+  "id": 336
+}

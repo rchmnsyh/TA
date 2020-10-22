@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600683639,
+      "id": 63001,
+      "lead_time": 29.724,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "w5oigJoH6s",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 270,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 238,
+            "text": "almond croissant is so delicious"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "QiLiTFYgHj",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 396,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 379,
+            "text": "tasted so goodddd"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "finally i was able to enter this hottest bakery in town! wow just wow. i tried to came to this bakery for 3rd time but the parking lot was so full. but the 4th time i went there very early and yay meee, i can find the parking spot. their almond croissant is so delicious. for real and their strawberry macaron tasted like candy. yummm. but the real winner was chocolate macaron. tasted so goodddd"
+  },
+  "id": 63
+}

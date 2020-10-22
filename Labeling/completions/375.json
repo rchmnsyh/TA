@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600786136,
+      "id": 375001,
+      "lead_time": 14.634,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "rzziV-2hmQ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 25,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "suka banget steak di sini"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "cL2Olt2V9Q",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 118,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 95,
+            "text": "waitresses nya ga ramah"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "suka banget steak di sini apalagi yg direkomendasikan oleh chef nya.. selalu rame di sini tapi waitresses nya ga ramah.. gw lupa pesen apa aja di sini hahahaaaa.."
+  },
+  "id": 375
+}

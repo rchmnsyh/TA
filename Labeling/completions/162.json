@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600517131,
+      "id": 162001,
+      "lead_time": 46.96,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "MNWQUotEri",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 20,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 0,
+            "text": "ini tempat juara sih"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "98ZEgRkYgV",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 88,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 65,
+            "text": "rasanyaa supeerr banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "-3oE4A1fI-",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 106,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 90,
+            "text": "pedasnya nonjook"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "ini tempat juara sih. terpencil di deket stasiun kereta bandung. rasanyaa supeerr banget. pedasnya nonjook.  dendeng batoko, rendang, ikan sale, maknyos!"
+  },
+  "id": 162
+}

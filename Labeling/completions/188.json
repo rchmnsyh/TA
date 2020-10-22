@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600787666,
+      "id": 188001,
+      "lead_time": 22.106,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "mdPy_ORQk7",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 21,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 0,
+            "text": "enak banget pelayanan"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "3KDeJb3-gF",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 46,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 26,
+            "text": "makanannya enak-enak"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "enak banget pelayanan dan makanannya enak-enak, tapi parkiran untuk motornya sempit (danni pamungkas)"
+  },
+  "id": 188
+}

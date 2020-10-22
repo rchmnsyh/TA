@@ -1,0 +1,32 @@
+{
+  "completions": [
+    {
+      "created_at": 1600680306,
+      "id": 161001,
+      "lead_time": 10.098,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "BEcZTB_aJk",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 35,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "emping banjurnya enak bangeeeeetttt"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "emping banjurnya enak bangeeeeetttt... sampe lupa diri! kalo pake empinf banjurnya, nasi doang ama kuah dan sambel aja rasanya bisa abis 2 piring "
+  },
+  "id": 161
+}

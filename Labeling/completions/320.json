@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600689451,
+      "id": 320001,
+      "lead_time": 32.321,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "IdYRHnVVV-",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 407,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 373,
+            "text": "makanan overall tidak mengecewakan"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "yP_DuzYl_p",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 589,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 577,
+            "text": "makanan enak"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "saat dijalan sempat ragu, karna jalannya gelap tetapi maps mengarahkan jadi oke saja, begitu masuk cafe menuju parkiran disuguhkan beberapa mobil antik keren. ada beberapa spot untuk makan disini. kebetulan sy dan istri ke tempat yg ada live musicnya biar lebih enak. staf jujur mengatakan view di congo memang relatif agak kurang dari yg lainnya di daerah dago. tp secata makanan overall tidak mengecewakan. sy pesen spagethi, zuppa sup, dan istri pesen steak ayam, minum jahe dan teh panas. mungkin karna tempatnya dingin jadi makanan jadi cepet dingin pula yg semula panas. makanan enak..well done."
+  },
+  "id": 320
+}

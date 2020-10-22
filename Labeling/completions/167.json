@@ -1,0 +1,134 @@
+{
+  "completions": [
+    {
+      "created_at": 1600784215,
+      "id": 167001,
+      "lead_time": 581.269,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "IdCQYl6m4L",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 44,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 32,
+            "text": "murah meriah"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "RT5fo7O5m8",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 389,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 345,
+            "text": "rasanya mendekati dengan masakan padang asli"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "a94qtm4QKS",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 867,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 832,
+            "text": "daging agak liat dan sulit dipotong"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "DBmvFflqYG",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 957,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 941,
+            "text": "bumbunya nendang"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "NSFfyxfux7",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1019,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 983,
+            "text": "kadar kepedasan terasa pas dan cocok"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "FBt_-KWZ2A",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1314,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 1274,
+            "text": "dagingnya tidak keras dan mudah dipotong"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "5Owhkv0nxS",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1666,
+            "labels": [
+              "Negative",
+              "Ambience"
+            ],
+            "start": 1637,
+            "text": "makan di tempat kurang nyaman"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "warung masakan padang authentic murah meriah  kalau kakak saya tidak pernah cerita tentang malah dicubo, mungkin sampai selamanya tidak akan pernah terpikir akan ke malah dicubo. berhubung ortu bukan fans berat masakan padang, wajar saja bila tidak tahu.\u00a0  kata kakak saya malah dicubo dianggap oleh orang minang sebagai warung authentic karena rasanya mendekati dengan masakan padang asli. alasan utama mengapa malah dicubo terkenal di bandung.  berlokasi di daerah yang tidak strategis bukan berarti luput dari perhatian. kenyataannya sering diserbu konsumen. banyak tetangga yang mengetahui dan sering makan juga.\u00a0  beli bungkus karena ibu maunya nyobain di rumah.  rendang (9.5/10) karena alasan harga jual, rendang yang disajikan adalah rendang tipikal warung masakan padang murah, yakni 'rendang sendal jepit'. dapat ditebak, daging agak liat dan sulit dipotong (untungnya masih bisa dipotong hanya dengan menggunakan sedikit tenaga). bumbunya nendang dan tidak terlalu pedas. kadar kepedasan terasa pas dan cocok bagi sebagian besar orang. terlepas dari itu, rendang adalah salah satu menu yang paling sering dicari. dendeng batokok hijau (9.5/10) selain rendang, dendeng batokok termasuk menu populer. menu ini tak lain adalah dendeng daging sapi dengan cabe hijau. dagingnya tidak keras dan mudah dipotong. meski cabe hijau berlimpah, rasa pedas tidak terlalu garang. saat disendok agak berminyak (entah berasal dari cabe atau minyak goreng), sehingga harus ditiriskan.  setiap beli bungkus dengan nasi akan diberikan sayur daun singkong gratis. sayangnya karena beli bungkus tanpa nasi ya tidak dapat.  banyak orang mengatakan makan di tempat kurang nyaman, pada akhirnya beli take-away atau lewat ojek online lebih disarankan."
+  },
+  "id": 167
+}

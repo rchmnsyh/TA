@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600787644,
+      "id": 31001,
+      "lead_time": 10.969,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "zayY0JW93m",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 64,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 52,
+            "text": "makanan enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "B0PCHG7Z01",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 88,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 71,
+            "text": "gak worth to wait"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "ke bandung selalu kesini, tapi ini twrakhir kesini. makanan enak, tapi gak worth to wait. masa 1,5 jam gak keluar. klo plating makan waktu yaa di revisi dong . gila orang suruh nunggu 1,5 jam hnya untuk nasgor"
+  },
+  "id": 31
+}

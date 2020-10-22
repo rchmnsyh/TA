@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600783623,
+      "id": 129001,
+      "lead_time": 25.33,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "CwmXheGlcw",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 98,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 73,
+            "text": "really enjoy the ambience"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "TUfRY3alYd",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 147,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 124,
+            "text": "one of the nicest place"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "it\u2019s a compact cafe, kinda confused to find out this cafe at first but i really enjoy the ambience. for me personally, it\u2019s one of the nicest place in bandung to be visited just for hanging out with friends or doing some works."
+  },
+  "id": 129
+}

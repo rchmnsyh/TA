@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600782523,
+      "id": 48001,
+      "lead_time": 20.486,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "7lcHNxMqKI",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 123,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 96,
+            "text": "paling suka yang roast beef"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "o8kosOhpow",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 241,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 218,
+            "text": "servicenya yg agak lama"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "favorit breakfast place di bandung. kalo kesini kita selalu pesen \u201cbuild your own\u201d sandwichnya. paling suka yang roast beef dgn dressing honey mustard dan olive balsamic. satu2nya yg perlu diimprove adalah antrian dan servicenya yg agak lama."
+  },
+  "id": 48
+}

@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600692550,
+      "id": 263001,
+      "lead_time": 31.515,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "GXmDGI3-iW",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 17,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "mienya super enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "18UBs2B0FJ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 130,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 108,
+            "text": "super enakk suasananya"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "mienya super enak, nggak nyangka tempatnya jauh dari kota, perlu masuk2 ke kawasan rumah tp tempat makannya super enakk suasananya apalagi kalo makan saat malam hari"
+  },
+  "id": 263
+}

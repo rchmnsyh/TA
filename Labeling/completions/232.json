@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600782268,
+      "id": 232001,
+      "lead_time": 23.446,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "88enkswPB3",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 75,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 55,
+            "text": "porsinya juga banyak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "_Fhn-vIEc9",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 132,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 116,
+            "text": "rasa lumayan oke"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "A-I35BghHf",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 180,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 153,
+            "text": "topping ayamnya juga banyak"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "mie legend ini tempatnya lumayan luas dan rame banget. porsinya juga banyak, gw pesan mie yamin bakso tahu pangsit. rasa lumayan oke sih, mie nya manis, topping ayamnya juga banyak."
+  },
+  "id": 232
+}

@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600677844,
+      "id": 268001,
+      "lead_time": 175.886,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "PKNr8MlLlF",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 26,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 0,
+            "text": "kecewa bgt sm pelayanannya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "zCSjA7GLEj",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 128,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 110,
+            "text": "makananny sih enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "MzDPGLC4j7",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 585,
+            "labels": [
+              "Negative",
+              "Miscellaneous"
+            ],
+            "start": 573,
+            "text": "super kecewa"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "kecewa bgt sm pelayanannya, hari ini gue sm kelurga besar memutuskan buat menutup bulan puasa makan di padma. makananny sih enak, minumannya cmn aqua. trs pas gue di akhir makan gue mau minum, minumannya gaada. trnyata cmn di sediain 30 menit stlh buka. abis itu di ambil. padahal buffet all u can eat. bnr bnr ga masuk akal. harus nya palingg ngga aqua tuh tetep ada. jd gue abis makan ga minum karna gaada minuman, pas gue pesen aqua di bill nya harganya 60rb. aquaaaa bukan equil yaa aqua botol, yg harga pasarannya cmn 5rb, di jual 60rb perbotol. bnr bnr gamasuk akal. super kecewa, pdhl udh high hope disini, smogaa bs di perbaiki lg yaaa... sukses slalu!"
+  },
+  "id": 268
+}

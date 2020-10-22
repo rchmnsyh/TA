@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600679479,
+      "id": 13001,
+      "lead_time": 36.129,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "vPzgYddDgG",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 214,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 175,
+            "text": "tekstur martabaknya cukup kenyal, empuk"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "4l7Lfe2xKE",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 281,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 270,
+            "text": "agak gosong"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "-V2O14zY4O",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 312,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 283,
+            "text": "topingnya cukup banyak, padet"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "oke, jadi waktu trip family ke bandung, kita jajal dlu yang katanya martabak paling enak di bandung. pesen via ojol, martabak spesial pandan separo keju separo coklat kacang. tekstur martabaknya cukup kenyal, empuk, tapi masih banyak yg lebih empuk. kulitnya berlubang, agak gosong. topingnya cukup banyak, padet. untuk aromanya gk berasa sama sekali aroma butternya, pdahal pesen yg spesial. lebih wangi pandannya. di jakarta masih banyak yg lebih enak."
+  },
+  "id": 13
+}

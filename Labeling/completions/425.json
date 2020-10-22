@@ -1,0 +1,100 @@
+{
+  "completions": [
+    {
+      "created_at": 1600518777,
+      "id": 425001,
+      "lead_time": 44.966,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "bs2tgmpOoS",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 44,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "gak nyesel dah nyobain menu2 yang ada disini"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "wVf9YJAWLo",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 59,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 46,
+            "text": "semuanya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "P1PDktiDLB",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 66,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 61,
+            "text": "murah"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "lPI3YP4T4Z",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 90,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 69,
+            "text": "empatnya bersih, luas"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "1LEROKxfgC",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 157,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 111,
+            "text": "wajib coba sate nya itu enakkkkk buangggeettt!"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "gak nyesel dah nyobain menu2 yang ada disini. semuanya enak, murah, tempatnya bersih, luas, pilihannya banyak. wajib coba sate nya itu enakkkkk buangggeettt!!! tersedia nasi putih dan nasi merah. utk nasi + 4 sayur cuma 15k (nett) klw menu daging vegan nya 6,5k. makan br15 cuma abis 400rbuan itupun dh ampe kekenyangan bgt. utk minum free (air mineral) tinggal ambil gelas aja."
+  },
+  "id": 425
+}

@@ -1,0 +1,100 @@
+{
+  "completions": [
+    {
+      "created_at": 1600512761,
+      "id": 43001,
+      "lead_time": 41.256,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "HlTTA9E4RX",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 54,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 24,
+            "text": "lengkappp mulai dari kue, roti"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "wjYBLmf5gG",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 98,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 62,
+            "text": "suka bgt sm scones beef and chesenya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "WCbhcN4i5l",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 120,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 100,
+            "text": "banana breadnya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "XiUdNQNl_0",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 157,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 138,
+            "text": "harga jg terjangkau"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "apRj96BYR9",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 215,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 184,
+            "text": "bahannya sehat dan high quality"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "suka pol sm bakery ini! lengkappp mulai dari kue, roti... aku suka bgt sm scones beef and chesenya, banana breadnya enak.. mantul bgt sih harga jg terjangkau :) dan pastinya fresh dan bahannya sehat dan high quality"
+  },
+  "id": 43
+}

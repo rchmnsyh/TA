@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600506737,
+      "id": 262001,
+      "lead_time": 29.777,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "ok5XvFQqhf",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 90,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 70,
+            "text": "rasanya lumayan enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "WUez5issx5",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 202,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 166,
+            "text": "suasananya bikin makan jd lbh nikmat"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "pernah dr jakarta ke bandung cuma mau makan mie ayam lela aja hihihi. rasanya lumayan enak (coz pernah makan mie ayam yg lbh enak hihihi) tempatnya ga begitu besar.  suasananya bikin makan jd lbh nikmat. sejuknya udara bandung dan pemandangan kota yg oke."
+  },
+  "id": 262
+}

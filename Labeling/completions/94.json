@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600693343,
+      "id": 94001,
+      "lead_time": 22.004,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "aHcmCIJE0V",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 66,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 50,
+            "text": "harga terjangkau"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "8jPwpiadwC",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 93,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 68,
+            "text": "makanannya enak enak smua"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "PMo5NBm0bQ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 183,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 164,
+            "text": "sambelnya jg mantul"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "one of the best sundanese restaurants in bandung. harga terjangkau, makanannya enak enak smua!!  must try terongnya, ayam ungkep, sapi gorengnya, perkeldelnya hehe sambelnya jg mantul gengs..."
+  },
+  "id": 94
+}

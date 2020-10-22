@@ -1,0 +1,168 @@
+{
+  "completions": [
+    {
+      "created_at": 1600687222,
+      "id": 270001,
+      "lead_time": 488.307,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "3oUb5BiCig",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 15,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "makanannya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "KTZvZVQEPy",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 47,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 17,
+            "text": "pemandangan spektakuler banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "20r-WFEpy3",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 67,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 49,
+            "text": "sangat recommended"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "iDj5rDmdn3",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 101,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 69,
+            "text": "smua staff nya juga sangat ramah"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "_lkiX_LbBC",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 125,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 103,
+            "text": "variasi lumayan banyak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "OfD51QEcqA",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 153,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 127,
+            "text": "udaranya seger bgt di sini"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "jbDZwR-_u8",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 209,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 195,
+            "text": "saladnya fresh"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "N9Pme90W-h",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 246,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 211,
+            "text": "pastrynya renyah n berasa butternya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "9n_EsBp6LN",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 269,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 248,
+            "text": "fresh juice nya seger"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "makanannya enak. pemandangan spektakuler banget! sangat recommended! smua staff nya juga sangat ramah. variasi lumayan banyak. udaranya seger bgt di sini. ada area smoking n nonsmoking room nya. saladnya fresh. pastrynya renyah n berasa butternya. fresh juice nya seger, dari buah n sayuran asli."
+  },
+  "id": 270
+}

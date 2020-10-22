@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600680536,
+      "id": 56001,
+      "lead_time": 124.619,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "z2bVBi9zkL",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 121,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 106,
+            "text": "unique ambiance"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "JxvW1UpNKb",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 298,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 283,
+            "text": "food taste nice"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "lD4_qW9m2H",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 389,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 362,
+            "text": "the indoor ambience is nice"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "ever experience eating in the pool? here is it. one eighty coffee restaurant - one of best spot to go for unique ambiance. having a lunch in a pool is such a new experience. another bandung, indonesia great place to put in your bucketlist if you be there for a vacation. overall the food taste nice. there is also indoor if you don't want to be in the water and the indoor ambience is nice too. @oneeightycoffee  1. lasagna l'uovo - lasagna served with poached egg, tomato sauce, mix sauce, and cheese sauce. 2. salmon diavolo - pasta with olive oil, salmon, lime leaves, black olive, chili padi, tomato and dill. 3. chicken wings - marinated chicken wings served with spicy honey sauce. love it overall. (8/10)  instagram & facebook page : @thefoodslife kindly visit & follow for more.  #food#instafood#eat#instagram#foodporn#foodphotography#foodie#eating#foodies#delicious#yummy#bestoftheday#photo#photography#photooftheday#foodpic#dish#makan#enak#foods#foodlover#foodblog#foodstagram#kuliner#foodblogger#bandung#restaurant#lunch#latepost"
+  },
+  "id": 56
+}

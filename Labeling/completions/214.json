@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600786499,
+      "id": 214001,
+      "lead_time": 181.842,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "bY6B1LEfyE",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 16,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 0,
+            "text": "pelayannaya okee"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "CQxVgJn4G8",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 35,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 17,
+            "text": "makannan nyaa enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "1S_Po2hKKa",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 62,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 38,
+            "text": "enak bangett tempatnyaaa"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "pelayannaya okee makannan nyaa enak , enak bangett tempatnyaaa saya sukaa makan disiniii"
+  },
+  "id": 214
+}

@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600678217,
+      "id": 79001,
+      "lead_time": 42.655,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "5YvQd0kRYI",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 264,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 233,
+            "text": "nunggu makanan datang agak lama"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "SRPshWLX5n",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 461,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 457,
+            "text": "enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "I2uv2q27D2",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 480,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 464,
+            "text": "harga terjangkau"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "t2j2rlYGIh",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 539,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 524,
+            "text": "mau kesini lagi"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "waktu jalan2 ke bandung, malamnya bingung mau makan apa.. pas buka zomato, liat ratingnya lumayan.. akhirnya kita mutusin utk nyobain.. pas sampe, rame banget dan langsung dikasi no. antrian.. untungnya langsung dapat tempat duduk.. nunggu makanan datang agak lama jd saya keliling cari cemilan dl sepanjang jalan. pas balik, makanan blom sampe juga  nunggu menunggu, akhirnya datang juga & langsung makan dg lahap (sampe lupa difoto)  so far, menurut kita enak & harga terjangkau. sambelnya puedes bingit  next ke bandung, mau kesini lagi "
+  },
+  "id": 79
+}

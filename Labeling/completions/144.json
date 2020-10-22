@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600679530,
+      "id": 144001,
+      "lead_time": 51.287,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "yt7ZyjdN3m",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 34,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "it's a great shop when we are here"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "M6ZtUhZb9f",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 182,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 167,
+            "text": "super delicious"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "suSv-R7em3",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 339,
+            "labels": [
+              "Negative",
+              "Price"
+            ],
+            "start": 308,
+            "text": "although it is not cheap at all"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "it's a great shop when we are here.  italian restaurant where delicious wine and tasty meat are eaten.  the manager sommelier is messed up!  everything you eat, it is super delicious!  raw ham, arabiata is eaten in the mast.  just knowing these stores, even family, friends, entertaining, you can use very!  although it is not cheap at all, satisfactory mistake is not made.  i can only go on a reward ..."
+  },
+  "id": 144
+}

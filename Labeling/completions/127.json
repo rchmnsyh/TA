@@ -1,0 +1,86 @@
+{
+  "completions": [
+    {
+      "created_at": 1600518536,
+      "id": 127001,
+      "lead_time": 274.714,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "6VhS-i5qy8",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 513,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 459,
+            "text": "para pelayannya menyambut saya dengan hangat dan ramah"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "omHW09Xe54",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 704,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 598,
+            "text": "mas dan mbaknya melayani dengan ramah dan menjelaskan semua (saat bertanya menu) dengan baik dan mendetail"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "MAi8cHIrDb",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1195,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 1116,
+            "text": "rasa kopi dan susunya sangat balanced dan tidak ada hint manis yang mendominasi"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "9G_dmrBVpM",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1547,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 1515,
+            "text": "will definitely come back later!"
+          }
+        }
+      ],
+      "skipped": false,
+      "was_cancelled": false
+    }
+  ],
+  "data": {
+    "text": "sebuah hidden gem yang tenang dan homey! baru pertama kali datang kemari dan langsung jatuh hati. dulu bernama contrast, yang berganti menjadi morgy. tetap sama, hanya re-branding (kata mas dan mbaknya)  berlokasi di jalan anggrek nomor 46, tidak begitu sulit menemukan coffeeshop ini. bentuknya mungil dan memanjang ke belakang. akses masuk paling mudah diingat, dari jalan riau di samping suis butcher sebelah kanan jalan  the moment i stepped on the door, para pelayannya menyambut saya dengan hangat dan ramah. ah! ini yang paling saya suka. saya selalu bersemangat kalau dilayani dengan baik. mas dan mbaknya melayani dengan ramah dan menjelaskan semua (saat bertanya menu) dengan baik dan mendetail.   saat kemari, saya memesan mazagran; satu shot espresso yang di-shake dengan perasan lemon dan sesuatu yang saya tidak tahu apa itu. yang jelas, kopi ini menyegarkan, bikin melek, dan tidak pahit sama sekali! note: kopi ini kopi hitam, tidak ada campuran susu ataupun gula sama sekali. harga rp35.000,-  iced latte, standar iced latte pada umumnya tapi jauh less sweet dari penyajian coffeeshop pada umumnya. rasa kopi dan susunya sangat balanced dan tidak ada hint manis yang mendominasi. harga rp34.000,-  note: kalau mau ditambah condiments seperti gula cair, cinnamon, vanilla bubuk, dll. bisa diambil sendiri di meja yang sudah disediakan (seperti sistem kedai starb**ks).  overall, asyik untuk ngobrol dan bersantai membaca buku. tak jarang terlihat ramai oleh mahasiswa yang sedang mengerjakan tugas. will definitely come back later!"
+  },
+  "id": 127,
+  "predictions": []
+}

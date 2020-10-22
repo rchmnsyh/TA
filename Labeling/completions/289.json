@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600782474,
+      "id": 289001,
+      "lead_time": 23.728,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "35MuOAjYnK",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 213,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 189,
+            "text": "harga standar restaurant"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Huy0EaYBr-",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 245,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 215,
+            "text": "pelayanan cukup baik dan ramah"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "rest yang sudah senior di bandung. berlokasi di istana plaza fav utama adalah sop burung dara. akhirnya makan lagi ksini suasana masih sama dari taun 2000.. dim sum nya ya lumayan aja lah. harga standar restaurant. pelayanan cukup baik dan ramah. sabtu pagi ramai yg dimsum.  next time dinner or lunch dsini.  food 4/5 place 4/5 service 4/5 price 3,4/5"
+  },
+  "id": 289
+}

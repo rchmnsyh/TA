@@ -1,0 +1,16 @@
+{
+  "completions": [
+    {
+      "created_at": 1600680557,
+      "id": 187001,
+      "lead_time": 2.565,
+      "result": [],
+      "skipped": true,
+      "was_cancelled": true
+    }
+  ],
+  "data": {
+    "text": "meta dani kokom tiar"
+  },
+  "id": 187
+}

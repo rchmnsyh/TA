@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600682197,
+      "id": 88001,
+      "lead_time": 23.691,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "WyrX9QmyGs",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 116,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 92,
+            "text": "pilihan dagingnya banyak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "igmQmZnVCK",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 200,
+            "labels": [
+              "Negative",
+              "Price"
+            ],
+            "start": 190,
+            "text": "overpriced"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "di sini ada pilihan shaburi atau grill. waktu itu pilih grill, yang kitntan premium buffet. pilihan dagingnya banyak tapi yang paling enak sih karubi. untuk perbandingan rasa sama harga sih overpriced"
+  },
+  "id": 88
+}

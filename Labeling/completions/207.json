@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600788003,
+      "id": 207001,
+      "lead_time": 26.535,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "lUiybnz44h",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 96,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 60,
+            "text": "staffs are very friendly and helpful"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "bel2nPpYOW",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 242,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 192,
+            "text": "coffee brewing method and selection are also great"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "8FJ3vXJlUi",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 318,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 244,
+            "text": "vintage touch to their interior space create a very nice dining experience"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "i had already visited braga permai for several times. their staffs are very friendly and helpful. they gave guests complimentary pastries and very quick with my orders. foods are great. their coffee brewing method and selection are also great. vintage touch to their interior space create a very nice dining experience in braga."
+  },
+  "id": 207
+}

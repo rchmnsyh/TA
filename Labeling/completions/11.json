@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600679442,
+      "id": 11001,
+      "lead_time": 157.28,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "OqWyDJKxdZ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 702,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 678,
+            "text": "tidak terlalu mengembang"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ToM65M7dLt",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 930,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 906,
+            "text": "topingnya cukup melimpah"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "dapet info ada martabak manis terkenal di bandung, yaitu martabak nikmat andir. di-serach ternyata ada beberapa martabak menggunakan nama nikmat andir. tanya-tanya orang bandung, disaranin untuk martabak nikmat andir yang beralamat di jl.jend. sudirman no. 415.  pas dateng, rame banget yang antri mulai dari ojol sampe keluarga. yang special kata si enci sih martabak pandan dengan topping jagung. nunggu sampe 1,5 jam akhirnya tiba juga gilirannya.  setengah martabak pandan jagung keju + setengah martabak pandan keju kacang butter special idr 105.000 bahas mulai dari adonannya dulu deh. adonannya menurut saya beda sama martabak jakarta yang mengembang. kalo adonan disini tidak terlalu mengembang dan hampir mirip seperti adonan kue pukis. martabak disini tidak semanis martabak jakarta karena tidak ada taburan gula ke atas martabak saat sudah matang. warna hijau berasal air suji dan pandan. untuk topingnya cukup melimpah. jagung berasal dari jagung kalengan naraya. sedangkan untuk keju menggunakan keju cheddar prochiz.  cerita sedikit berasal dari info si enci. martabak nikmat andir di jl. jend. sudirman ada 2 yang pertama adalah sang kakak yg buka (yang saya beli saat ini) dan sang adik yang buka di seberangnya. martabak ini berasal dari bangka ya dan resep warisan turun temurun. ada lagi cicinya yang buka martabak telur di sebelah martabak nikmat andir yang saya beli. sedangkan ada lagi yang menggunakan merk martabak nikmat andir di daerah cibadak.  lokasi\t             \t  jl. jend. sudirman no. 415, andir, kota bandung, jawa barat  fasilitas pembayaran dapat menggunakan **pay"
+  },
+  "id": 11
+}

@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600680953,
+      "id": 16001,
+      "lead_time": 19.705,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "uZ1mxlvLGT",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 146,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 131,
+            "text": "taste superrbbb"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "N94TejzYNY",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 26,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 0,
+            "text": "one of good place to visit"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "one of good place to visit when you want to have martabak manis  we order the famous one which is the martabak pandan jagung keju  taste superrbbb  might got long queue during certain period"
+  },
+  "id": 16
+}

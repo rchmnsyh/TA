@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600681961,
+      "id": 35001,
+      "lead_time": 16.147,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "voLadBMpax",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 104,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 76,
+            "text": "best cakes i have ever eaten"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "I_szHAahYv",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 142,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 129,
+            "text": "amazing price"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "setaraf sama koi dessert bar di sydney yang dipegang chef reynold poernomo. best cakes i have ever eaten in indonesia! and at an amazing price!"
+  },
+  "id": 35
+}

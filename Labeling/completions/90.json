@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600678534,
+      "id": 90001,
+      "lead_time": 35.092,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "10oj2hQSLM",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 84,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 42,
+            "text": "the service should be way more appropriate"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "jXrTDeLS7p",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 145,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 129,
+            "text": "i enjoy the food"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "I_KtISoxpJ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 179,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 150,
+            "text": "big no for the table position"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "had nothing to excuse about the food. but the service should be way more appropriate. especially, a well prepared table-mapping. i enjoy the food but big no for the table position."
+  },
+  "id": 90
+}

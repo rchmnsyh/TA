@@ -1,0 +1,168 @@
+{
+  "completions": [
+    {
+      "created_at": 1600774690,
+      "id": 315001,
+      "lead_time": 89.197,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "P4ffgdGhmq",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 40,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 29,
+            "text": "view yg oke"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "FUXyPnaXX3",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 110,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 73,
+            "text": "harga makanan & minuman jg reasonable"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "9YSbUD6i4n",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 226,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 214,
+            "text": "rasanya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "0Si2K3ogy2",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 271,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 254,
+            "text": "soup cepat dingin"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "9zmZw1YPkv",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 387,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 369,
+            "text": "saus kopi nya aneh"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "nIyFV8Jcx2",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 459,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 444,
+            "text": "sapi nya aloott"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "t4oGMj1zJl",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 631,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 605,
+            "text": "enakk, pakai stroberi asli"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "bX96Vdv_jP",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 719,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 691,
+            "text": "harga nya jg very reasonable"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "uIvyuP8h4P",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 792,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 758,
+            "text": "banyak spot foto yg instagrammable"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "salah 1 tmpt mkn di dago dgn view yg oke. cocok utk duduk nyantai lama2, harga makanan & minuman jg reasonable. area nya luass sekali shg agak sulit utk memanggil waiter nya.. what i order: 1. mushroom cream soup: rasanya enak tp disajikan di piring shg soup cepat dingin & ketika datang memang tdk hangat lg 2. aglio olio pasta: just average pasta 3. tenderloin beef: saus kopi nya aneh, imho.. better pesan dgn saus lain 4. beef cordon bleu: sapi nya aloott krn digoreng dulu.... 5. crispy mushroom: ini jg agak anehh... 1 jamur bulat2 digoreng (jamur kancing, bkn jamur tiram) 6. strawberry smoothies: enakk, pakai stroberi asli 7. strawberry & chocolate sensation with sundae  oh ya utk harga nya jg very reasonable utk ukuran kafe yg menjual view.. dan banyak spot foto yg instagrammable..  food: 3/5 ambience: 5/5 service: 4/5 price: 3.5/5"
+  },
+  "id": 315
+}

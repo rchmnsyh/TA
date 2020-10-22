@@ -1,0 +1,32 @@
+{
+  "completions": [
+    {
+      "created_at": 1600506634,
+      "id": 322001,
+      "lead_time": 111.702,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "EGVFWGpCkO",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 51,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 30,
+            "text": "tekstur bihunnya enak"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "pesen bihun caciang dan ayam, tekstur bihunnya enak. bukan tipe bihun kering gt.  pesen mie pedes casao dan mie rica, tekstur mienya keriting ga, lurus ga. dan menurutku agak lembek ya, tp daging casaonya enak sih. so far not bad 3.5/5. anw pas kesana mereka cm layanin takeaway, jd makan di mobil deh."
+  },
+  "id": 322
+}

@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600683339,
+      "id": 260001,
+      "lead_time": 31.555,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "amKt_tlr9X",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 124,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 104,
+            "text": "tempatnya emang enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "6RZBbsNR5g",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 246,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 212,
+            "text": "mie ayam nya aga kemanisan ayamnya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "sSPuUxWjTs",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 307,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 260,
+            "text": "still one of my favorite place for family lunch"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "selalu jadi pilihan buat makan siang sm keluarga pas weekend. walopun kadang harus waiting list. karena tempatnya emang enak, terutama yg di bawah, kita bisa dapet view bandung. tapi beberapa kali kesini, pernah mie ayam nya aga kemanisan ayamnya. but its ok! still one of my favorite place for family lunch."
+  },
+  "id": 260
+}

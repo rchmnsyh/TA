@@ -1,0 +1,117 @@
+{
+  "completions": [
+    {
+      "created_at": 1600688797,
+      "id": 380001,
+      "lead_time": 87.659,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "kCEd4F9G3P",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 22,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "pilihan rasanya banyak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "mcN9HaLmep",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 60,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 24,
+            "text": "menurutku sih enak, ga terlalu manis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "cwBNR5rbNf",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 84,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 65,
+            "text": "harganya terjangkau"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Y1sSZvJ0ob",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 112,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 91,
+            "text": "teksturnya agak encer"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "n8C3d0TjFb",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 148,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 130,
+            "text": "pelayanannya ramah"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "LIoJpPChMb",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 174,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 153,
+            "text": "tempatnya juga nyaman"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "pilihan rasanya banyak! menurutku sih enak, ga terlalu manis dan harganya terjangkau, cuma teksturnya agak encer jadi cepet cair. pelayanannya ramah dan tempatnya juga nyaman."
+  },
+  "id": 380
+}

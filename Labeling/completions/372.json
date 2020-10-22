@@ -1,0 +1,100 @@
+{
+  "completions": [
+    {
+      "created_at": 1600518707,
+      "id": 372001,
+      "lead_time": 42.838,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Q9JObcBjKb",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 48,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 32,
+            "text": "tempatnya nyaman"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "A4onhLS5qM",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 62,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 50,
+            "text": "makanan enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "8d_nxIb_fm",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 86,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 64,
+            "text": "cepet juga service nya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "BKEGkIJF5T",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 129,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 116,
+            "text": "saladnya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "VWZlXGBy1m",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 151,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 131,
+            "text": "minumannya juga enak"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "cobain ini yg lokasi nya d pvj. tempatnya nyaman. makanan enak. cepet juga service nya. saus mushroomnya biasa aja. saladnya enak. minumannya juga enak "
+  },
+  "id": 372
+}

@@ -1,0 +1,32 @@
+{
+  "completions": [
+    {
+      "created_at": 1600783597,
+      "id": 45001,
+      "lead_time": 37.144,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "uzaJFTG4C3",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 131,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 82,
+            "text": "all the breads, pastries even the snacks are good"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "..tiny place with long queue.. but really worth waiting... \u2018customized\u2019 sandwich, all the breads, pastries even the snacks are good. pita chips and flaxseed garlic cookies are two of the best snacks i love.."
+  },
+  "id": 45
+}

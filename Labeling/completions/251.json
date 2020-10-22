@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600680215,
+      "id": 251001,
+      "lead_time": 21.922,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "tFrT3DL91B",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 135,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 109,
+            "text": "pas banget sama lidah saya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "WajXL3U3al",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 197,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 179,
+            "text": "recomended pokonya"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "di beberapa resto di bandung, baru kali ini saya makan kangkung hotplate yg belum saya rasakan sebelumnya... pas banget sama lidah saya yg suka makanan khususnya sayur sayuran... recomended pokonya... #kulinerbandung #goldenchopsticks"
+  },
+  "id": 251
+}

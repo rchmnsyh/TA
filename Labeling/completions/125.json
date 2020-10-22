@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600506185,
+      "id": 125001,
+      "lead_time": 263.822,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "PcNBAef5m5",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 86,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 68,
+            "text": "kopinya cukup enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "oaceBI-gJi",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 353,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 335,
+            "text": "onion ringnya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "8SiNGm-hKR",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 333,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 301,
+            "text": "buat cemilan berdua cukup banyak"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "tempatnya kliatan kecil tp tempat duduknya banyak di dalem. magic : kopinya cukup enak & strong  dibanding magic2 kopi syop lainnya coco delight : lupa si namanya apa yg pasti dia pakai coconut milk + flakes kelapa di keliling gelasnya. yg ga suka kopi mungkin suka ini. kopinya light morgy sampler : buat cemilan berdua cukup banyak. onion ringnya enak."
+  },
+  "id": 125
+}

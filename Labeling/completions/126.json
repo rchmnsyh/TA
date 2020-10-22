@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600785418,
+      "id": 126001,
+      "lead_time": 8.889,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "ZjYZwW-i2_",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 24,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "varian teh nya oke punya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "0GmPDAKTQy",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 58,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 29,
+            "text": "brownies nya juga enak banget"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "varian teh nya oke punya dan brownies nya juga enak banget. passs"
+  },
+  "id": 126
+}

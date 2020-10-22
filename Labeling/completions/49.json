@@ -1,0 +1,117 @@
+{
+  "completions": [
+    {
+      "created_at": 1600506287,
+      "id": 49001,
+      "lead_time": 101.071,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "sIf3u2rW9F",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 155,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 107,
+            "text": "it was nicely designed with natural wooden theme"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "yTIRLzcD0E",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 279,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 233,
+            "text": "it was a perfect place to relax in the morning"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "vC5PMI83nZ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 492,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 463,
+            "text": "this beef sandwich is amazing"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "MpPgymYtF_",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 572,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 495,
+            "text": "the bread was freshly baked so the crust was perfect and the texture was good"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "6zdgxXAS5X",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 748,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 691,
+            "text": "the service was also good, fast, friendly and informative"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "XI6QMtzSvT",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 773,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 752,
+            "text": "very very recommended"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "more on instagram @stanzazone   mom's artisan bakery is located at progo street, next to hummingbird cafe. it was nicely designed with natural wooden theme. the place was also serene with natural sunlight and morning bandung breeze, it was a perfect place to relax in the morning!!  ordered beef sandwich which is one of their signature sandwiches that consist of freshly baked bread filled with beef meat, lettuce, sliced tomato, sliced onions and cranberries.  this beef sandwich is amazing!! the bread was freshly baked so the crust was perfect and the texture was good!! the beef filling was also tender, juicy and matched so well with the freshness of the vegetables and cranberries!!  the service was also good, fast, friendly and informative!!  very very recommended!! "
+  },
+  "id": 49
+}

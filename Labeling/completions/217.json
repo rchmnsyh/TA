@@ -1,0 +1,86 @@
+{
+  "completions": [
+    {
+      "created_at": 1600683981,
+      "id": 217001,
+      "lead_time": 25.053,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "A60wlYM7tv",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 16,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "makanan nya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "vqVaWHZWgA",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 41,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 17,
+            "text": "mengeyangkan makanan nya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "TryE1WtqIH",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 59,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 42,
+            "text": "tempat nya nyaman"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "z5IElAJYhJ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 152,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 124,
+            "text": "musolanya juga nyaman bersih"
+          }
+        }
+      ],
+      "skipped": false,
+      "was_cancelled": false
+    }
+  ],
+  "data": {
+    "text": "makanan nya enak,mengeyangkan makanan nya,tempat nya nyaman,recomanded buat kumpul kumpul keluarga maupun sama teman arisan,musolanya juga nyaman bersih"
+  },
+  "id": 217,
+  "predictions": []
+}

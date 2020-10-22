@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600783559,
+      "id": 141001,
+      "lead_time": 18.88,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "78eFxa1KFT",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 71,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 67,
+            "text": "enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "onXf-LYtWi",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 92,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 78,
+            "text": "rotinya lembut"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "PcgyVyRCbI",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 118,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 94,
+            "text": "toppingnya sangat banyak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ycDPDTalVD",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 137,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 123,
+            "text": "harganya murah"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "ya seperti roti roti pada umumnya , beli yang asin dan yang manis, enak kok , rotinya lembut, toppingnya sangat banyak dan harganya murah"
+  },
+  "id": 141
+}

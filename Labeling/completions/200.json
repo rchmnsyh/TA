@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600678026,
+      "id": 200001,
+      "lead_time": 128.907,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Gvfg9mxGHC",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 218,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 202,
+            "text": "the food if good"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "hGiOA5dkRd",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 324,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 288,
+            "text": "the steak taste a liiittle too salty"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "lI_W79N-Rs",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 340,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 329,
+            "text": "cooked well"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "CkWMWeTeJ2",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 572,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 518,
+            "text": "will come back yo try their other menus sometime later"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "found this place when looking for a never been visited cafe experience, and it turn out to be a good one. can't give it 5 stars yet cause we've only try it once, maybe after a few visit it will change. the food if good. nachos although already change to suit indonesian taste still good. the steak taste a liiittle too salty but cooked well. the parm chicken also good. thick juicy chicken with thin crispy breading and a surprise cheese stuffing. it's too little to actually taste what kind of cheese exactly though. will come back yo try their other menus sometime later."
+  },
+  "id": 200
+}

@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600787164,
+      "id": 278001,
+      "lead_time": 664.662,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "JdyCODCZqc",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 209,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 185,
+            "text": "lebih byk bgt pilihannya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "QuoppQBYee",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 56,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 16,
+            "text": "yang enak dari sushi tei adalah soyu nya"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "menurut gue sih yang enak dari sushi tei adalah soyu nya, klo sushinya sih, jujur aja enak tp ga enak bgt. gue lebih suka ichiban kalo soal rasa. tapi kalo diliat dr menu emg sushi tei lebih byk bgt pilihannya."
+  },
+  "id": 278
+}

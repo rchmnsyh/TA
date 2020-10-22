@@ -1,0 +1,117 @@
+{
+  "completions": [
+    {
+      "created_at": 1600685234,
+      "id": 330001,
+      "lead_time": 104.976,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "krhr2BCkj3",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 156,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 136,
+            "text": "makanannya enak-enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "iAUXlTuqxB",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 467,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 446,
+            "text": "berasa daging babinya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "_H9JSP3CDf",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 384,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 351,
+            "text": "mie-nya juga berasa sedikit manis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "4lnuDykSAs",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 415,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 389,
+            "text": "tekstur mie-nya agak tebal"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "HZ7DCt-Bid",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 599,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 581,
+            "text": "ayam cincang empuk"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "31UI3UCOw_",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 842,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 828,
+            "text": "basonya kenyal"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "kalo ke bandung pasti mampir makan pagi ke mie rica kejaksaan. saat dateng sih nunggu antrian cukup panjang sampai hampir 2 jam. untung makanannya enak-enak.  mie caciang pangsit kuah idr 38.000 jika suka pedas dapat pesan mie rica, tapi kalo gak suka pedas bisa pesan mie caciang. mie caciang ini menggunakan babi cincang yang bumbunya cukup berasa. mie-nya juga berasa sedikit manis dan tekstur mie-nya agak tebal. dapat pangsit kuah 3 pcs dan berasa daging babinya.  mie ayam polos idr 32.000 bumbu mie ayam polos ini lebih dominan ke asin jika dibandingkan dengan mie caciang. ayam cincang empuk tapi dagingnya lebih sedikit dibandingkan dengan daging babi yang ada di mie caciang.  baso udang goreng idr 50.000 satu porsi berisi 10 pcs baso udang goreng. ngeliat pengunjung laen pada pesen ini, jadi ikutan pesen ini juga. basonya kenyal dan aroma udangnya gak terlalu dominan kok. enak dijadikan cemilan atau campur dengan mie-nya.  siap-siap antri kalo mau makan mie ini. mie di cabang ini buka 2 kali sehari dengan jam 8 pagi \u2013 2 siang dan jam setengah 5 sore \u2013 8 malam.  lokasi jl. kejaksaan no.7, sumur bandung, kota bandung, jawa barat"
+  },
+  "id": 330
+}

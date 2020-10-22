@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600687725,
+      "id": 412001,
+      "lead_time": 18.564,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "j-gTZyCdXc",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 69,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 36,
+            "text": "wide selection of western cuisine"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "hN2YObZrMq",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 31,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 0,
+            "text": "one of my favorite place to eat"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "one of my favorite place to eat...a wide selection of western cuisine from light snacks to brunch...this place is well known for its pancake! i love pancake! "
+  },
+  "id": 412
+}

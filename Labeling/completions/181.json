@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600518732,
+      "id": 181001,
+      "lead_time": 24.424,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "d931gGho8G",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 12,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "makanan enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "pXblw_p8s-",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 35,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 14,
+            "text": "tempatnya nyaman juga"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "JkQew7hfHd",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 89,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 62,
+            "text": "dilayani dengan sangat baik"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "makanan enak, tempatnya nyaman juga, dateng bareng sama teman dilayani dengan sangat baik oleh dani kokom meta haris. pasti bakal balik lagi sih."
+  },
+  "id": 181
+}

@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600786121,
+      "id": 246001,
+      "lead_time": 539.101,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "NyVWETbs_J",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 16,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "tempat yg nyaman"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "l8aIfXhbP8",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 50,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 36,
+            "text": "pelayanan baik"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "2LNBC0ihp5",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 66,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 51,
+            "text": "makanan yg enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "sXmAtbFLbU",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 214,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 188,
+            "text": "masi goreng rasa juga okey"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "tempat yg nyaman karena cukup luas. pelayanan baik makanan yg enak harga ga mulah tapi ga mahal beken untuk es krimnya juga  nasgor kencur selalu fav. agak sedikit spicy karena kencurnya. masi goreng rasa juga okey pizza standar lah ukuran sepiring 20cm  food 4,5/5 service 4,5/5 place 4,5/5 price 4/5 overall 4,5"
+  },
+  "id": 246
+}

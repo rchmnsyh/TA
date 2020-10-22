@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600680045,
+      "id": 276001,
+      "lead_time": 42.027,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "hIdNlragzW",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 57,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 49,
+            "text": "enak bgt"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "vHXIROAb61",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 73,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 59,
+            "text": "sayurnya segar"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "_3xe2Vu5V4",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 102,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 81,
+            "text": "karagenya juga lembut"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "GJeP_SjQgH",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 188,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 184,
+            "text": "enak"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "hmmm suka bgt sama chicken karage salad merekaaa enak bgt. sayurnya segar  terus karagenya juga lembut. cocok bgt buat diet pokonya. terus temen gue juga nyoba karenya dia bilang juga enak."
+  },
+  "id": 276
+}

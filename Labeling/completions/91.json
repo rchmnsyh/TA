@@ -1,0 +1,32 @@
+{
+  "completions": [
+    {
+      "created_at": 1600788769,
+      "id": 91001,
+      "lead_time": 11.826,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "bTpIfOPtGM",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 133,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 96,
+            "text": "pilih menu kintan dan puas banget sih"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "baru kemaren banget kesini bareng doi, bisa pilih mau suki apa grill dan kita pilih yang grill. pilih menu kintan dan puas banget sih, karena temanya all u can eat jadi bebas refill sepuasnya dengan waktu 90 menit"
+  },
+  "id": 91
+}

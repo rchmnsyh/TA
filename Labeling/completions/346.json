@@ -1,0 +1,52 @@
+{
+  "completions": [
+    {
+      "created_at": 1600518593,
+      "id": 346001,
+      "lead_time": 145.072,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Tjsho1n1UV",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 88,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 62,
+            "text": "pelayanan sangat memuaskan"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "MQXQA4IdW7",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 131,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 101,
+            "text": "pelayanan sedikit mengecewakan"
+          }
+        }
+      ],
+      "skipped": false,
+      "was_cancelled": false
+    }
+  ],
+  "data": {
+    "text": "untuk kedua kalinya dateng ke tempat ini, saat pertama datang pelayanan sangat memuaskan, yang kedua pelayanan sedikit mengecewakan. memesan menu tomyum yang sangat lama disajikan. saya menunggu hingga lebih dari 1 jam dan ketika ditanya pelayan hanya menjawab sedang disiapkan. hingga setelah 1 jam saya kembali bertanya malah ditanya balik \u201capa mau di cancel?\u201d . wow ketika udah sejam baru ditanya kaya gitu. akhirnya makanan datang dengan muka pelayan yang malu dan menjelaskan bahwa penyajian lama dikarenakan spring roll yang susah dimasak(?). rasa tomyum yang saya pesan mirip sekali dengan rasa sayur asem yang ditambahin cabe biar pedas. springroll yang mereka bilang susah lebih layak dibilang risol yang berisi bihun."
+  },
+  "id": 346,
+  "predictions": []
+}

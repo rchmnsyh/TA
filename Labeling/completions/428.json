@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600687853,
+      "id": 428001,
+      "lead_time": 64.999,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "4hR9xhfvso",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 20,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "i love thier concept"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "o4Ul0kz--u",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 317,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 292,
+            "text": "the taste is pretty bland"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "PoL6jrMbC7",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 503,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 453,
+            "text": "i can't barely notice any dirty spot in this place"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "i love thier concept! first, we have to know it well about the name, kehidupan tidak pernah berakhir (life never ends). it brings up some positivity to their customers and we need it! second one is the menu. this is my first experience having a meal in vegan restaurant. i have to admit that the taste is pretty bland. maybe it's bcs they don't use any msg to make the meal more healthy. you have to try the soy milk. the last one is their cleanliness. i can't barely notice any dirty spot in this place."
+  },
+  "id": 428
+}

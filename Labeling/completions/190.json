@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600680584,
+      "id": 190001,
+      "lead_time": 26.773,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "bbduCwo5tx",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 18,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "kopi awannya enakk"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ZwXgEk967s",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 130,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 103,
+            "text": "banana cheese cakenya enakk"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "kopi awannya enakk, apalg foam diatasnyaaa.  buat yg suka kopi yg strong, pas banget kalo ke sini. anw banana cheese cakenya enakk "
+  },
+  "id": 190
+}

@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600681677,
+      "id": 38001,
+      "lead_time": 25.99,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "AeNjXsjQ-w",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 22,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "suka banget suasananya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "LWfYATOnyE",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 37,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 24,
+            "text": "menunya enak\""
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "9Sf_4YL1kf",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 113,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 102,
+            "text": "bikin betah"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "suka banget suasananya. menunya enak\". paling seneng ngajakin org ketemu di sini & buat kerja jg pas, bikin betah. bener\" ngerasain suasana bandung yg adem & hijau "
+  },
+  "id": 38
+}

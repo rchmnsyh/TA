@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600516319,
+      "id": 195001,
+      "lead_time": 38.216,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "B4wJQ1Nkxi",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 122,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 91,
+            "text": "interior tokonya nuansa vintage"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "fwpiys1ihS",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 249,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 216,
+            "text": "enak banget dan cepet banget abis"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "kopi toko djawa ini letaknya di daerah braga yang selalu rame sama anak-anak muda bandung. interior tokonya nuansa vintage gitu dan seatingnya terbatas disini. kalo kesini harus banget nyobain banana breadnya karena enak banget dan cepet banget abis hehe. croissant mereka juga enak-enak dan kalau mau dine in disitu biasanya diangetin lagi jadi crunchy. untuk kopinya disini yang unik varian es kopi awan, sejenis iced cafe latte pakai gula jawa dan creamy foam. untuk harga kopi sekitaran 20k dan harga kue-kuenya mulai dari 15k."
+  },
+  "id": 195
+}

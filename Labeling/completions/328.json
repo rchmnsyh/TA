@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600692824,
+      "id": 328001,
+      "lead_time": 47.744,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "gahIfAhTmS",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 26,
+            "labels": [
+              "Negative",
+              "Miscellaneous"
+            ],
+            "start": 0,
+            "text": "doesn't live to its rating"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "gsxbpiuaCA",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 65,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 28,
+            "text": "noodle texture too rubbery, tasteless"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "sue-FznvCm",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 136,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 93,
+            "text": "ratio of meat & noodle is rather unbalanced"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "4qyVdID1Pq",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 158,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 138,
+            "text": "service is kinda bad"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "doesn't live to its rating. noodle texture too rubbery, tasteless, definitely not my liking. ratio of meat & noodle is rather unbalanced. service is kinda bad, these girls are chatting publicly in front of me instead of maintaining an impression of good quality-service.  couldn't even finish my bowl, it's tha"
+  },
+  "id": 328
+}

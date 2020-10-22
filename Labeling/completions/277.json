@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600518575,
+      "id": 277001,
+      "lead_time": 36.321,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "IkvOoxlCXm",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 18,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "best sushi in town"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ZeC7y_x6K3",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 42,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 21,
+            "text": "the food always fresh"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "oPJLAqpB6N",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 57,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 44,
+            "text": "good services"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "best sushi in town!! the food always fresh, good services!! recomended if there are friends who will birthday a week before and after they will get sushi free !!"
+  },
+  "id": 277
+}

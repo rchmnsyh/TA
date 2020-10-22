@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600782751,
+      "id": 316001,
+      "lead_time": 29.492,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "QVoSClAnFu",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 145,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 110,
+            "text": "great view on the 2nd floor terrace"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "jX_5XXXqNw",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 54,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 26,
+            "text": "the menu here were different"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "first visit on the resto. the menu here were different with the menu on zomato (maybe cause of covid?). got a great view on the 2nd floor terrace as seen in the pics. adding more bandung's snacks on the menu wouldn't be hard i think.. ^^"
+  },
+  "id": 316
+}

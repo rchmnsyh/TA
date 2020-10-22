@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600785483,
+      "id": 280001,
+      "lead_time": 16.808,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "h7vecmNqmF",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 15,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "best sushi ever"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "cDC9vg4oFT",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 54,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 40,
+            "text": "great ambience"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "uuq9B-S27Z",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 136,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 115,
+            "text": "the price is worth it"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "best sushi ever,, the place really have great ambience for you and your family or friends to have lunch / dinner.. the price is worth it.."
+  },
+  "id": 280
+}

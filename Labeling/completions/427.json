@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600681552,
+      "id": 427001,
+      "lead_time": 40.265,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Kggtn6fhUs",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 300,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 269,
+            "text": "yang susah cuma parkirannya sih"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ps6Us5CnKv",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 505,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 478,
+            "text": "ga perlu rogoh kocek dalem2"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "mau makan sehat tapi enak dan murah? makan rasa senikmat daging tp ternyata bukan daging melainkan bahan makanan bergizi rendah lemak? yaaaa. ke sini nihh wajib musti kudu!  terutama urang bandung, posisinya di padjajaran,\u00a0  plangnya segede itu jadi gampang nemuinnya, yang susah cuma parkirannya sih, tp ada aja kok pasti dapet untuk makanan dia banyak paket2nya, ada ya sate daging itu padalah terbuatnya dari jamur woww kaget loh buat km yang vegetarian cocok bgt deh kesini ga perlu rogoh kocek dalem2!"
+  },
+  "id": 427
+}

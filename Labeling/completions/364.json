@@ -1,0 +1,134 @@
+{
+  "completions": [
+    {
+      "created_at": 1600692424,
+      "id": 364001,
+      "lead_time": 123.018,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Q859FeqxiX",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 804,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 759,
+            "text": "kuah tomyamnya enak banget gurih bercita rasa"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "a5TTSBSY3F",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 969,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 949,
+            "text": "suka banget kuah ini"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "BPbE5miOso",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1070,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 1051,
+            "text": "ayam karagenya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "MkF_qWVeC3",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1097,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 1075,
+            "text": "sayurannya fresh semua"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "WfoKSZpXgd",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1355,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 1335,
+            "text": "ice creamnya enaksih"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "zHVZKNvs1K",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1566,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 1526,
+            "text": "daging yang dikasih ternyata setipis itu"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "YNHcjtyAXL",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1704,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 1666,
+            "text": "variasi daging yang ditawarin gabanyak"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "ketika datang pertama kali, banyak orang yang duduk di kursi waitinglist. jadi saya pikir, saya akan kebagian sangat lama. teteh di depan bertanya apakah saya sudah reservasi atau belum. sebenarnya sebelumnya sudah dicoba untuk reservasi oleh teman saya, tapi cs-nya menjawab kalau hari itu sedang fullbooked dan lebih baik datang langsung. karena memang cuman berdua, ternyata ada meja yang kosong dan kita boleh langsung masuk. kagetsih ternyata banyak meja yang kosong. saya kurang paham juga apakah orang di luar tadi termasuk dalam waiting list atau tidak, sistem waitinglist dan reservasinya seperti apa juga saya tidak tahu.  kami memesan paket power lunch with grill (119k; inc.tax). - kuah yang kami pilih original dan tomyam. kuah originalnya asin, kuah tomyamnya enak banget gurih bercita rasa. - saya pribadi kurang suka hidangan shabu, jadi gabanyak ambil untuk shabunya. untuk melengkapi kuah tomyam saya memilih tofu dan wortel. fix! suka banget kuah ini. - waktu saya datang, banyak makanan sudah habis, terutama di bagian dagingnya:( ayam karagenya enak dan sayurannya fresh semua. - sauce yang enak menurut saya yang rupanya kayak ada cabainya, lupa namanya apa iseng nyobain sauce perpaduan yang direkomendasi shabu koju tapi ternyata rasanya random banget:( - nyobain original pannacotta di sini, okelah not bad. - ice creamnya enaksih, gatau karena doyan eskrim atau emang enak pake topping toppingnya. - saya tausih, ini harga promo dan termasuk all you can eat dengan harga murah. tapi ganyangka banget daging yang dikasih ternyata setipis itu sampe sudah dibakar dengan posisi bagus, pasti meringkel-ringkel kelipet karena saking tipisnya. - variasi daging yang ditawarin gabanyak dan cenderung biasa aja tapi not bad juga. - untuk paket promo diberikan 3 plate daging dan tidak bisa tambah."
+  },
+  "id": 364
+}

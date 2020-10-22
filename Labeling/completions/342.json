@@ -1,0 +1,117 @@
+{
+  "completions": [
+    {
+      "created_at": 1600684611,
+      "id": 342001,
+      "lead_time": 54.364,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "qcjMnnq6_r",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 14,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "tempatnya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "uyIhPkFwvR",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 70,
+            "labels": [
+              "Negative",
+              "Ambience"
+            ],
+            "start": 33,
+            "text": "smoking dan non smoking area digabung"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "cLxeBJxtFm",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 249,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 184,
+            "text": "waiternya juga sepertinya kewalahan handle pengunjung yang banyak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Sc0mdwNUv8",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 293,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 257,
+            "text": "minuman nya sendiri sih rasanya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "iZvusV4gwj",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 329,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 298,
+            "text": "kue choco lava nya juga lumayan"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "uMMsuQS-I0",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 359,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 331,
+            "text": "tempatnya juga instagramable"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "tempatnya enak cuma sayang untuk smoking dan non smoking area digabung jadi ga bisa lama disini krn bawa anak istri  kesini sore2 dan tempatnya full susah cari meja yang available dan waiternya juga sepertinya kewalahan handle pengunjung yang banyak. untuk minuman nya sendiri sih rasanya enak dan kue choco lava nya juga lumayan. tempatnya juga instagramable cuma mungkin unuuk smoking area harus dibuat terpisah krn ada yg bawa anak kecil juga."
+  },
+  "id": 342
+}

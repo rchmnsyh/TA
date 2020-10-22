@@ -1,0 +1,117 @@
+{
+  "completions": [
+    {
+      "created_at": 1600681511,
+      "id": 134001,
+      "lead_time": 59.334,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "7izXeUBuom",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 146,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 134,
+            "text": "cukup nyaman"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "BJpyMesuHj",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 222,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 164,
+            "text": "roti bakar disini variant rasa dan ukurannya banyak banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Y8kYlbItDC",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 271,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 259,
+            "text": "lumayan enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "0a0ZxIgJNb",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 296,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 273,
+            "text": "rotinya empuk dan tebal"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ujZfy674-m",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 322,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 298,
+            "text": "isinya juga cukup banyak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "5icD1BpyJK",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 364,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 337,
+            "text": "harganya relatif terjangkau"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "(this review based on experience before coronavirus outbreak)  roti bakar legendaris di bandung, tempatnya sih ga terlalu besar, tapi cukup nyaman lah buat ngemil. roti bakar disini variant rasa dan ukurannya banyak banget, kita cobain yang keju coklat susu. lumayan enak, rotinya empuk dan tebal, isinya juga cukup banyak. recommended, harganya relatif terjangkau, dan pas buat nongkrong sambil menikmati suasana sejuknya bandung."
+  },
+  "id": 134
+}

@@ -1,0 +1,134 @@
+{
+  "completions": [
+    {
+      "created_at": 1600787268,
+      "id": 203001,
+      "lead_time": 74.054,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "96kYnrEZnC",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 65,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 44,
+            "text": "tempatnya luas banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "7TCGYzzfX5",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 88,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 67,
+            "text": "nyaman buat nongkrong"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "lKKCiz2bsl",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 146,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 123,
+            "text": "pelayanannya juga ramah"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ismv52Oreb",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 341,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 318,
+            "text": "saya suka sama pastanya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Q_bQIpXTlb",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 352,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 343,
+            "text": "porsi pas"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "cp0y0-6aEy",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 424,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 403,
+            "text": "love the creamy pasta"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "hn73VP0DYZ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 686,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 635,
+            "text": "totally recommended buat ke sini kl lagi ke bandung"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "pertama kali ke saka bistro and bar dan wow tempatnya luas banget. nyaman buat nongkrong & asik juga kalau mau foto2 ootd. pelayanannya juga ramah.  saya dan teman pesan art latte utk cappuccino & caffe latte. teman saya pesan cream soup & quesadillas, sementara saya langsung tergoda sama creamy pasta with salmon.   saya suka sama pastanya, porsi pas, gak berani foto lama2 takut pastanya jadi keras. love the creamy pasta, tenang gak akan bikin eneg kok.  ketika art latte datang, my goodness... personal banget rasanya. yg saya pesan cappuccino ada doggy lucu yang berusaha meraih kitty cat di caffe latte; pesanan teman. love it! totally recommended buat ke sini kl lagi ke bandung."
+  },
+  "id": 203
+}

@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600683752,
+      "id": 421001,
+      "lead_time": 20.113,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "3bOO1uXebu",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 13,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "makanan sehat"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "VHw3qmyPzA",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 60,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 56,
+            "text": "enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "koC2SRL_Xt",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 69,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 64,
+            "text": "murah"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "makanan sehat\u00a0   wajib dicoba bila ke bandung    selain enak eh murah plus sehat lho   aneka menu yang sangat enak smuanya bahan dari vegetarian   rekomended deh"
+  },
+  "id": 421
+}

@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600686527,
+      "id": 376001,
+      "lead_time": 57.631,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "4lbuBORwSS",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 237,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 221,
+            "text": "harga terjangkau"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Os6kQTlLms",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 258,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 239,
+            "text": "rasa tergolong enak"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "instagram: @eatfotainment  di jakarta, lets go gelato ini salah satu outlet gelato yang selalu ku datangi. kenapa? karena walaupun bukan yang terenak yang pernah ku coba, tapi lokasi-lokasinya strategis dan di luar mall, harga terjangkau, rasa tergolong enak, tekstur juga ga terlalu mudah mencair (kadang tergantung pilihan rasa juga). kalau untuk diri sendiri, selalu beli ukuran m 2 scoop. kita diperbolehkan untuk coba-coba dulu rasanya sebelum menentukan pilihan.  favoritku tadinya dark chocolate mereka, tapi setelah nyoba sorbet chocolate. wah kacau ini aku langsung suka. mungkin karena aku penggemar cokelat yang rasa cokelatnya tuh berasa banget. dan ini ga pake susu jadi yang diet non-dairy atau yang lactose intolerant bisa nyoba rasa ini. rasa satu lagi biasanya aku pilih yang manis. jadi ngeblend dengan pahitnya cokelat enak dan pas. pilihan jatuh pada vanilla almond. tadinya mau sea salt caramel tapi agak bosen, sering banget pilih yang itu haha. untuk tekstur keduanya, lebih cepet lumer yang vanilla almond, ditambah lagi agak terik juga kali ya jalanan.   untuk lokasinya dia nempel sama papirus. tempatnya lagi direnov sih, jadi kalau mau duduk kayak ada taman di dalam papirus gitu. bisa duduk disitu. aku sendiri ga nyoba duduk situ karena langsung cus pergi lagi."
+  },
+  "id": 376
+}

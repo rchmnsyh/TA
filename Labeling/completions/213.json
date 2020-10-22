@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600689643,
+      "id": 213001,
+      "lead_time": 20.786,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "-e40nB4T9_",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 72,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 56,
+            "text": "servicenya bagus"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "u38G-qHrmM",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 239,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 190,
+            "text": "rasanya gk ush ush tanya lgi, very very delicious"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "gk tau udh berapa kali pergi ke shabu hachi di bandung. servicenya bagus, waktu itu pernah sumpitnya jatuh dan waitressnya langsung nyamperin kasih sumpit yg baru tanpa diminta dulu.  untuk rasanya gk ush ush tanya lgi, very very delicious   pokoknya sangat sangat sangat worth it "
+  },
+  "id": 213
+}

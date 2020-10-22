@@ -1,0 +1,32 @@
+{
+  "completions": [
+    {
+      "created_at": 1600784878,
+      "id": 393001,
+      "lead_time": 10.055,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "AwuVkEMoIs",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 57,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 45,
+            "text": "kopinya enak"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "pas masuk, wangi kopinya da kecium... beuh.. kopinya enak... mantul dah... walopun tempatnya ga gede... kalo penuh bisa makan di tempat tetangganya si blackpepper.  \ufe0f\ufe0f\ufe0f\ufe0f\ufe0f"
+  },
+  "id": 393
+}

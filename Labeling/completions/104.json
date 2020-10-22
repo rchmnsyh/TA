@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600787602,
+      "id": 104001,
+      "lead_time": 22.737,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "JAtkDc8cKw",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 12,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "makanan enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "G7i_-C8pY_",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 152,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 120,
+            "text": "rasa makanan rasa rumahan sekali"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "PsbwDjNS1E",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 224,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 154,
+            "text": "tempatnya asik buat nongkrong bersama teman, pasangan ataupun keluarga"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "62744RJZC9",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 247,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 226,
+            "text": "i'll be back for sure"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "makanan enak, pesan cireng, pisang goreng, red velvet, nasi goreng, black tea dam kopi(lupa nama kopinya di menu) untuk rasa makanan rasa rumahan sekali. tempatnya asik buat nongkrong bersama teman, pasangan ataupun keluarga. i'll be back for sure"
+  },
+  "id": 104
+}

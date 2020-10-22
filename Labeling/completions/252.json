@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600689700,
+      "id": 252001,
+      "lead_time": 24.147,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "d9z2Y8z52c",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 55,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "udah paling terbaik ayam telor asinnya, dan kangkungnya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "LvVVS55-gW",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 89,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 57,
+            "text": "gada yg bisa nyamain dah rasanya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "t7wko0s5qR",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 123,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 105,
+            "text": "rugi kalo ga nyoba"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "udah paling terbaik ayam telor asinnya, dan kangkungnya, gada yg bisa nyamain dah rasanya ... terbaks... rugi kalo ga nyoba"
+  },
+  "id": 252
+}

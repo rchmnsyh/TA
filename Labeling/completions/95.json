@@ -1,0 +1,188 @@
+{
+  "completions": [
+    {
+      "created_at": 1600518534,
+      "id": 95001,
+      "lead_time": 430.332,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "fS5uR9hKCq",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 111,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 90,
+            "text": "rasa oke lumayan enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "GYxe5-BEze",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 202,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 155,
+            "text": "masih kerasa bgt terongnya yg membuat jd gaenak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "a9Ptc8-xeV",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 231,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 215,
+            "text": "nah ini enak bgt"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "uTGHcuV4Rw",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 271,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 259,
+            "text": "bener2 seger"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Kr_QVbTlNn",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 313,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 285,
+            "text": "ini juga enak kayak ayam pop"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "yCs6xAZMzP",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 352,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 341,
+            "text": "kurang asin"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "0eYojKhgA-",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 368,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 357,
+            "text": "agak kering"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "9nxTQ2J3FA",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 386,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 382,
+            "text": "enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "lU5CVg2Yxx",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 413,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 397,
+            "text": "alpukatnya bagus"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "O63cUkYUTU",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 536,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 527,
+            "text": "enak bgtt"
+          }
+        }
+      ],
+      "skipped": false,
+      "was_cancelled": false
+    }
+  ],
+  "data": {
+    "text": "nyobain ke sini karena reviewnya bagus banget. nyobain pesen beberapa menu: gurame bakar: rasa oke lumayan enak cuma ga spesial menurut gue.  terong raos: masih kerasa bgt terongnya yg membuat jd gaenak sayur asem: nah ini enak bgt!!! pertama kali nyobain yg bener2 seger ayam ungkep: ini juga enak kayak ayam pop tp versi sunda pepes tahu: kurang asin dan agak kering jus alpukat: enak! kayaknya alpukatnya bagus trs instead of susu kental manis cokelat dia pakai semacam gula aren, awalnya bingung tp begitu diminum terus jd enak bgtt pahit2 manis gt  overall this resto is okay tp ga se memorable itu rasa rasanya. untuk makanan sunda i still prefer ma'****  ++++point bcs this resto majang banyak bgt foto jokowi "
+  },
+  "id": 95,
+  "predictions": []
+}

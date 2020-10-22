@@ -1,0 +1,100 @@
+{
+  "completions": [
+    {
+      "created_at": 1600678629,
+      "id": 233001,
+      "lead_time": 48.244,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "tpztGlwVC_",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 26,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "one of my favorite noodles"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "UpAAOlFGLB",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 117,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 80,
+            "text": "most items on the menu were delicious"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "SWWyqePr4R",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 136,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 119,
+            "text": "reasonably priced"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "YNTHKexZ1z",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 176,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 138,
+            "text": "parking space was a bit limited though"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "jaD97KdM-9",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 260,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 226,
+            "text": "the foods portions were quite huge"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "one of my favorite noodles, meatballs and dumplings i tried for the first time. most items on the menu were delicious, reasonably priced. parking space was a bit limited though, a bit hard to find space during busy hour. btw, the foods portions were quite huge. better order the half portions size of you don't eat much."
+  },
+  "id": 233
+}

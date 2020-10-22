@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600680985,
+      "id": 377001,
+      "lead_time": 32.5,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "0sV2_KB1I0",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 155,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 131,
+            "text": "varian nya juga banyaaak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "TnIrIwdwlJ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 299,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 287,
+            "text": "lumayan cozy"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "dbeJIZMCRw",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 334,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 306,
+            "text": "parkiran nya juga cukup luas"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "suka banget sama gelato                                               dan ini salah satu gelato yang terkenal di bdg heheu  enak!  varian nya juga banyaaak. tapi es krim nya gampang banget222 lumer  jadi makannya harus extra cepat!  tempat yang aku datengin, cukup kecil tempatnya  tapi lumayan cozy kok~  parkiran nya juga cukup luas kalo mau buat bawa mobil"
+  },
+  "id": 377
+}

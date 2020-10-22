@@ -1,0 +1,100 @@
+{
+  "completions": [
+    {
+      "created_at": 1600693214,
+      "id": 335001,
+      "lead_time": 50.773,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "T1Vw6nICck",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 97,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 57,
+            "text": "tempatnya yang nyaman banget dan estetik"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "t_MbTz_5k9",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 138,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 118,
+            "text": "pelayanan yang ramah"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "MpTuGO5p31",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 189,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 158,
+            "text": "makanan yang super duper nikmat"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "VwLqIDXv2J",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 381,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 370,
+            "text": "enak banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "pC94i0Uyym",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 460,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 435,
+            "text": "would totally coming back"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "gokil, emang ga pernah mengecewakan deh ini tempat, dari tempatnya yang nyaman banget dan estetik, suasana dingin dan pelayanan yang ramah, dilengkapi dengan makanan yang super duper nikmat, dapet saran dari teman untuk cobain bunga pepaya dan emang deh dari awalnya ga suka sama bunga pepaya jadi demen gara gara makan disini, sama pesen nagoya something lupa namanya, enak banget pengen nambah pesen semua menu tapi perut ga cukup , would totally coming back! keep up the good work!"
+  },
+  "id": 335
+}

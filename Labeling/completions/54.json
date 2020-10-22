@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600785162,
+      "id": 54001,
+      "lead_time": 283.278,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "7599eaK_fK",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 22,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "tempatnya bagus banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "-1ydaPsDMK",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 124,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 101,
+            "text": "makanannya juga beragam"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "B-1zC7V6gd",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 146,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 130,
+            "text": "enak enak banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "130RqdtHg4",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 169,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 148,
+            "text": "staff nya ramah semua"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "tempatnya bagus banget, kalau kalian gamau terlalu bising bisa di lantai 2 dan cukup luas tempatnya. makanannya juga beragam, dan enak enak banget. staff nya ramah semua. buat kalian yang mau foto - foto cocok banget tempatnya karena banyak sudut - sudut yang bagus buat jd objek foto.recommended untuk orang - orang jakarta yang lagi mampir ke bandung."
+  },
+  "id": 54
+}

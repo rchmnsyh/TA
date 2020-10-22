@@ -1,0 +1,117 @@
+{
+  "completions": [
+    {
+      "created_at": 1600688554,
+      "id": 71001,
+      "lead_time": 105.285,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "UuevxCxyf3",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 469,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 443,
+            "text": "harga sungguh sangat murah"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "A2nEqAQbNq",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 503,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 476,
+            "text": "rasa yang sangat luar biasa"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "AcoPYmGG9w",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 829,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 774,
+            "text": "rasa sausnya bener=bener luar biasa karena terasa gurih"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "DK_mzsHQG0",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1347,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 1335,
+            "text": "seger nikmat"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "PACqqDhQM6",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1464,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 1424,
+            "text": "rasa enak dan banyak berbagai macam menu"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "89ti4-5Blh",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1511,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 1466,
+            "text": "tempat juga berdesign rumah jepang dan nyaman"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "lagi ada acara di bandung. nah gak lupa mampir ke musouya dengan hidangan japanese food. asal mula cerita sih dari tahun 2013, seorang chef jepang bekerja sama dengan seorang wiraswasta dari indonesia membuat masakan jepang dengan hanya menghidangkan 10 jenis menu saja. sampai saat ini, musouya sudah sangat berkembang hingga menyajikan berbagai jenis menu, seperti teriyaki, katsu, nabe, okonomiyaki, gyoza, karaage, pudding, dan lain-lain. harga sungguh sangat murah untuk rasa yang sangat luar biasa. saya pesan 2 menu, yaitu katsu tenshin don dan annin tofu pudding. katsu tenshin don idr 45.000 paket nasi yang dilengkapi dengan telur dan chicken katsu dan disiram dengan saus manis racikan dari musouya. telurnya dapat dengan pilihan medium atau well done. nah untuk rasa sausnya bener=bener luar biasa karena terasa gurih ditambah lagi dengan potongan chicken katsu tersebut. oh ya kalo pesen menu main course dapat tambahan berupa miso soup dan korokke. berdasarkan info dari pelayan sih korokke disini terbuat dari ubi manis yang dihaluskan dan digoreng dengan tepung hingga bewarna kecoklatan. unik karena biasanya korokke terbuat dari kentang yang dihaluskan.  annin tofu pudding idr 24.000 (take away idr 27.000) salah satu dessert favorit disini, yaitu annin tofu pudding. pudding almond yang dipadukan dengan agar-agar. seger nikmat. selain itu ada juga mango pudding, puding yang belum saya jajalin. overall rasa enak dan banyak berbagai macam menu. tempat juga berdesign rumah jepang dan nyaman. jangan lupa booking dulu kalo mau kesini pas jam makan karena selalu penuh dengan pengunjung. ada service charge nya juga ya. lokasi\t: jl. hegarmanah no. 2a (sebelah hotel sani rosa), cidadap, bandung, jawa barat  fasilitas\t: ac, private room, smoking room, dan pembayaran menggunakan debet / kredit atau gopay."
+  },
+  "id": 71
+}

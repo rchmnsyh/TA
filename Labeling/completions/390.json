@@ -1,0 +1,100 @@
+{
+  "completions": [
+    {
+      "created_at": 1600691237,
+      "id": 390001,
+      "lead_time": 87.156,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "RODSY8__O7",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 119,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 101,
+            "text": "tastes really nice"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "BJQB0HAj4f",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 309,
+            "labels": [
+              "Negative",
+              "Miscellaneous"
+            ],
+            "start": 281,
+            "text": "feel a lot of dissapointment"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "jFa1iEghDi",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 514,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 457,
+            "text": "not allowing students with uniform to stay in their place"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "B4Ro4h5V1o",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1115,
+            "labels": [
+              "Negative",
+              "Miscellaneous"
+            ],
+            "start": 1090,
+            "text": "not gonna come back again"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "0CH1LqnU6T",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1088,
+            "labels": [
+              "Negative",
+              "Miscellaneous"
+            ],
+            "start": 1057,
+            "text": "i was feeling very dissapointed"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "actually, yumaju has been my fav coffee shop. i really like to have a cup of coffee here, because it tastes really nice. i usually go to the 2nd branch because the place is bigger and have a nice scenery, especially around 4pm and above. but, today i visited this 1st branch and i feel a lot of dissapointment. i visited it with friends and my sister. my sister was wearing a school uniform (sma), and guess what the server told her? they said that they\u2019re not allowing students with uniform to stay in their place. i was like wtf?? its already 4pm (the school is already over), and its still afternoon (even the sun still up). when i asked about the reasons, they looked like they cannot give me an understandable reason, they only said that its the management policy. if my sister want to stay, she must use a jacket or change her clothes. such a ridiculous statement and policy, what i known that this is a coffee shop right? why they have such a ridiculous policy? its like they only sells coffee and food, i don\u2019t understand why they have that policy. i was feeling very dissapointed. not gonna come back again"
+  },
+  "id": 390
+}

@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600788616,
+      "id": 258001,
+      "lead_time": 113.391,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "CyIpJcE6nZ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 24,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "the place looks soo good"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "daEot1kH4S",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 69,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 54,
+            "text": "foods are cheap"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "lMVbqSZEg0",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 87,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 71,
+            "text": "yamien was great"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "S-xEWSqjZI",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 129,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 89,
+            "text": "the baso campur was small portion though"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "the place looks soo good, it has balinese feel to it. foods are cheap. yamien was great. the baso campur was small portion though."
+  },
+  "id": 258
+}

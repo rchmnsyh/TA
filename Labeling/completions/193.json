@@ -1,0 +1,32 @@
+{
+  "completions": [
+    {
+      "created_at": 1600686270,
+      "id": 193001,
+      "lead_time": 14.821,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "OC7EuTTL1K",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 97,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 71,
+            "text": "kopi ini banyak pilihannya"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "mau ngopi enak di tengah jalan braga jelas kopi toko djawa pilihannya, kopi ini banyak pilihannya dan mengikuti trend kekinian dengan adanya boba series. kedai kopi ini juga selalu rame"
+  },
+  "id": 193
+}

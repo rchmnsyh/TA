@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600686341,
+      "id": 41001,
+      "lead_time": 45.299,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "XqN0lzqvq-",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 199,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 180,
+            "text": "semua menunya enak2"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "sL1iMGKffj",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 222,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 201,
+            "text": "harganya standar cafe"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "eySNtXHqeT",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 276,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 236,
+            "text": "ambience oke betah bgt buat berlama-lama"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "5d0g5SZ18l",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 319,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 278,
+            "text": "area belakang outdoornya bagus buat foto2"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "sengaja kesini setelah lunch ditempat lain hanya untuk nyobain cakenya biar ala ala dessert time, aku nyobain blueberry cheesecake, temenku nyobain smoothie bowl, dan french fries semua menunya enak2, harganya standar cafe bandung lah. ambience oke betah bgt buat berlama-lama, area belakang outdoornya bagus buat foto2, tp kl jam makan siang memang rame bgt si."
+  },
+  "id": 41
+}

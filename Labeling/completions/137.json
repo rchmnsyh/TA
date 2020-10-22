@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600786295,
+      "id": 137001,
+      "lead_time": 45.347,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "8ht2zTZHTn",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 768,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 735,
+            "text": "semua rasanya nge-blend jadi satu"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ip6owfQDT1",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 942,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 930,
+            "text": "lebih lembut"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "bnVCutXy4l",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 977,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 944,
+            "text": "daging smoked beefnya cukup tebal"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "roti gempol yang sudah berjualan dari tahun 1958, lokasinya di daerah gempol yang merupakan pusat kuliner tradisional\u00a0   jalannya sempit, dan kita harus parkir di luar area, karena wilayah ini ramai\u00a0dikunjungi orang.\u00a0   roti gempol sendiri tempatnya sederhana, dengan tempat\u00a0pembakaran roti di bagian depan. sofa panjang dengan beberapa meja bundar untuk dine in\u00a0ada di sisi kiri.\u00a0   disini kita harus pesan dulu di kasir, nanti disebutkan nama bila sudah siap. kami pesan 2\u00a0manis\u00a0putih perorangan (@11k), asin gandum perorangan (20k), dan kopi hitam (4k). yang take away hanya dibungkus memakai kertas roti.   setelah nunggu agak lama, pesanan kami hadir. untuk yang roti putih manis, isiannya ada selai kacang, keju, skm dan coklat. semua rasanya nge-blend jadi satu. jadi di tiap gigitan ada rasa manis, gurih, dan asin.   untuk gandum asin, kami pilih daging & keju. yang roti gandum ukurannya lebih besar, dan rekomen karena lebih lembut. daging smoked beefnya cukup tebal\u00a0dan\u00a0makin\u00a0enak pakai  keju dan olesan skm."
+  },
+  "id": 137
+}

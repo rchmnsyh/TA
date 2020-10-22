@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600684950,
+      "id": 84001,
+      "lead_time": 62.663,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "g6MmB9Ox4N",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 35,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "delicious food with various choices"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "PkE1Rn1xll",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 144,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 117,
+            "text": "many various food and drink"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "GPgP15y-Hh",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 320,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 282,
+            "text": "the staff is very friendly and helpful"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "delicious food with various choices. you can add more meat as you want after the first two dishes of meat. there are many various food and drink in the buffet, make sure you come here with starving belly in order to try them all. i love the chicken karage and beef roll sushi most. the staff is very friendly and helpful, they keep asking whether you want to refill the meat or anything you need. the location is very well located inside the shopping mall, paris van java, easy way to recharge whenever you get hungry after the shopping."
+  },
+  "id": 84
+}

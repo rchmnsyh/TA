@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600691799,
+      "id": 274001,
+      "lead_time": 26.439,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "BpOTbGHTbG",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 56,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 28,
+            "text": "restoran tidak terlalu ramai"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "7tYDwYvoL0",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 83,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 58,
+            "text": "tapi service sangat buruk"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Snl7dCJjve",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 211,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 175,
+            "text": "pelayan tidak punya adab & kesopanan"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "malam ahad 19 oktober 2019, restoran tidak terlalu ramai, tapi service sangat buruk. pesan minuman tidak datang\u00b2, baru kali ketiga diminta datang. begitu juga dengan makanan. pelayan tidak punya adab & kesopanan. the worst sushi tei outlet!"
+  },
+  "id": 274
+}

@@ -1,0 +1,134 @@
+{
+  "completions": [
+    {
+      "created_at": 1600787938,
+      "id": 74001,
+      "lead_time": 87.579,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "g3_Co3UaTU",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 366,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 330,
+            "text": "tempatnya bener-bener kaya di jepang"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "D6igEVFi_7",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 715,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 700,
+            "text": "semuanya enaaak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "TLMP3W97Aw",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 778,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 769,
+            "text": "rasa enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "LL5dCavyRn",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 829,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 817,
+            "text": "murah banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "1LsrPC9XNX",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 997,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 969,
+            "text": "tofu puddingnya terlalu eneg"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "nwO6HYI4Np",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1174,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 1135,
+            "text": "mango juga manis dan so soft puddingnya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "MzlylOUW3i",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1305,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 1287,
+            "text": "worth it pokoknya."
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "i just found a hidden gem in bandung. where have i been all this timeee   baru tau kalo ada restoran casual jepang yang cukup proper di daerah setiabudi. musouya ini lokasinya ada di hotel new sany rosa.  kemarin karena saya mau merayakan ulang tahun, saya reserved tempatnya yang vip, duduk pakai tatami. seneng banget pas masuk tempatnya bener-bener kaya di jepang dan private sekali. pas pintu di tutup, suara orang2 dari luar ruangan nggak kedengeran at all. untuk di tatami ini, kita harus pesan min. order 600.000 sebelum tax yaa.  untuk makanannya saya pesan: okonomiyaki, tantan tofu, gyoza, nankotsu karaage, tori karage, gyu tan don, gyu tataki don, salmon teriyaki don, gyu shogayaki don. semuanya enaaak. untuk ukuran makan di hotel, tempatnya private, dan rasa enak, dengan harga segitu sih menurut saya murah banget. bayangin kalau di tempat lain pasti jauh lebih mahal.  setelah makan, saya pesan dessert tofu pudding dan mango pudding. yang lain bilang tofu puddingnya terlalu eneg, tapi buat saya yang demen banget puding ala hokkaido milk gitu sih waw banget rasanya. saya sampai habis dua botol  karena enakkk. yang mango juga manis dan so soft puddingnya.  bakal balik lagi apa nggak? iya banget! kapan lagi makan jepang di hotel dengan harga yang super affordable?  worth it pokoknya."
+  },
+  "id": 74
+}

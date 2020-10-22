@@ -1,0 +1,117 @@
+{
+  "completions": [
+    {
+      "created_at": 1600679758,
+      "id": 22001,
+      "lead_time": 45.21,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "0uc0cC-0Fl",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 11,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "cozy places"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "FfymlEUyGK",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 34,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 13,
+            "text": "beautifully decorated"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "mq3FXobgl1",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 72,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 40,
+            "text": "the food i ordered was delicious"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "fY85jWrH8A",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 123,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 105,
+            "text": "the patty is juicy"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "KEbXfvyQrt",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 146,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 128,
+            "text": "the egg is perfect"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "M659ql2xz_",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 158,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 148,
+            "text": "must visit"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "cozy places. beautifully decorated. and the food i ordered was delicious. try their classic beef burger. the patty is juicy and the egg is perfect. must visit!"
+  },
+  "id": 22
+}

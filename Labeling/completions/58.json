@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600679937,
+      "id": 58001,
+      "lead_time": 44.471,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "spHZ4AwwZw",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 36,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 13,
+            "text": "makanannya enak2 banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "FFyjWvDPwk",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 8,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "ambience"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "9fwD37tEEl",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 112,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 82,
+            "text": "chicken florentine enak banget"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "ambience dan makanannya enak2 banget. kedua kalinya kesini, order: brasa chicken, chicken florentine enak banget"
+  },
+  "id": 58
+}

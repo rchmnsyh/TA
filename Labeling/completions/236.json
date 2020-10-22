@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600788190,
+      "id": 236001,
+      "lead_time": 23.211,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "t0wxo5CHjR",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 63,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 47,
+            "text": "makanan nya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "-fMdBwX0o-",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 128,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 109,
+            "text": "mie yamin nya manis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "2Tg2LIEhGR",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 253,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 243,
+            "text": "enak bener"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "gile rame banget ini tempat. dan emang kebukti makanan nya enak coy. gw pesen mie yamin komplit tanpa ceker. mie yamin nya manis, saran gw sihh taro kecap asin sm sambel, behh lgs meledak rasanya!! dann yg juara lg bakso sm pangsitnya. gileee enak bener. cobain lah makan disini, ga nyesel"
+  },
+  "id": 236
+}

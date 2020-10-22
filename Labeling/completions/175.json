@@ -1,0 +1,32 @@
+{
+  "completions": [
+    {
+      "created_at": 1600788871,
+      "id": 175001,
+      "lead_time": 4.963,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "2Nd6oOrSob",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 26,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 0,
+            "text": "pelayanannya ramaah banget"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "pelayanannya ramaah banget, enak semuaa   dibantu mas imam"
+  },
+  "id": 175
+}

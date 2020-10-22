@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600683277,
+      "id": 1,
+      "lead_time": 32.201,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "6Xxc0kk3ik",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 111,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 84,
+            "text": "pas banget rasanya di lidah"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "HI7osOwdVt",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 152,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 113,
+            "text": "black peppernya yang paling enak disini"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "tw4t2NuTF5",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 229,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 205,
+            "text": "absolutely worth to wait"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Gxbfbb5twY",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 242,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 231,
+            "text": "recommended"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "tiap makan kesini ngga pernah cuma 1 atau 2 porsi, pasti nambah terus, karena emang pas banget rasanya di lidah. black peppernya yang paling enak disini.  emang selalu waiting list, cuma sei sapi lamalera absolutely worth to wait! recommended!"
+  },
+  "id": 0
+}

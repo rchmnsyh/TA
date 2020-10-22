@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600680737,
+      "id": 294001,
+      "lead_time": 28.233,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "L6Q3mD5d3c",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 440,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 429,
+            "text": "enak banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "3y_6Ye5qQS",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 457,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 443,
+            "text": "besttt in town"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "restoran yang legend banget dari dulu. disini ada 2 tipe menu yang all you can eat atau ala carte. kalo baru pertama kali mending make sure dulu ke waiter nya supaya ga salah order. dan lebih baik reservasi supaya dapet tempat. kali ini aku makan all you can eat dan per pax nya kena sekitar 182k after tax. mulai dari menu dimsum sampe ke seafood. kalo kesini wajib banget order udang mayones, mantau, hakau dan beef nya karena enak banget.  besttt in town!"
+  },
+  "id": 294
+}

@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600680282,
+      "id": 248001,
+      "lead_time": 20.512,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "3NdgK8MiUG",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 26,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "makanan enak delicious bgt"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "dfDW3RkGnJ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 61,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 49,
+            "text": "bikin nyaman"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "zFYdre3I5w",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 97,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 66,
+            "text": "pelayanan super duper ramahhhhh"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "makanan enak delicious bgt nuansa nya chines nya bikin nyaman.....pelayanan super duper ramahhhhh......"
+  },
+  "id": 248
+}

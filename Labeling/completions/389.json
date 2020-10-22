@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600680295,
+      "id": 389001,
+      "lead_time": 13.175,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "ZwrGZnCk_J",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 24,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 0,
+            "text": "agak lama datang pesanan"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "17NCB_8Y73",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 75,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 52,
+            "text": "taste makanannya notbad"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "agak lama datang pesanan, mungkin karena ramai. trs taste makanannya notbad."
+  },
+  "id": 389
+}

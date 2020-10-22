@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600510918,
+      "id": 430001,
+      "lead_time": 25.158,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "vRu31UCTEZ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 74,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 19,
+            "text": "enak bgt \"daging\"nyaa kenyel mirip kayak daging beneran"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "GL6pk13z9G",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 246,
+            "labels": [
+              "Negative",
+              "Ambience"
+            ],
+            "start": 190,
+            "text": "tempatnya kurang juga krn sirkulasi udaranya kurang baik"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "pesen nasi timbel. enak bgt \"daging\"nyaa kenyel mirip kayak daging beneran, rasa dan baunya sama persis! pesen makan jam 5an sayang \"daging\" nya blm mateng jd dipanggang dulu. jd agak lama. tempatnya kurang juga krn sirkulasi udaranya kurang baik, msh agak gerah"
+  },
+  "id": 430
+}

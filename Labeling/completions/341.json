@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600507014,
+      "id": 341001,
+      "lead_time": 53.56,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "j5JGgBH8Tt",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 110,
+            "labels": [
+              "Negative",
+              "Miscellaneous"
+            ],
+            "start": 73,
+            "text": "tidak direkomendasikan meeting disini"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Ctv9lcRzrt",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 141,
+            "labels": [
+              "Negative",
+              "Ambience"
+            ],
+            "start": 119,
+            "text": "berisik, penuh, sempit"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "LZLQXcZNyu",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 189,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 149,
+            "text": "harga sih lumayan ya dikantong anak muda"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "87zLfSzj9-",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 217,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 191,
+            "text": "menu makanan juga variatif"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "sejujurnya gue baru sekali nongkrong disini dan itupun buat meeting, dan tidak direkomendasikan meeting disini soalnya berisik, penuh, sempit. untuk harga sih lumayan ya dikantong anak muda. menu makanan juga variatif, jadi bisa dipilih sesuai budget masing2."
+  },
+  "id": 341
+}

@@ -1,0 +1,32 @@
+{
+  "completions": [
+    {
+      "created_at": 1600784868,
+      "id": 139001,
+      "lead_time": 10.336,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "e4WEapfQl5",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 132,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 87,
+            "text": "roti spesial daging dan keju itu favorit saya"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "ngantri nya lumayan heroik. saya lebih suka roti yang gandum daripada yang putih. yang roti spesial daging dan keju itu favorit saya."
+  },
+  "id": 139
+}

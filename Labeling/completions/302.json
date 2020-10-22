@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600683073,
+      "id": 302001,
+      "lead_time": 47.967,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "hi7b2fqng5",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 25,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 10,
+            "text": "tempatnya bagus"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "6wHnLpRMk7",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 49,
+            "labels": [
+              "Negative",
+              "Ambience"
+            ],
+            "start": 27,
+            "text": "tapi gak terlalu besar"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "7bpq6phbwE",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 269,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 253,
+            "text": "makanannya enakk"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "menurutku tempatnya bagus, tapi gak terlalu besar. sayangnya lebih luas outdoornya dibanding indoor, ruangan outdoor smoking area. jadi waktu kesini nunggu lama buat dapet duduk didalem, karena ruangan yang didalem bener\u201dkecil dan meja nya dikit. kalau makanannya enakk, yg aku pesen swedish meatball, agak mirip\u201d swedish meatball ikea gituu, tapi enakkok & ternyata kenyang makan satu porsi ini, padahal porsinya keliatan kecil."
+  },
+  "id": 302
+}

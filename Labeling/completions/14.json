@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600506707,
+      "id": 14001,
+      "lead_time": 72.471,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "R3o_tDN_av",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 19,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "very tasty martabak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "qbZ3zhShLN",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 159,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 143,
+            "text": "very recommended"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "bqTswhTeYa",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 183,
+            "labels": [
+              "Negative",
+              "Price"
+            ],
+            "start": 166,
+            "text": "it is a bit pricy"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "olh2u-vvSA",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 203,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 188,
+            "text": "worth the taste"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "very tasty martabak. we ordered nutella with additional almond. the nutella was superb plus crunchy almond enhance everything in our martabak. very recommended. yes, it is a bit pricy but worth the taste."
+  },
+  "id": 14
+}

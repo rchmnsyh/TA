@@ -1,0 +1,100 @@
+{
+  "completions": [
+    {
+      "created_at": 1600692471,
+      "id": 314001,
+      "lead_time": 47,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "B7VixDSqbW",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 23,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "suka dengan suasana nya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Bhu7YH69Ar",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 76,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 55,
+            "text": "disambut dengan ramah"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "DMsyUhjQkF",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 90,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 78,
+            "text": "kopi nya oke"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "hV6Ngi1GSh",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 107,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 92,
+            "text": "menu2nya banyak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "e9grRpsCJa",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 164,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 109,
+            "text": "lain kali akan mampir lagi kemari untuk coba makanannya"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "suka dengan suasana nya, ada taman, interiornya bagus. disambut dengan ramah. kopi nya oke, menu2nya banyak. lain kali akan mampir lagi kemari untuk coba makanannya."
+  },
+  "id": 314
+}

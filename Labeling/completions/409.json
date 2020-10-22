@@ -1,0 +1,151 @@
+{
+  "completions": [
+    {
+      "created_at": 1600682519,
+      "id": 409001,
+      "lead_time": 120.486,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "jwmaO3MiGm",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 49,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 35,
+            "text": "tempatnya cozy"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "plPslOvDSB",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 178,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 140,
+            "text": "kue-kue nya juga banyak banget pilihan"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "wIAw44ZfSw",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 334,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 286,
+            "text": "rasa daging dan rasa pisang enak bangggeeeeeettt"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "O98YewpDbU",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 403,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 388,
+            "text": "buah yang fresh"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "hBojLWWs4-",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 424,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 405,
+            "text": "enak banget rasanya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "FFKWGZ0Hu-",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 472,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 440,
+            "text": "makanan beratnya udah pasti enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "KyGftCRyqF",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 624,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 602,
+            "text": "rasanya lucu tapi enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Kp99dSADPB",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 683,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 661,
+            "text": "menurutku lumayan enak"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "seneng banget ke tempat ini karena tempatnya cozy dan agak sunyi cocok untuk nugas,hangout sama temen dan bahkan sekedar baca buku santai.  kue-kue nya juga banyak banget pilihan ada yg package 10k dengan isi 2 roti yg bisa pilih sesuka hati, terus juga ada charcoal buns 15k isi 2 ada rasa daging dan rasa pisang enak bangggeeeeeettt.. terus yang ga kalah serunya itu pie custard dengan buah yang fresh! enak banget rasanya   dan ada juga makanan beratnya udah pasti enak. terus minumannya yg aku pesen ini baker street signature coffee mereka nawarin ada rasa rum atau caramel dan aku pesen yang rum rasanya lucu tapi enak (gimana tuh? ) dan beberapa kopi yg menurutku lumayan enak.  kekurangan 1 cuma di bagian wifi.. tiap kali kesana wifinya ga stabil bahkan untuk buka gmail aja ga ke load, mungkin itu yang harus di benahin ya? selebihnya oke banget. cheers! "
+  },
+  "id": 409
+}

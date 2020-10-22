@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600783231,
+      "id": 33001,
+      "lead_time": 41.466,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "DkkgZvSCvK",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 119,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 85,
+            "text": "tempatnya yg bagus, nyaman, earthy"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "G1ORTYLpSE",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 559,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 547,
+            "text": "rasanya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "QlXatnh7Le",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 653,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 625,
+            "text": "kopi dan tehnya lumayan enak"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "aku dan suami kesini untuk sarapan. liat reviewnya bagus banget, well, sepadan untuk tempatnya yg bagus, nyaman, earthy karena banyak pepohonan dan konsepnya rumah kaca. betah berlama-lama disana  tapi yg agak sayang, ternyata kalo pagi hanya menyediakan menu breakfast. jadi pilihannya nggak terlalu banyak, meskipun make sense sih hehe.. cuma tadinya mau pesen menu yg diluar menu breakfast setelah lamaa survey mau pesen apa. selain di foto itu (lupa namanya) kita juga pesen waffle smores (yg ternyata punya kafe sebelah, dan bayar terpisah). rasanya enak sih, tapi cenderung biasa aja. mungkin kita salah pilih menu ya? kopi dan tehnya lumayan enak. masih penasaran dgn menu lainnya yg mungkin lebih enak dan worth the price and the reviews. mungkin akan kembali lagi buat buktiin hehe."
+  },
+  "id": 33
+}

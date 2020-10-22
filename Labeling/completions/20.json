@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600682246,
+      "id": 20001,
+      "lead_time": 20.405,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "pD-PlINLD_",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 45,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 17,
+            "text": "the parking lot was so small"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "rkvNAPqozS",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 90,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 50,
+            "text": "salmon mentaiko pasta was very delicious"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "it was okayyyyy, the parking lot was so small tho salmon mentaiko pasta was very delicious. it's the best menu we ordered that night"
+  },
+  "id": 20
+}

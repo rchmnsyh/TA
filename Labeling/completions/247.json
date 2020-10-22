@@ -1,0 +1,100 @@
+{
+  "completions": [
+    {
+      "created_at": 1600692300,
+      "id": 247001,
+      "lead_time": 143.468,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "pt5rDidE0V",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 30,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "love the old but cozy ambience"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "G20L0Talgy",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 46,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 32,
+            "text": "food was great"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "2gzaWirugs",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 88,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 52,
+            "text": "nasi goreng was tasty and fulfilling"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "EZWvu5cH67",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 268,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 222,
+            "text": "they dont accept debit cards as payment option"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "LHH2ed8gx0",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 296,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 274,
+            "text": "service was also so-so"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "love the old but cozy ambience. food was great too! nasi goreng was tasty and fulfilling. i absolutely love the bitterbalen, mocha roll cake and the rhum ball! will absolutely comeback to try other delicacies!  downsides: they dont accept debit cards as payment option :( , service was also so-so"
+  },
+  "id": 247
+}

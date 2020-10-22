@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600774771,
+      "id": 202001,
+      "lead_time": 80.624,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "zRtwQGULSo",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 11,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "great foods"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "gTCUhh5Fh5",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 50,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 26,
+            "text": "the waiters are friendly"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "RPsRZIryAP",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 88,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 70,
+            "text": "superb pesto pasta"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "great foods and ambiance. the waiters are friendly as well. they have superb pesto pasta. was worried at first bcs not a lot of restaurants know how to make the perfect pesto pasta, but this one nailed it. great job!"
+  },
+  "id": 202
+}

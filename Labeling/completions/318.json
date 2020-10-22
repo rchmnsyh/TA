@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600681231,
+      "id": 318001,
+      "lead_time": 26.827,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "JqCzdsLj07",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 75,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 43,
+            "text": "kakap amis dan kurang  seasoning"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "GJgcz_ZJVH",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 121,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 105,
+            "text": "kurang seasoning"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "d-BozqV_Da",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 144,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 126,
+            "text": "penyajiannya lamaa"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "pesen grilled kakap dan chicken ala congo, kakap amis dan kurang  seasoning, ayam beda bgt sama di foto, kurang seasoning dan penyajiannya lamaa dan ga panas"
+  },
+  "id": 318
+}

@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600510949,
+      "id": 86001,
+      "lead_time": 30.787,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "B4lNPJm9Q6",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 149,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 132,
+            "text": "ga lama nunggunya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ZhITufSyoR",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 180,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 151,
+            "text": "dagingnya tebel dan kaya rasa"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "kesini ambil paket grill aja, total 280.000++ untuk side dish bisa ambil di buffet dan banyak macemnya. per-daging-an by order tapi ga lama nunggunya. dagingnya tebel dan kaya rasa. waktu ayce 90 menit, di menit ke 75 ditanya last order. ada soft ice cream yg bisa ambil sendiri juga."
+  },
+  "id": 86
+}

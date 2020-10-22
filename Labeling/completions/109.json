@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600516688,
+      "id": 109001,
+      "lead_time": 19.962,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "FO0BsT-6at",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 21,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "good outdoor ambience"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "BXNyCz9HDn",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 203,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 165,
+            "text": "the place is clean, spacious, and cozy"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "good outdoor ambience, but better don\u2019t go there if it\u2019s rain because you will never get the beautiful scenery (foggy), come again after rain or in a summer season. the place is clean, spacious, and cozy, better choose in an outdoor area. camping rent are available."
+  },
+  "id": 109
+}

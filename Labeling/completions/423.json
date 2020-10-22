@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600781605,
+      "id": 423001,
+      "lead_time": 61.325,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "4cknKA2GOH",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 429,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 425,
+            "text": "enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "2X6MhepjoQ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 572,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 568,
+            "text": "enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "WJjYZh6fhR",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 600,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 578,
+            "text": "dikasinya dikit banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "cWpvPoynQO",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 644,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 606,
+            "text": " jamur goreng tepung agak keras & oily"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "karena nex carlos jd pingin kesini, wah vegan nih. tapi sayang banyak menu berbahan tepung kedelai krn aku pribadi ga makan kedelai samsek. jd aku selektif milih yg dari jamur / sayur aza yah wlpn cheating nyobain dikiit  \u25ce paket si merah (33k)  \u25ce paket si putih (14k)  \u25ce paket sate (23k)  intinya ada paket2 gitu tapi kita bisa pilih aneka lauk dan sayur, kaya sate jamur dihitung satuan harganya 6k. rasanya kaya sate ayam enak sih.  kalo tumisan standar ky wortel saus merah, tumis brokoli..jangan lupa minta sambel karena itu yg bikin ga flat. keringan kentang jg enak wlpn dikasinya dikit banget. tapi jamur goreng tepung agak keras & oily yah..kalo nasi ada nasi putih & merah. air jg free refill silahkan disediakan air putih secukupnya..dan jika sudah makan rapikan buang sampah self service  total ber3 77.000"
+  },
+  "id": 423
+}

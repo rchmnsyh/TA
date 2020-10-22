@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600687363,
+      "id": 149001,
+      "lead_time": 35.143,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "NH-5O8OVod",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 47,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "tempatnya enak banget buat nugas kalo lagi sepi"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "DYKOLcu4jP",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 146,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 114,
+            "text": "overall buat tempat emang nyaman"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "rw1U2tgxB1",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 181,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 149,
+            "text": "best cappuccino and latte so far"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "i_XWvdAxkY",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 199,
+            "labels": [
+              "Negative",
+              "Price"
+            ],
+            "start": 183,
+            "text": "but kinda pricey"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "tempatnya enak banget buat nugas kalo lagi sepi. lighting nya yang remang remang kadang agak bikin ngantuk sih tp overall buat tempat emang nyaman!  best cappuccino and latte so far! but kinda pricey (mostly around 30k)"
+  },
+  "id": 149
+}

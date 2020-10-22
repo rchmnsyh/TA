@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600781626,
+      "id": 397001,
+      "lead_time": 20.983,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "15LH9N36J8",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 79,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 57,
+            "text": "tempatnya super nyaman"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "qeO-uHpi1e",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 106,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 81,
+            "text": "makanannya lengkap banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "OKqrWGEMpN",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 135,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 111,
+            "text": "sayur sayurnya pun fresh"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "WP5CnKfD_U",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 146,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 137,
+            "text": "ok mantap"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "pertama kali kesini karna acara kantor, pas pertama liat tempatnya super nyaman. makanannya lengkap banget dan sayur sayurnya pun fresh. ok mantap"
+  },
+  "id": 397
+}

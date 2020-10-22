@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600784429,
+      "id": 80001,
+      "lead_time": 26.603,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "SXYJm8mxW7",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 119,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 99,
+            "text": "very worth the price"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "-3kWEUEfZI",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 208,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 163,
+            "text": "taste the pleasure from various pork cookings"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "if you're looking for pork culinary at bandung, this nasi campur shluld be jn your 'must try' list very worth the price, definitely will make you whole and you'll taste the pleasure from various pork cookings  price 5/5 place 3/5 taste 5/5"
+  },
+  "id": 80
+}

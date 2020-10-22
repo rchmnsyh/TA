@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600784466,
+      "id": 165001,
+      "lead_time": 35.977,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "N7InoNbpkB",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 53,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "the best dendeng batokok cabe ijo yang pernah gw coba"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "63YwY8AzGv",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 134,
+            "labels": [
+              "Negative",
+              "Ambience"
+            ],
+            "start": 103,
+            "text": "tempatnya aja yang kurang besar"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "VYQLpw8hlT",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 499,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 468,
+            "text": "worth it for every time i spent"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "the best dendeng batokok cabe ijo yang pernah gw coba, ini tempat makan ga pernah salah rasanya. hanya tempatnya aja yang kurang besar dan nyempil di dalem terminal (ga kebayang klo segede pagi sore di jakarta). banyak orang bilang jangan makan disini karena sempit dan lebih baik pesan lewat ojek online, menurut gw salah besar, karena feel pesen dan makan langsung disini dengan keramaiannya justru membuat makanan itu tambah enak, apalagi setelah cari susah payah. worth it for every time i spent!"
+  },
+  "id": 165
+}

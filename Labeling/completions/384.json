@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600693301,
+      "id": 384001,
+      "lead_time": 35.227,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "WeFwdL3jg3",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 22,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "gelato nya macem-macem"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "fnjim3nR0T",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 46,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 24,
+            "text": "rasanya juga enak-enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "j54BcorYgX",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 252,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 230,
+            "text": "parkir motornya gratis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Gnrpixu8qM",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 209,
+            "labels": [
+              "Negative",
+              "Ambience"
+            ],
+            "start": 188,
+            "text": "tempat duduknya dikit"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "gelato nya macem-macem, rasanya juga enak-enak.. legit banget, dan rasanya kuat.. paling suka sama chocolate sorbet sama vanilla hazelnut.. oh iya, tempatnya nyatu sama studio photo, jadi tempat duduknya dikit.. satu nilai lebih, parkir motornya gratis.. hahahaha.."
+  },
+  "id": 384
+}

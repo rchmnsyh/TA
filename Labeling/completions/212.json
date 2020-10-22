@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600691828,
+      "id": 212001,
+      "lead_time": 28.49,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "8H-iIdevgC",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 19,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "food is good enough"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "IlORs-AOqR",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 101,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 83,
+            "text": "the place is homey"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "4zMFd4l23H",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 142,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 114,
+            "text": "the ice cream it's sooo gewd"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "food is good enough. this is japan cuisine (yakiniku and soup with variant taste . the place is homey. and i like the ice cream it's sooo gewd. and yes its #allyoucaneat so better empty your belly before go to this restaurant so then you can be so crazy to eat all those fooooood  #expensivecuisine"
+  },
+  "id": 212
+}

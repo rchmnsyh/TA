@@ -1,0 +1,117 @@
+{
+  "completions": [
+    {
+      "created_at": 1600686733,
+      "id": 300001,
+      "lead_time": 60.378,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "UQD9C7VOqJ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 85,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 67,
+            "text": "service nya ok bgt"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "WZaSCEqKpq",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 115,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 87,
+            "text": "waitress nya ramah & helpful"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "12zzenWO0I",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 260,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 239,
+            "text": "kurang berasa kopinya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "XugwRtH0Ch",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 405,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 391,
+            "text": "porsinya besar"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "1IITSnc3L7",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 386,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 373,
+            "text": "terlalu tasty"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "n957voiHYc",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 516,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 505,
+            "text": "kering enak"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "tempatnya dr luar kecil, tp pas masuk lumayan panjang ke belakang. service nya ok bgt, waitress nya ramah & helpful. ke sini pesan eskopsus, hainan chicken rice lada garam, sm bakmie ayam asin.  eskopsus: light & creamy bgt si menurut gw, kurang berasa kopinya  hainan chicken rice lada garam: ini kaya bukan nasi hainan tp nasi uduk  ayam nya jg bukan dimasak ala hainan, terlalu tasty, tp porsinya besar & ada telur ceploknya.  bakmie ayam asin: nah ini yg gw suka sih. mienya ga terlalu mateng, chewy, kering enak. ada bakso kuahnya juga.  presentasi makanannya baguus"
+  },
+  "id": 300
+}

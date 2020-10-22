@@ -1,0 +1,423 @@
+{
+  "completions": [
+    {
+      "created_at": 1600682833,
+      "id": 326001,
+      "lead_time": 304.81,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "8P42cdNt4f",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 86,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 67,
+            "text": "the service is slow"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "o7OmRxZh8z",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 193,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 157,
+            "text": "took quite long for the food to come"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "TYtEnMpPRy",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 277,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 254,
+            "text": "it was really delicious"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "PpZScPU0bK",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 305,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 279,
+            "text": "the spicy flavor is unique"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "xtjxrfDqVa",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 336,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 311,
+            "text": "it\u2019s not too hot or salty"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "M5BW9118an",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 374,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 338,
+            "text": "the meat they gave was rather little"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "wFydVhtAnB",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 418,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 380,
+            "text": "the noodle didn\u2019t come with vegetables"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "vjcFtINifP",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 597,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 572,
+            "text": "the pangsit soup was good"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "kk3POnUnvi",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 678,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 626,
+            "text": "there was a small piece of hair floating in the soup"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "P_e-jk9PWV",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 770,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 743,
+            "text": "the food was very delicious"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "k3FrFy07lG",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 789,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 772,
+            "text": "the price is okay"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ccLNFdO7iQ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 900,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 871,
+            "text": "they only accept cash payment"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "suLTcd74jL",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 956,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 940,
+            "text": "servicenya pelan"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "JStaqjG2P8",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1036,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 1006,
+            "text": "makanannya juga lama keluarnya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ADJpUmX0fG",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1101,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 1090,
+            "text": "enak banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "E_NVwd3MmQ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1121,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 1103,
+            "text": "rasa pedesnya unik"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "2jiJy9_Dq9",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1153,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 1127,
+            "text": "ga terlalu pedes atau asin"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "pzRLEQtVpM",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1179,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 1155,
+            "text": "dagingnya rada pelit sih"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ku3i5BX5RO",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1204,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 1185,
+            "text": "mie nya gaada sayur"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "JIgT6DDV4s",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1368,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 1349,
+            "text": "sop pangsitnya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "lXo7JTkIPS",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1427,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 1391,
+            "text": "tadi ada rambut kecil sih di kuahnya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "bVYKr5SBdR",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1502,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 1480,
+            "text": "makanannya enak banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "sw2TTJlDUz",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1525,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 1507,
+            "text": "harganya masih oke"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "sJkRUyWoPH",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1616,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 1588,
+            "text": "cuman nerima pembayaran cash"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "[english & indo review]  english: when we came, it was crowded and the service is slow. it took around 5-10 minutes until somebody gave us the menu. it also took quite long for the food to come, around 20-30 minutes.   i ordered the mie rica polos , and it was really delicious! the spicy flavor is unique, and it\u2019s not too hot or salty. the meat they gave was rather little, and the noodle didn\u2019t come with vegetables, which would\u2019ve been nicer. the food\u2019s 36k (the menu doesn\u2019t list the prices). i also ordered teh hangat tawar (which is free! and you can get refill.)  the pangsit soup was good (10 pcs in one portion)\u2014but there was a small piece of hair floating in the soup... might want to watch out for that if you eat here.   overall, the food was very delicious, the price is okay, and despite the slow service, i\u2019d come here again if it\u2019s not too crowded. btw, they only accept cash payment.    indo:  pas kita dateng, rame terus servicenya pelan. kt duduk 5-10 menitan baru dikasih menunya, dan makanannya juga lama keluarnya, butuh 20-30 menitan.   gw pesen mie rica polos, dan enak banget! rasa pedesnya unik, dan ga terlalu pedes atau asin. dagingnya rada pelit sih, dan mie nya gaada sayur jadi rasanya ada yang kurang aja. harga mie nya 36rb (gaada harga di menunya) dan gw juga pesen teh tawar panas, yang gratis dan bisa refill!   sop pangsitnya enak (1 porsi isi 10)\u2014tapi tadi ada rambut kecil sih di kuahnya... liatin aja kalau pesen makanan mereka.  overall, makanannya enak banget dan harganya masih oke. kalau ga terlalu rame, gw bakal mau kesini lagi. btw, mereka cuman nerima pembayaran cash."
+  },
+  "id": 326
+}

@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600679560,
+      "id": 388001,
+      "lead_time": 29.011,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Hkno8at7Ac",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 47,
+            "labels": [
+              "Negative",
+              "Ambience"
+            ],
+            "start": 31,
+            "text": "tempatnya sempit"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "5AJ0HuRyyB",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 179,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 169,
+            "text": "enakkkkkkk"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "8O4ChMPuPe",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 222,
+            "labels": [
+              "Negative",
+              "Price"
+            ],
+            "start": 183,
+            "text": "lbh mahal dibanding coffee shop lainnya"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "yumaju yg di maulana yusuf ini tempatnya sempit. kalau lg rame kita sharing kursi sama org lain. jd krng nyaman. untungnya udh dibuka cabang lain yg lbh besar.  kopinya enakkkkkkk tp lbh mahal dibanding coffee shop lainnya. cocok unt tmpt nugas kalau weekdays. tp weekend rame sama mahasiswa."
+  },
+  "id": 388
+}

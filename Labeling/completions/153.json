@@ -1,0 +1,202 @@
+{
+  "completions": [
+    {
+      "created_at": 1600681944,
+      "id": 153001,
+      "lead_time": 166.457,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "7fgvopmpjx",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 43,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 4,
+            "text": "sop buntut terenak yg pernah saya makan"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "5XPXRVF4xZ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 182,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 171,
+            "text": "gurih manis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Xfzvnb_1UX",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 211,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 184,
+            "text": "dagingnya empuuk dan lembut"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "RCbEm8GgTi",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 232,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 213,
+            "text": "supnya seger banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "9oUwnvBekg",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 294,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 269,
+            "text": "kaya rempah tapi gak eneg"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Qfb1BIxN0V",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 308,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 296,
+            "text": "seger banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Fyay1ccib9",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 325,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 314,
+            "text": "enak banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "9QACZH3ZQc",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 461,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 445,
+            "text": "dagingnya banyak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "3sO0SYG6F1",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 478,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 463,
+            "text": "buntutnya besar"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "N6o6sKdMlA",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 515,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 480,
+            "text": "rumah makannya sederhana dan bersih"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "PL-nWaD4eL",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 628,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 603,
+            "text": "selalu datang lg dan lagi"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "ini sop buntut terenak yg pernah saya makan, porsinya bisa ber dua, sop buntut gorengnya bumbunya medok digoreng dg bawang bombay sampai bawang bombaynya terkaramelisasi, gurih manis, dagingnya empuuk dan lembut..supnya seger banget.. khas resep jadul supnya butek krn kaya rempah tapi gak eneg, seger banget, wah enak banget ini.. krn porsinya bisa ber 2 jd 80 ribuan seporsi (blm termasuk nasi) udah puas, kalau makan sendiri lebih puas lagi, dagingnya banyak, buntutnya besar, rumah makannya sederhana dan bersih, ini supnya bisa dibungkus utk oleh2, pengemasannya utk dibawa pulang benar2 aman kok. selalu datang lg dan lagi kalau ke bandung"
+  },
+  "id": 153
+}

@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600506432,
+      "id": 142001,
+      "lead_time": 33.979,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "5piuqZDKh8",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 129,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 117,
+            "text": "kopinya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "3tw6gSdgiW",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 270,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 246,
+            "text": "recommended wajib cobain"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "berhubung lagi pandemi, blue doors keluarin packaging baru yaitu dalam ukuran 1l, saya cobain yang fresh cold white. kopinya enak, ga terlalu strong tapi masih terasa di lidah. susunya juga agak creamy, pas lah komposisi dengan gula dan kopinya. recommended wajib cobain, next time mau langsung ngopi di storenya deh setelah pandemi selesai."
+  },
+  "id": 142
+}

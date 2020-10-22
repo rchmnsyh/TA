@@ -1,0 +1,100 @@
+{
+  "completions": [
+    {
+      "created_at": 1600678174,
+      "id": 72001,
+      "lead_time": 53.176,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "4EQK5tsbi6",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 36,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 20,
+            "text": "reasonable price"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "g62fGQe5q0",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 138,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 107,
+            "text": "their food never disappoints me"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "cXYtY9hCWj",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 237,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 204,
+            "text": "their okonomiyaki is worth to try"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "XT59a_jnoF",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 352,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 325,
+            "text": "the service is so damn good"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "cNDo89StwO",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 408,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 355,
+            "text": "will be back to dig in for another jar(s) of pudding!"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "finally a good with reasonable price japanese restaurant in bandung.  been there for more than 4 times and their food never disappoints me. actually, it's not that wow but you can really enjoy the food.  their okonomiyaki is worth to try. also their pudding which is the best one. the vibe, the ambience, the atmosphere, and the service is so damn good.  will be back to dig in for another jar(s) of pudding!"
+  },
+  "id": 72
+}

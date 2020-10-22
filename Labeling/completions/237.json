@@ -1,0 +1,32 @@
+{
+  "completions": [
+    {
+      "created_at": 1600782757,
+      "id": 237001,
+      "lead_time": 5.985,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "knVi1PJT0W",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 37,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 7,
+            "text": "best  mie ayam yamien  in town"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "so far best  mie ayam yamien  in town "
+  },
+  "id": 237
+}

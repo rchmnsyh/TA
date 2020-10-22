@@ -1,0 +1,117 @@
+{
+  "completions": [
+    {
+      "created_at": 1600678699,
+      "id": 76001,
+      "lead_time": 69.285,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "R5g5eKILbT",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 118,
+            "labels": [
+              "Negative",
+              "Price"
+            ],
+            "start": 96,
+            "text": "memang agak pricey yaa"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "am1vKNcPqo",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 220,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 194,
+            "text": "nasi campurnya ini favorit"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "-hE3H_a_tS",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 243,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 222,
+            "text": "dagingnya nggak pelit"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "z_q354aslu",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 266,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 245,
+            "text": "dagingnya empuk semua"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "zYksGWYC1E",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 508,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 473,
+            "text": "cabenya pedesss banget! tapi enaaak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "d8y-R9D3Sr",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 575,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 552,
+            "text": "kuah merahnya juga enak"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "masuk salah satu makanan yang wajibb kalo ke bandung (versi saya yaaa~) harganya 60rb per porsi,memang agak pricey yaa. tapi menurutku worth it saja, selain nasi campur ada juga sop sayur asin. nasi campurnya ini favorit, dagingnya nggak pelit! dagingnya empuk semua dan yg babi asinnya ini kriuknya dapet banget. kalau mau tambah nasii harganya 5rb ya per porsi, btw biar makin mantaps bisa di tambah saus2nya gitu, ada yg kuah merah, kecap asin sampai minyak cabe. atii2 cabenya pedesss banget! tapi enaaak hahaha pakenya bisa sedikit2 aja ya! untuk kuah merahnya juga enak, pakainya juga sedikit2 ya, kalo kebanyakan asin soalnya. menurut info dari tantenya, nasi campur ini buka sampai sehabisnya. maksimal di jam 11.30~12.00 malam tutupnya!"
+  },
+  "id": 76
+}

@@ -1,0 +1,69 @@
+{
+  "completions": [
+    {
+      "created_at": 1600516752,
+      "id": 73001,
+      "lead_time": 388.478,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "LHRHVtf2C9",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 40,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 22,
+            "text": "the sauce is great"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "iQ8RsYx039",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 62,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 45,
+            "text": "overall just good"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "jJGbG1zcj8",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 93,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 64,
+            "text": "the beef is so thin and small"
+          }
+        }
+      ],
+      "skipped": false,
+      "was_cancelled": false
+    }
+  ],
+  "data": {
+    "text": "order gyu tataki don, the sauce is great but overall just good, the beef is so thin and small 7.5/\u202d1\u202c0. the tempura 7/\u202d1\u202c0 yaki gyoza 7/\u202d1\u202c0 almond pudding 8/\u202d1\u202c0"
+  },
+  "id": 73,
+  "predictions": []
+}

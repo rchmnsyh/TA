@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600788647,
+      "id": 229001,
+      "lead_time": 11.592,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "zx1sX-43LD",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 23,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "tempatnya nyaman banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "pwxhrqw5jo",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 40,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 25,
+            "text": "makanannya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "bgpOxcBvxH",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 65,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 42,
+            "text": "staffnya helpful sekali"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "tempatnya nyaman banget, makanannya enak, staffnya helpful sekali"
+  },
+  "id": 229
+}

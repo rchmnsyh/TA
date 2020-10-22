@@ -1,0 +1,134 @@
+{
+  "completions": [
+    {
+      "created_at": 1600685128,
+      "id": 61001,
+      "lead_time": 132.206,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "eoM3fbL468",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 13,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "good ambience"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "TIb2VpFkt3",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 83,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 65,
+            "text": "tempatnya enak bgt"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "viNw2BrSXM",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 139,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 129,
+            "text": "good taste"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "gSTtg7RaRw",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 247,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 221,
+            "text": "rasanya tidak mengecewakan"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "6dY588S1og",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 336,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 308,
+            "text": "bellamies juice nya jg seger"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "o1CSnRWbb2",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 391,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 366,
+            "text": "harga sesuai dengan porsi"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Rk9ZVroXAG",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 358,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 338,
+            "text": "croisant nya crunchy"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "good ambience, kemarin kesini kebagian lantai 1 non smoking area tempatnya enak bgt buat ngobrol2 lama sama temen atau keluarga  good taste, untuk yang baru pertama kali kesini pastinya pesen menu recommended, dan setuju rasanya tidak mengecewakan untuk minumannya paling suka sama si es kopi vietnam nyaaa, bellamies juice nya jg seger, croisant nya crunchy  untuk harga sesuai dengan porsi nya jd worth it"
+  },
+  "id": 61
+}

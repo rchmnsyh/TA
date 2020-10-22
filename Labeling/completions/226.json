@@ -1,0 +1,32 @@
+{
+  "completions": [
+    {
+      "created_at": 1600506438,
+      "id": 226001,
+      "lead_time": 5.553,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "EDc4Hn5DdX",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 10,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "nice place"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "nice place"
+  },
+  "id": 226
+}

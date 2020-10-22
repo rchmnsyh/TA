@@ -1,0 +1,32 @@
+{
+  "completions": [
+    {
+      "created_at": 1600689470,
+      "id": 66001,
+      "lead_time": 18.171,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "BQy49EmjFI",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 131,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 101,
+            "text": "waiters nya sangat tidak ramah"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "saya sudah menunggu sekitar 30 menit , saya bertanya untuk mengecek makanan saya saja . tapi jawaban waiters nya sangat tidak ramah dia menjawab tanpa mengecek \u201c tunggu aja orang pesennya baru tadi kan bentar\u201d bukan masalah menunggu nya tapi jawabnya tidak enak di hati tolong di improve yaa servicenya"
+  },
+  "id": 66
+}

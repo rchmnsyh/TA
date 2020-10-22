@@ -1,0 +1,35 @@
+{
+  "completions": [
+    {
+      "created_at": 1600505772,
+      "id": 85001,
+      "lead_time": 303.752,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "nuuSoSlvbE",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 353,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 311,
+            "text": "kintan buffet menyediakan empat alternatif"
+          }
+        }
+      ],
+      "skipped": false,
+      "was_cancelled": false
+    }
+  ],
+  "data": {
+    "text": "kintan buffet restoran all you can eat yang ada di bandung dan kota2 besar lainnya. kintan buffet hanya menyediakan waktu makan maksimal 90 menit sejak pesanan pertama datang. guna mencegah kelebihan waktu, pada menit ke-70, pelayan akan memberitahukan sisa waktu pada pelanggan.  . paket menu yang diinginkan. kintan buffet menyediakan empat alternatif, yakni reguler buffet dengan 10 pilihan daging (rp158.000), kintan buffet dengan 18 pilihan daging (rp238.000), premium kintan buffet dengan 28 pilihan daging (rp338.000), dan special wagyu buffet dengan 34 pilihan daging (rp458.000). satu table wajib memilih paket menu sama.  .  selamat mencoba!!"
+  },
+  "id": 85,
+  "predictions": []
+}

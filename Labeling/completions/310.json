@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600681269,
+      "id": 310001,
+      "lead_time": 38.117,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "eh80fanjuD",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 23,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "porsinya besar dan enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "TcoXDmS9oc",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 79,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 48,
+            "text": "terlalu tebal balutan tepungnya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "VF-S-8miSb",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 110,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 81,
+            "text": "potongan cuminya kecil sekali"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "0qwAyk0sST",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 192,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 151,
+            "text": "suasana cafe yang asik buat kumpul-kumpul"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "porsinya besar dan enak, hanya saja calamarinya terlalu tebal balutan tepungnya. potongan cuminya kecil sekali. yang lainnya okey sih apalagi ditambah suasana cafe yang asik buat kumpul-kumpul."
+  },
+  "id": 310
+}

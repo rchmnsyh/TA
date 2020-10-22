@@ -1,0 +1,185 @@
+{
+  "completions": [
+    {
+      "created_at": 1600688709,
+      "id": 297001,
+      "lead_time": 153.764,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "h6_5oOzs6y",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 410,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 376,
+            "text": "mie goreng hk: great! recommended!"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "wVRjcML4R7",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 452,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 413,
+            "text": "nasi goreng yancao: great! recommended!"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "vr48qlMzNk",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 491,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 455,
+            "text": "cumi telor asin: great! recommended!"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "RzrVUFqN43",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 598,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 553,
+            "text": "lumpia udang kulit tahu: great! recommended! "
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "nVtOswb24x",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 635,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 600,
+            "text": "lumpia eastern: great! recommended!"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "9FTL5uySyC",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 680,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 638,
+            "text": "pangsit udang mayones: great! recommended!"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "7CQfR7QfyK",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 767,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 729,
+            "text": "semua yang saya pesan enak-enak banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "JQjA3llKAi",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 881,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 827,
+            "text": "porsinya pun tidak main-main: gede dan dijamin kenyang"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "9tEq03q8yK",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1065,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 1042,
+            "text": "minyaknya banyak banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "zrFbO6c2yo",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1371,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 1333,
+            "text": "pelayanannya juga cukup baik dan cepat"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "suatu waktu kangen cita rasa oriental dan teringat penuturan kolega saya jaman kuliah dulu bahwa eastern menawarkan sajian oriental dengan cita rasa yang cukup menjanjikan. tadinya mau pesan yang ayce tapi ternyata pada hari-hari tertentu eastern tidak menyajikan ayce. kebetulan kunjungan perdana saya adalah hari dimana rumah makan ini tidak menyajikan ayce.  f&b review: - mie goreng hk: great! recommended! - nasi goreng yancao: great! recommended! - cumi telor asin: great! recommended! - tahu cabe garam: standard, but recommended untuk dimsum: - lumpia udang kulit tahu: great! recommended! - lumpia eastern: great! recommended! - pangsit udang mayones: great! recommended! - lumpia asam manis: standard, but recommended! semua yang saya pesan enak-enak banget, kecuali tahu cabe garam yang agak biasa aja menurut saya. porsinya pun tidak main-main: gede dan dijamin kenyang. kalau tahu porsinya gede saya gak akan pesen ukuran large untuk diri sendiri. ragam pilihan dimsum gorengnya juga enak-enak. tapi memang, kekurangannya adalah minyaknya banyak banget. kolega saya yang nemenin makan kurang suka dgn makanan yang berminyak. tapi justru itu, minyaknya nan gurih itulah yang bikin enak hehe.  ambience and service review: tempatnya sendiri cukup luas tapi karena memang sering rame, ya tetep aja suka harus waiting list. pelayanannya juga cukup baik dan cepat. cuman kalau lagi agak ramai, agak susah memang untuk bisa manggil pelayan karena hectic banget."
+  },
+  "id": 297
+}

@@ -1,0 +1,32 @@
+{
+  "completions": [
+    {
+      "created_at": 1600516668,
+      "id": 225001,
+      "lead_time": 15.734,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "OqHNSudDsO",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 37,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "tempatnya enak bgt buat nongkrong sih"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "tempatnya enak bgt buat nongkrong sih!! nginep di kollektiv 2 malem dan dibawah nya ada hara ini jadi setiap breakfast kesini dapet free coffee"
+  },
+  "id": 225
+}

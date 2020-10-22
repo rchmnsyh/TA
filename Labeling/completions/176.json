@@ -1,0 +1,32 @@
+{
+  "completions": [
+    {
+      "created_at": 1600689481,
+      "id": 176001,
+      "lead_time": 10.86,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "2QN5pU4ghJ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 57,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 30,
+            "text": "melayani dengan sangat baik"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "thanks for mas imam yang udah melayani dengan sangat baik. favorit aku gyukaku karubi sama milk pudding nya rekomendasi banget."
+  },
+  "id": 176
+}

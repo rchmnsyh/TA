@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600512641,
+      "id": 249001,
+      "lead_time": 37.641,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "nDU2ZVdgmW",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 113,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 58,
+            "text": "me and my family have a good dinner & good food in here"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "G9bnUKD8YO",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 542,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 524,
+            "text": "god bless the food"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "good day reader,  on 24 january 2020 (cny family dinner)  me and my family have a good dinner & good food in here,it was a first experience for dinner at bandung for us  the taste of food are good (not salty,not to much spicy,not sour),my favorite is chicken with salted egg flavor cause the chicken is boneless/fillet  for the price around 55k-85k for each menu,and my family spent around 480k for chicken with salted egg flavor,shrimp egg roll,crispy cuttlefish,brocoli with japanese tofu,and sour and sweet gurame fish.  god bless the food."
+  },
+  "id": 249
+}

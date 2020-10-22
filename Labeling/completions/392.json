@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600683807,
+      "id": 392001,
+      "lead_time": 54.501,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "VK8blnQaIr",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 53,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 22,
+            "text": "yaman buat nugas atau skripsian"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "7HtX-NbjNb",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 110,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 94,
+            "text": "makanannya enak2"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "8Cbo_cZQni",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 240,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 175,
+            "text": "coffee dan minuman lainnya kaya matcha atau coconut waternya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "XJByz5UUXU",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 273,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 254,
+            "text": "ga ada es kopi susu"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "ada colokan dan wifi, yaman buat nugas atau skripsian! kalo hujan bagian luar 65% kena hujan. makanannya enak2 dan bisa pesen makan dari resto di sebelahnya juga blackpepper. coffee dan minuman lainnya kaya matcha atau coconut waternya enak, tapi mereka ga ada es kopi susu."
+  },
+  "id": 392
+}

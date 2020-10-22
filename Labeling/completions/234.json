@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600783346,
+      "id": 234001,
+      "lead_time": 74.014,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Jk5DIsujqS",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 656,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 630,
+            "text": "pangsitnya yg enak rasanya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "USzyopQmir",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 778,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 743,
+            "text": "cekernya lumer dimulut empuk sekali"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "CASS_AVb1X",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 955,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 929,
+            "text": "susah sekali dpt parkirnya"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "pertama kali kesini, dan memang agak sedikit salah karna tidak tanya soal harga dan porsi. bagi yg pertama kali seperti sy baiknya ditanyakan dulu porsi dan harga, karna porsi yg besar dan harga yg mengikuti (agar lebih effisien ordernya, sesuai kantong dan perut). pesen 2 mie yamin complete, bakso dan ceker alhasil over makanan dimeja, dan harus sy take away ke hotel. secara rasa mie yamin memang manis (pdhal pesan yg sedang, gak kebanyang yg manis kayak gimana) secara rasa setelah ditambah cabe beberapa kali akhirnya pedasnya bisa seimbang dengan rasa manisnya. rasa baso, siomay, tahu sama pada umummnya tapi beda dengan pangsitnya yg enak rasanya karna tekstur berair dan kasar waktu digigit seperti ada tambahan ayam suir yaminnya. cekernya lumer dimulut empuk sekali, mungkin menu ceker saja bisa disajikan dalam rasa yg berbeda dengan menu yaminnya agar bervariasi. dan soal parkir agak menjadi pr kedepannya. karna susah sekali dpt parkirnya.."
+  },
+  "id": 234
+}

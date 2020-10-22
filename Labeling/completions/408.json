@@ -1,0 +1,168 @@
+{
+  "completions": [
+    {
+      "created_at": 1600687706,
+      "id": 408001,
+      "lead_time": 301.619,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "8t9mZQAIEj",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 264,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 234,
+            "text": "parkirannya yang lumayan legah"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "DcSOyQ2o-x",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 289,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 266,
+            "text": "nuansa london yang khas"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "uK1p3AQRKG",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 775,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 755,
+            "text": "matcha sih ok banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "H2hRgHuEeR",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 834,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 777,
+            "text": "tidak terlalu manis dan citarasa pahit nya terpertahankan"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "z2Yj2wZyzF",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 945,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 836,
+            "text": "kombinasi antara matcha yang bold, ice cream vanilla yang segar, dan susu yang kental berpadu secara harmonis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "9H_hK2TIRt",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1107,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 1062,
+            "text": "tergolong sangat murah untuk restoran sekelas"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "a2TRiMrQll",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1180,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 1144,
+            "text": "potongan pizza nya sih lumayan besar"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "p_BEZxvhVm",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1211,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 1182,
+            "text": "toping tuna nya lumayan royal"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "8eEVpzIVIs",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1257,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 1213,
+            "text": "namun sayangnya pizza nya agak sedikit keras"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "restoran yang mengusung nama jalan yang sangat populer bagi pecinta komik detective conan ini menjadi pilihan saya untuk bersantai di sore hari. lokasi restoran nya berada di belakang gedung sate. restoran nya lumayan luas, begitupun parkirannya yang lumayan legah. nuansa london yang khas juga dihadirkan disini, seperti pintu putar klasik dan interior industrial dengan warna hitam yang dominan. ditambah lagi, kali ini saya datangnya saat new year holiday season sehingga dekorasi berbau chrismas dan winter tak lupa dihadirkan untuk memanjakan mata pengunjung.  - baker matcha matcha ditempat ini disajikan dalam bentuk flavoured ice-cubes bersama ice cream vanilla dan susu secara terpisah, sehingga kita bisa menakar kandungan susu yang diinginkan. matcha sih ok banget, tidak terlalu manis dan citarasa pahit nya terpertahankan. kombinasi antara matcha yang bold, ice cream vanilla yang segar, dan susu yang kental berpadu secara harmonis, highly recomended.  - tuna pizza harga yang dipatok untuk aneka kue dan roti di tempat ini cukup mengejutkan saya, tergolong sangat murah untuk restoran sekelas, termasuk untuk menu yang satu ini. potongan pizza nya sih lumayan besar, toping tuna nya lumayan royal, namun sayangnya pizza nya agak sedikit keras."
+  },
+  "id": 408
+}

@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600510892,
+      "id": 382001,
+      "lead_time": 36.465,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "pfewlebUz_",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 53,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 12,
+            "text": "es krim yg enak ya tmpt ini salah satunya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "KNVDoV5thy",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 72,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 55,
+            "text": "pilihannya banyak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "rcvRkg1ARc",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 95,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 77,
+            "text": "harganya gak mahal"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "1Q24fwKmO4",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 217,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 177,
+            "text": "gak terlalu manis dan gak terlalu creamy"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "menurut aku es krim yg enak ya tmpt ini salah satunya. pilihannya banyak dan harganya gak mahal. dia juga punya cabang di jakarta. aku lupa rasa yg aku pilih tp yg aku suka dia gak terlalu manis dan gak terlalu creamy, jdi gak enek.   selamat mencoba!"
+  },
+  "id": 382
+}

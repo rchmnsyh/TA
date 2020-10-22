@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600681390,
+      "id": 381001,
+      "lead_time": 16.625,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "pMr-w_Czc4",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 17,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "gelato terrrenaak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "83vMJQjQl7",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 143,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 112,
+            "text": "pelayanannya juga sangaat ramah"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "gelato terrrenaak di bandung, udah deh paling sering jajan gelato ya ke let's go karena paling enak di bandung. pelayanannya juga sangaat ramah"
+  },
+  "id": 381
+}

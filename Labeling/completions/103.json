@@ -1,0 +1,32 @@
+{
+  "completions": [
+    {
+      "created_at": 1600787674,
+      "id": 103001,
+      "lead_time": 7.32,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "22vzr3Neij",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 23,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "nangka goreng nyaaaaaaa"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "nangka goreng nyaaaaaaa "
+  },
+  "id": 103
+}

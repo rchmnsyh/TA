@@ -1,0 +1,32 @@
+{
+  "completions": [
+    {
+      "created_at": 1600785460,
+      "id": 189001,
+      "lead_time": 41.567,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "cBEQz5YCU5",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 13,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "good ambience"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "good ambience, sayangnya di weekday lantai 2 cuma boleh sampai jam 6 sore good taste, buat yg suka rasa kopi yg pait bukan asam + gurihnya foam si \u201cawan\u201d ini bakal cocok"
+  },
+  "id": 189
+}

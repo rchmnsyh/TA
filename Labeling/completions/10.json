@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600517043,
+      "id": 10001,
+      "lead_time": 22.502,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "3yET_4kfM5",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 61,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 49,
+            "text": "rasanya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "XjCU8lXo4E",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 133,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 99,
+            "text": "bener bener suka sama martabak ini"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "martabak ini lokasinya deket banget sama rumahku rasanya enak dan ga pernah berubah dari aku kecil bener bener suka sama martabak ini."
+  },
+  "id": 10
+}

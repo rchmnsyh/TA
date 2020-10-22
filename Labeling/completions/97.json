@@ -1,0 +1,100 @@
+{
+  "completions": [
+    {
+      "created_at": 1600686414,
+      "id": 97001,
+      "lead_time": 72.088,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "9I_PC0TV7w",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 47,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 32,
+            "text": "semuanyaa enakk"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ZzFehrrFfG",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 71,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 48,
+            "text": "harganya pun terjangkau"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "fEHaOXcO_o",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 256,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 250,
+            "text": "enakkk"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "QwzCnZJyaT",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 612,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 566,
+            "text": "teronh goreng ny tuh didalem tepunnya ga basah"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "XqBgQ6-xw8",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 818,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 792,
+            "text": "overall semuanua very good"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "gaa pernah kecewa makan disini! semuanyaa enakk harganya pun terjangkau. menu2 faforit aku itu ayam ungkep, ayam goreng, ikan bakar kecap, biasanya yg bikin masakan bakar tuh kadang suka terlalu gosong atau rasanya nanggung/kurang kecap. ini enggak! enakkk! sampe ortu aku pada suka, biasanya kalo ortu suka pelit nilai sama makanan  terus tanda2 restoran itu enak, liat pengunjunnya banyak chinese ga. kalo ada chinese pasti enak, dan pandan wangi salah satunya seriuss karena mereka itu paling jago soal rasa dan masak.  terong goreng cobain!!!ini best sellernya. teronh goreng ny tuh didalem tepunnya ga basah gais, cenderung krispi. fix enakkk parah. sambelnya juga cobain sambel dadak. cuman sayang ga termasuk lalab wkwk  biasanya kalo resto sunda pasti sayur2an udah otomatis ada sih. overall semuanua very good!!!"
+  },
+  "id": 97
+}

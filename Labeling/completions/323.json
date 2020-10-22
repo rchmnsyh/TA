@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600686205,
+      "id": 323001,
+      "lead_time": 31.193,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "l33zgdNRCE",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 32,
+            "labels": [
+              "Negative",
+              "Price"
+            ],
+            "start": 22,
+            "text": "overpriced"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "jZa5QgiXBl",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 20,
+            "labels": [
+              "Negative",
+              "Miscellaneous"
+            ],
+            "start": 0,
+            "text": "tidak worth the hype"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "PQGhjFhAaT",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 54,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 34,
+            "text": "mie rasa asem\" doang"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "tidak worth the hype, overpriced. mie rasa asem\" doang"
+  },
+  "id": 323
+}

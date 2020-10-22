@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600688849,
+      "id": 163001,
+      "lead_time": 34.523,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "89aW5-ymrm",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 118,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 92,
+            "text": "harganya terjangkau banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "WHZwHwxFUP",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 162,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 132,
+            "text": "kualitas dan rasanya yang enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "D6L-rbuU87",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 257,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 209,
+            "text": "salah satu tempat yg selalu bikin kangen bandung"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "lokasinya pas banget di belakang stasiun bandung pintu selatan. selalu rame,ga pernah sepi. harganya terjangkau banget apalagi buat kualitas dan rasanya yang enak. my go to menu: dendeng cabe ijo dan cincang. salah satu tempat yg selalu bikin kangen bandung."
+  },
+  "id": 163
+}

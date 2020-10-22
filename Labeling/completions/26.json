@@ -1,0 +1,151 @@
+{
+  "completions": [
+    {
+      "created_at": 1600692730,
+      "id": 26001,
+      "lead_time": 93.991,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "RTx5yeK9Lx",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 63,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 34,
+            "text": "udang besarnya segar dan enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "7WaVhICSJC",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 99,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 71,
+            "text": "spageti agilo olio juga enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "DyU53A8KmA",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 151,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 134,
+            "text": "teksturnya creamy"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "hG86X6mYA5",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 210,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 156,
+            "text": "ada tambahan sayur brokoli membuat rasanya lebih gurih"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "VPjKqPvKJu",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 260,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 242,
+            "text": "rasa buahnya segar"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "RWHk55IdFo",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 378,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 366,
+            "text": "rasanya unik"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "dPgBXWdEn4",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 606,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 574,
+            "text": "tempat parkir tidak terlalu luas"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "-iydXauazg",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 646,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 611,
+            "text": "ada petugas parkir yang mengarahkan"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "makanan: 1. king prawn aglio olio udang besarnya segar dan enak. untuk spageti agilo olio juga enak. 2. cheese baked beef butter rice teksturnya creamy dan ada tambahan sayur brokoli membuat rasanya lebih gurih.  minuman: 1. strawberry juice rasa buahnya segar. 2. mango mint rasanya mangga perpadu dengan rasa lemon dan daun mint yang diblend jadi satu dan membuat rasanya unik. recomended  suasana: datang pada malam hari di hari kerja suasana seperti candlelight dinner dan lumayan ramai. direkomendasi untuk reservasi terlebih dahulu untuk tidak menunggu lama.  parkir: tempat parkir tidak terlalu luas dan ada petugas parkir yang mengarahkan."
+  },
+  "id": 26
+}

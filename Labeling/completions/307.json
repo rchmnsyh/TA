@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600510855,
+      "id": 307001,
+      "lead_time": 3748.762,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "yvNGeG-knE",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 211,
+            "labels": [
+              "Negative",
+              "Price"
+            ],
+            "start": 179,
+            "text": "value of money tidak begitu baik"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "kOJ4AY05MB",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 43,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 27,
+            "text": "tempat yg nyaman"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "kita akan disajikan dengan tempat yg nyaman untuk menghabiskan waktu sambil menikmati hidangan yg ada. belum sempat mencoba banyak menu yg tersedia, namun berdasarkan pengalaman, value of money tidak begitu baik.   overall, its not bad. mungkin jika datang ke bandung lagi akan coba menu lainnya dari noah\u2019/ barn coffeenery."
+  },
+  "id": 307
+}

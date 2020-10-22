@@ -1,0 +1,117 @@
+{
+  "completions": [
+    {
+      "created_at": 1600781726,
+      "id": 36001,
+      "lead_time": 82.835,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "lzxgX79qO8",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 10,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "great food"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "NVHOj6T1Sa",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 35,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 12,
+            "text": "so many variation menus"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "l1tJDi0pWp",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 58,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 40,
+            "text": "the price is right"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "6bN53HiIK7",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 116,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 89,
+            "text": "the taste is also delicious"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "dp0UniOTwX",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 132,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 118,
+            "text": "great ambience"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "gZSyxoAp_4",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 205,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 176,
+            "text": "fast response from the staffs"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "great food, so many variation menus and the price is right (not too low & not too high). the taste is also delicious. great ambience around resto, especially the outdoor area. fast response from the staffs."
+  },
+  "id": 36
+}

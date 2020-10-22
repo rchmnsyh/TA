@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600518265,
+      "id": 303001,
+      "lead_time": 18.179,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "hU0cCJdefi",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 47,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 26,
+            "text": "pisangnya alot, keras"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Txmp9caZx4",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 108,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 49,
+            "text": "caramelizednya juga kurang berasa (over cooked) agak gosong"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "pesen caramelized banana, pisangnya alot, keras. caramelizednya juga kurang berasa (over cooked) agak gosong"
+  },
+  "id": 303
+}

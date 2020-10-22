@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600517017,
+      "id": 143001,
+      "lead_time": 105.038,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Vj5Q932zEE",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1409,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 1379,
+            "text": "untuk minum, jujur agak kurang"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "4Of2Y1o5cD",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1438,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 1416,
+            "text": "harga juga tidak mahal"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "kQ7icS8Ous",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1545,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 1526,
+            "text": "servicenya ramahhhh"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "pindah ke jalan alkateri (braga) \u2014 dekat dengan zodiak hotel (seberang) & warung kopi purnama (sebelahan). dari depan hanya keliatan pintu saja (warna biru), begitu masuk sebenarnya tempatnya juga tidak terlalu besar & dibagi 3 : indoor, outdoor (smoking) bawah & outdoor (smoking) atas. tempat duduk lumayan banyak, namun mungkin karena ngunjunginnya malam minggu jadi ramai & nyari yang smoking area sempat tidak kebagian tempat duduk. tapi akhirnya kebagian duduk di outdoor bawah.  outdoor bawah :  untuk kerja pakai laptop, ukuran meja terbilang kecil namun muat 1 laptop & sedikit sisanya untuk asbak serta minum saja \u2014 tadi mau kerja pakai mouse tidak muat, pad rusak, akibatnya tidak jadi pakai laptop. tinggi meja dengan kursinya pas enak buat nulis (berdasarkan perkiraan tinggi kebanyakan orang \u2014 saya pendek hehe tapi tetep enak sih), hanya saja tadi kebagian meja sisa (cadangan) & bawahnya tidak datar (bisa di atasi kok!), lalu kursi nyomot meja lain. ada stop kontak! kalau tidak salah tiap mejanya ada, hanya 1 & gatau di sana ada kabel roll atau sebagainya karena kebetulan saya tidak perlu. untuk kerja ramaian kayaknya kurang sih karena agak sempit juga spacenya, namun antar meja tidak mepet. wi-fi entah ada atau tidak, tidak cek/tanya, kebetulan sedang tidak perlu. jual makanan juga! makanan ringan lebih tepatnya, spt roti-rotian, rasanya standard enak. untuk minum, jujur agak kurang, tapi harga juga tidak mahal jadi yaaaa... gapapa, namun dengan harga segitu sebenarnya ada tempat yang lebih enak. servicenya ramahhhh, beans juga dijelasin dengan baik. payment cash & transfer bank (kalau tidak salah bca)."
+  },
+  "id": 143
+}

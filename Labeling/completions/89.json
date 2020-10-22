@@ -1,0 +1,32 @@
+{
+  "completions": [
+    {
+      "created_at": 1600686139,
+      "id": 89001,
+      "lead_time": 20.961,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Y9KUDdTaq7",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 99,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 75,
+            "text": "rasa dan variasi menu ok"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "tempat daging bakar-bakaran saingan kukukaki\"gyukaku\" nih di bandung, soal rasa dan variasi menu ok lah cuman sayangnya saya gak ngasih nilai terlalu tinggi soalnya menu daging kambingnya dihilangkan dari paket yang paling murah grrr. jadinya kalau mau makan daging kambing harus mesen paket yang lebih mahal, padahal dulu kintan sangat worth bagi penyuka daging kambing sekarang sih ya ok aja lah jadinya."
+  },
+  "id": 89
+}

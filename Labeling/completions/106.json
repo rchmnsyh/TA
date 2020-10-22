@@ -1,0 +1,32 @@
+{
+  "completions": [
+    {
+      "created_at": 1600518480,
+      "id": 106001,
+      "lead_time": 16.225,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "ZBjIVOfPTV",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 281,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 248,
+            "text": "seneng banget sih sama suasananya"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "lupa tahun berapa pas dateng antara 2016 atau 2017 an, belom terlalu overrated mungkin kayak skrg. awal-awal juga pas masuk agask susah karna kita kayak dilempar sana-sini buat menuju si armor kopi, tempatnya nyempil dan memang agak susah. pas dtg seneng banget sih sama suasananya, for sure"
+  },
+  "id": 106
+}

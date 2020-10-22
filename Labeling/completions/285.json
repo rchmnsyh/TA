@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600687328,
+      "id": 285001,
+      "lead_time": 24.887,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "K2DuHjtecI",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 98,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 73,
+            "text": "ayamnya tidak di marinate"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "DW4OYQPWlp",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 160,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 100,
+            "text": "nasinya juga sudah tidak lengket seperti nasi jepang lainnya"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "beberapa bahannya sudah rubah seperti chuka iidako & chicken karaagenya. ayamnya tidak di marinate. nasinya juga sudah tidak lengket seperti nasi jepang lainnya. padahal gohannya 12.000."
+  },
+  "id": 285
+}

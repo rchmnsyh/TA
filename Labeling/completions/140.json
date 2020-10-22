@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600783265,
+      "id": 140001,
+      "lead_time": 32.511,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "jZh2liMTFA",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 545,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 481,
+            "text": "rasa si donatnya enak bgt cukup fluffy dan ukurannya cukup besar"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "jd2lR_YgUB",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 629,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 599,
+            "text": "oti gandumnya porsinya pas bgt"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "cukup banyak yang ngerekomendasiin roti gempol ini jadilah kesana karena penasaran juga  pas dateng ternyata udah rame bgt yang ngantri, niat awal mau sarapan disini jd gajadi karena tempat duduknya gak banyak dan udah penuh orang juga.  beli yang gandum perseorangan rasa cokelat keju dan untuk dapetin makanannya sendiri kita disuruh tunggu 1 jam saking antrinya jadi sekalian beli donatnya untuk nahan laper  harga donatnya sendiri 6k satunya bisa pilih pake gula merah/putih.  rasa si donatnya enak bgt cukup fluffy dan ukurannya cukup besar. tanpa dikasih tambahan gula juga udah enak~  untuk roti gandumnya porsinya pas bgt (yang perseorangan ya) kalo untuk sarapan jadi kalo mau kulineran yang lain gak kekenyangan duluan"
+  },
+  "id": 140
+}

@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600681581,
+      "id": 243001,
+      "lead_time": 28.396,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "mfXj03VT9W",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 38,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 17,
+            "text": "makanannya enak semua"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "iAKFyAdOaK",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 153,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 119,
+            "text": "aglio olio nya menurutku biasa aja"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "lunch disini dan makanannya enak semua apalagi es kopyor nya yang udh melegenda juga es krim yang ada di kelapa itu ,, aglio olio nya menurutku biasa aja ."
+  },
+  "id": 243
+}

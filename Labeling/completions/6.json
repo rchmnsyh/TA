@@ -1,0 +1,32 @@
+{
+  "completions": [
+    {
+      "created_at": 1600512776,
+      "id": 6001,
+      "lead_time": 14.638,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "8cJUsep3Xs",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 132,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 82,
+            "text": "all the flavours definitely complement of the beef"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "follow my ig = @duocicip easily found near the office. almost gewddd in my mouth. all the flavours definitely complement of the beef. many kind of sambal : sambal lu'at, sambal ijo, sambal matah, black pepper, rica-rica. you can choose whatever you want for making more delicious."
+  },
+  "id": 6
+}

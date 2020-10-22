@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600679241,
+      "id": 194001,
+      "lead_time": 29.151,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "KEUs1bG-kR",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 27,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 23,
+            "text": "enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ZohAXx2L_6",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 79,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 44,
+            "text": "sayang skali coklatnya trll dominan"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "v08pEUZucQ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 123,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 119,
+            "text": "enak"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "kopi toko jawa awannya enak. kopi coklatnya sayang skali coklatnya trll dominan, rasa kopinya hilang. cinnamon rollnya enak."
+  },
+  "id": 194
+}

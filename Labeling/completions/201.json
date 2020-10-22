@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600787512,
+      "id": 201001,
+      "lead_time": 12.496,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "UyEBm146UP",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 11,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "good coffee"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "u_itxZe1Nm",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 34,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 13,
+            "text": "large variety of menu"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "good coffee, large variety of menu but still well maintained its quality."
+  },
+  "id": 201
+}

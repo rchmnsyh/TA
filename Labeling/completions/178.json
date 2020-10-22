@@ -1,0 +1,16 @@
+{
+  "completions": [
+    {
+      "created_at": 1600678254,
+      "id": 178001,
+      "lead_time": 1.741,
+      "result": [],
+      "skipped": true,
+      "was_cancelled": true
+    }
+  ],
+  "data": {
+    "text": "imam"
+  },
+  "id": 178
+}

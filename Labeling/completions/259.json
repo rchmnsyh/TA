@@ -1,0 +1,120 @@
+{
+  "completions": [
+    {
+      "created_at": 1600518237,
+      "id": 259001,
+      "lead_time": 358.735,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "h5_V6ROOPJ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 369,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 328,
+            "text": "untuk tekstur mienya saya sih suka banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "VoL8f5hNqi",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 510,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 478,
+            "text": "bakmie ayam jamurnya sih enak!!!"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "-nHVVKA2fO",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 677,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 642,
+            "text": "gasuka karena terlalu banyak acinya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "o6MInk3DGE",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 841,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 815,
+            "text": "pelayanan disini super oke"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "QCoqLQHnEF",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1017,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 995,
+            "text": "pisang gorengnya enak!"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "v3C9Q-44oS",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1054,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 1045,
+            "text": "good joob"
+          }
+        }
+      ],
+      "skipped": false,
+      "was_cancelled": false
+    }
+  ],
+  "data": {
+    "text": "poin plus pertama yang didapatkan wale adalah: suasana dan udaranya. jadi wale terdiri dari dua tempat yang bersebrangan. kalau saya sih sukanya yg menghadap lembah (?) karena pemandangannya cuco ditambah angin semilir.  hari ini pesan beberapa menu: - yamien manis spesial - bakmie ayam jamur baso - singkong goreng  nah kalau untuk tekstur mienya saya sih suka banget. karena jadul, tipis2, lembut. rasa sih relatif ya karena kebanyakan yamien manis ya begini rasanya. nah si bakmie ayam jamurnya sih enak!!! jadi olahan ayam jamurnya ga kaya ayam jamur umumnya. tapiii, untuk bakso nya biasa aja. apalagi siomay dan baso tahunya, saya sih gasuka karena terlalu banyak acinya.  singkong gorengnya enak. bumbu kuningnya nyerep dan krispi banget. tapi tu cuman buat satu singkong. singkong lainnya super kerasssss. pelayanan disini super oke. begitu complain, langsung ditawarin penggantinya. karena singkongnya udah abis (atau mungkin keras semua?) akhirnya dikasih penggantinya pisang goreng. pisang gorengnya enak! pake palmsuiker dan keju.  good joob, wale!"
+  },
+  "id": 259,
+  "predictions": []
+}

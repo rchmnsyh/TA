@@ -1,0 +1,32 @@
+{
+  "completions": [
+    {
+      "created_at": 1600785466,
+      "id": 173001,
+      "lead_time": 5.184,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "hpP-Dw9rHG",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 42,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 25,
+            "text": "very good service"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "terimakasih imam & amel! very good service"
+  },
+  "id": 173
+}

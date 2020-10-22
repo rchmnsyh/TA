@@ -1,0 +1,52 @@
+{
+  "completions": [
+    {
+      "created_at": 1600518654,
+      "id": 286001,
+      "lead_time": 31.264,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "2wtKfolYeN",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 73,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 36,
+            "text": "disini kaya lebih kecil kecil gituuuu"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "c7UTOUGkOX",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 93,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 79,
+            "text": "ambiance okeee"
+          }
+        }
+      ],
+      "skipped": false,
+      "was_cancelled": false
+    }
+  ],
+  "data": {
+    "text": "gak kaya yang di sushi tei sukajadi disini kaya lebih kecil kecil gituuuu..... ambiance okeee 1-10 7,5laa  makanan si rasanya sama cuman ukurannya aja beda harga sama pelayanan juga sama"
+  },
+  "id": 286,
+  "predictions": []
+}

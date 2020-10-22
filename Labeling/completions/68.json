@@ -1,0 +1,117 @@
+{
+  "completions": [
+    {
+      "created_at": 1600681203,
+      "id": 68001,
+      "lead_time": 101.962,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "w7t24zNC18",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 333,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 311,
+            "text": "katsu dan karinya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "zlZqnj6VUt",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 357,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 335,
+            "text": "potongan dagingnya pas"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "zlRu2e7cL9",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 533,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 513,
+            "text": "puddingnya biasa aja"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "xMFeJ_eG7Q",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 576,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 571,
+            "text": "murah"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "EO3HVTcsIt",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 661,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 634,
+            "text": "makan disini enak2 semuanya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "OoYX8KIsDx",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 707,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 663,
+            "text": "bakalan balik lagi untuk cobain menu yg lain"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "- gyu tataki don (5/5\ufe0f) yaitu nasi dikasih beef slices + special sauce on top, kita bisa request jg tingkat kematangan beefnya kl aku mintanya medium well, ohya kita juga dikasih free miso soup ini parah enak bgt segar gitu, dan ada kaya sejenis ubi yg di goreng itu jg enak.  - chicken katsu curry don (4/5\ufe0f), katsu dan karinya enak, potongan dagingnya pas.  - annin tofu pudding (5/5\ufe0f), ini dessert yg wajib bgt kalian cobain gaboleh engga! can\u2019t describe cobain aja pokoknya. - mango pudding (3/5\ufe0f), kl yg ini puddingnya biasa aja si menurutku. - ocha (4/5\ufe0f), ochanya murah dan free refill sebanyak itu hahaha overall aku suka bgt makan disini enak2 semuanya, bakalan balik lagi untuk cobain menu yg lain!  mau kasih saran dikit untuk waitress, mohon maap ni sblmnya tlg dong kalo customers lg makan jgn diliatin terus, kl sekali2 gapapa wajar manusia punya mata kl dr awal sampe akhir diliatin kan agak keganggu yaa."
+  },
+  "id": 68
+}

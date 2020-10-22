@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600679212,
+      "id": 411001,
+      "lead_time": 32.645,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "RB1B0I0ae0",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 213,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 174,
+            "text": "i come back here every time i'm in town"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "MqrFa1TLec",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 91,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 56,
+            "text": "tastes so much better than it looks"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "6E6eXYfDrt",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 141,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 93,
+            "text": "the crunchy apple pancakes were also exceptional"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "tried many dishes here, but the truffle mac n cheese??? tastes so much better than it looks. the crunchy apple pancakes were also exceptional. definitely a favorite of mine, i come back here every time i'm in town."
+  },
+  "id": 411
+}

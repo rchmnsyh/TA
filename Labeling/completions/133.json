@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600782294,
+      "id": 133001,
+      "lead_time": 26.498,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "cSfrtn20yB",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 240,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 227,
+            "text": "kopinya enakk"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "uL1Qb1qXd2",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 265,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 242,
+            "text": "pelayanannya juga bagus"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "hzOzeo6_IN",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 342,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 333,
+            "text": "homey bgt"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "rekomen banget sih ini buat yang mau ngopi2. bisa jadi tempat nugas, nongkrong, dan diskusi sama kolega. konsepnya ada indoor sama outdoor. kalo mau suasana tenang tinggal pilih indoor aja. wifi kenceng bangett bikin betah dan kopinya enakk. pelayanannya juga bagus mereka ga sungkan2 nyapa kita dan say goodbye pas kita mau pulang. homey bgt pokonyaaa"
+  },
+  "id": 133
+}

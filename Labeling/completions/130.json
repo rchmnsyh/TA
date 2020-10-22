@@ -1,0 +1,134 @@
+{
+  "completions": [
+    {
+      "created_at": 1600683244,
+      "id": 130001,
+      "lead_time": 81.181,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "t18ho1CTuG",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 36,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 21,
+            "text": "minumannya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "UsxX2yTSa6",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 114,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 92,
+            "text": "tempatnya super nyaman"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "JVxt8G7iWx",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 421,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 394,
+            "text": "ada mushola yg super nyaman"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "nCGQz1QV8y",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 557,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 544,
+            "text": "toilet bersih"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ZCd9eobwwF",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 747,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 722,
+            "text": "tempat parkir cukup kecil"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "TGyNItS2D_",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 769,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 754,
+            "text": "aman dan nyaman"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "bdZJ3LSYjj",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 978,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 960,
+            "text": "recommended sekali"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "kenapa bintang 5? 1. minumannya enak (blm sempet coba kuenya,semoga next time bisa coba) 2. tempatnya super nyaman,terutama ada ruangan dibelakang khusus untuk kerja atau nugas yg lengkap dengan lampu belajar dan colokan;sedikit masukan aja, semoga ruangan ini jadi non smoking dan vape ya karna agak pengap kalo ada vape:( dan semoga wifinya bisa sampe kesini karna butuh sekali buat nugas 3. ada mushola yg super nyaman (ini salah satu kriteria cafe yg bagus buat aku,karna bisa nongkrong lama2 atau nugas dan gausah ribet kalo mau solat)dan toilet bersih 4. ada free air mineral yang tinggal di ambil aja pake gelas (i really like this concept a lot! karna kebanyakan cafe2 kalo mau air mineral kudu beli)  5. meskipun tempat parkir cukup kecil, tapi aman dan nyaman. kalo bawa mobil dan ngalangin nanti dipanggil sama mamang parkirnya yang super baik(jujur kalo mang parkirnya baik jadi seneng aja gt dan ga berat waktu mau kasih uang parkir wkwk) intinya recommended sekali buat yg mau nugas atau nongkrong"
+  },
+  "id": 130
+}

@@ -1,0 +1,69 @@
+{
+  "completions": [
+    {
+      "created_at": 1600784591,
+      "id": 242001,
+      "lead_time": 974.49,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "SSp-Neibt5",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 83,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 57,
+            "text": "suka banget selat solo nya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "MVA8xF07Qf",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 120,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 84,
+            "text": "rotinya juga cukup enak cita rasanya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Fb-jEjrSR_",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 229,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 208,
+            "text": "pelayanan cukup sigap"
+          }
+        }
+      ],
+      "skipped": false,
+      "was_cancelled": false
+    }
+  ],
+  "data": {
+    "text": "restonya authentic banget,, cocok buat makan2 keluarga,, suka banget selat solo nya rotinya juga cukup enak cita rasanya jadul alias authentic,, cocok buat bawa ortu atau eyang kita , atau camer makan malam  pelayanan cukup sigap,,,"
+  },
+  "id": 242,
+  "predictions": []
+}

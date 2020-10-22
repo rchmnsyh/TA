@@ -1,0 +1,32 @@
+{
+  "completions": [
+    {
+      "created_at": 1600680392,
+      "id": 180001,
+      "lead_time": 9.887,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "p5URUpTg3p",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 24,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 0,
+            "text": "pelayanannya baik, ramah"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "pelayanannya baik, ramah, oke banget nih waitress gyukaku riau kokom, haris, dani, meta"
+  },
+  "id": 180
+}

@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600678120,
+      "id": 55001,
+      "lead_time": 36.483,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "XzhiLuGHj9",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 160,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 140,
+            "text": "temptnya nyaman enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "cXliGiJ5d-",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 225,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 206,
+            "text": "enak banget soalnya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "9IyPLp2WQJ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 205,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 189,
+            "text": "recommend siihhh"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "kepi banget sama ini cafe, dateng udah lumayan rame di dalem tp akhirnya kebagian di kolam nya, dingin bgt air nya terus adem gitu rindang, temptnya nyaman enak, aku kesini pesen pizza dan recommend siihhh enak banget soalnya hehe"
+  },
+  "id": 55
+}

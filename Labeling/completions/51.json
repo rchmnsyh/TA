@@ -1,0 +1,32 @@
+{
+  "completions": [
+    {
+      "created_at": 1600782530,
+      "id": 51001,
+      "lead_time": 6.512,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "woEj0h8mf8",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 24,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 0,
+            "text": "best healthy bakery ever"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "best healthy bakery ever! hand\u2019s down!!"
+  },
+  "id": 51
+}

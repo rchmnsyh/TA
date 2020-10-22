@@ -1,0 +1,151 @@
+{
+  "completions": [
+    {
+      "created_at": 1600506960,
+      "id": 228001,
+      "lead_time": 97.913,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "DsVWfU5UA-",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 131,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 98,
+            "text": "cafenya juga tematik dan artistik"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "W3RcNj4pSL",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 161,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 133,
+            "text": "tempatnya juga sangat nyaman"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "jl0Qf7rc8q",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 291,
+            "labels": [
+              "Negative",
+              "Ambience"
+            ],
+            "start": 211,
+            "text": "tidak suka dengan bagian outdoor yang tidak serapi dan sebersih bagian indoornya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "5-rSziaBjY",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 477,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 465,
+            "text": "lumayan enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "hx4e4aV-7J",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 696,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 686,
+            "text": "lumayan ok"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "6yYxqu4B0j",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 732,
+            "labels": [
+              "Negative",
+              "Price"
+            ],
+            "start": 706,
+            "text": "harganya memang agak mahal"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ay7a3xA7Kw",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 758,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 734,
+            "text": "cakenya lembut dan moist"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "uf66_pVhXU",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 861,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 839,
+            "text": "personally, saya suka."
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "saya sengaja nyobain kafe ini saat sedang staycation di kollektiv hotel. tak kalah dari hotelnya, cafenya juga tematik dan artistik. tempatnya juga sangat nyaman terutama untuk bagian indoornya. personally saya tidak suka dengan bagian outdoor yang tidak serapi dan sebersih bagian indoornya. selain itu di bagian outdoornya juga jarang ada pelayan yang standby sehingga pelayannnya seringkali lebih lama.\u00a0  - cappuccino cappuccino dari tempat ini menurut saya sih lumayan enak, tapi ngak sampai tahap enak banget apalagi sampai memorable. cappuccinonya bukan yang tipikal creamy banget, agak manis, dengan citarasa kopi yang tidak terlalu strong.\u00a0  - chocolate mousse cake cakenya sih lumayan ok meskipun harganya memang agak mahal. cakenya lembut dan moist. cakenya menang tipikal cake yang manis tapi bukan yang sampai bikin eneg gitu. personally, saya suka."
+  },
+  "id": 228
+}

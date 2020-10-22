@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600678558,
+      "id": 113001,
+      "lead_time": 23.716,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "ejxqfIIRYH",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 93,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 59,
+            "text": "pemandangannya bagus dan worth sih"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "4h5vL5cBCJ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 124,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 95,
+            "text": "makanan nya juga lumayan enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "VXXP2ch22_",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 154,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 129,
+            "text": "harganya masih terjangkau"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "walaupun lokasi nya agak jauh ke atas, setelah sampai cafe pemandangannya bagus dan worth sih. makanan nya juga lumayan enak dan harganya masih terjangkau."
+  },
+  "id": 113
+}

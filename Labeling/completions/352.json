@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600691268,
+      "id": 352001,
+      "lead_time": 30.24,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "qyoR1zGBpa",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 19,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "the foods are great"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "lseh54lrax",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 175,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 157,
+            "text": "the foods are good"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "4vRjoQgfjg",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 195,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 177,
+            "text": "the portion is big"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "2fj6qO8M_1",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 247,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 217,
+            "text": "the staff are helpful and nice"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "the foods are great. ordered chicken and corn soup, spaghetti alle vongole, steak and frites spicy rubbing, strawberry smoothies and citrus berry blast. all the foods are good. the portion is big except for the soup. the staff are helpful and nice"
+  },
+  "id": 352
+}

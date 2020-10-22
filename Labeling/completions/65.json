@@ -1,0 +1,117 @@
+{
+  "completions": [
+    {
+      "created_at": 1600681452,
+      "id": 65001,
+      "lead_time": 60.926,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "o4AEbZtYK4",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 25,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "tempatnya cozy dan nyaman"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "HNx5V_n8K0",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 100,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 84,
+            "text": "makanan nya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "uX96PB7pVV",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 118,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 102,
+            "text": "reasonable price"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "fdYlSN9eQ7",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 159,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 120,
+            "text": "staffnya fiendy dan pelayanan nya cepat"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Yu4poMbheL",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 245,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 210,
+            "text": "would definitely come back for sure"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "qcPpoV2DQS",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 208,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 161,
+            "text": "ok dan recommended bgt buat makan dan nongkrong"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "tempatnya cozy dan nyaman. td gw pesen spaghetti dan caesar salad ( lupa difoto  )  makanan nya enak, reasonable price, staffnya fiendy dan pelayanan nya cepat. ok dan recommended bgt buat makan dan nongkrong. would definitely come back for sure."
+  },
+  "id": 65
+}

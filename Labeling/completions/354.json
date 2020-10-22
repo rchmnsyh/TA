@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600686117,
+      "id": 354001,
+      "lead_time": 70.665,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "JU1yENCkIw",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 315,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 277,
+            "text": "the taste and texture was just average"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "NB-4u6KDS0",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 478,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 445,
+            "text": "interior of the resto was alright"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "n9eq-GLlTh",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 514,
+            "labels": [
+              "Negative",
+              "Ambience"
+            ],
+            "start": 483,
+            "text": "the smoking area was really hot"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "went to check out this \"fine dining resto\" during my visit to bandung recently. ordered their garlic butter tomahawk which they strongly recommend and the longhorn short ribs. presentation of how they cooked the tomahawk was excellent which sort of reminded me of lawry's. but the taste and texture was just average. i was way more impressed with the longhorn short ribs. one other thing which i am very disappointed about was the smoking area. interior of the resto was alright but the smoking area was really hot! not fit for a fine dining! they have air-cons installed but they opened windows and turned on exhaust fans! why? face it, bandung's climate is not as cooling and the air outside is not as refreshing  as it used to be 20 years ago. you need to adapt man."
+  },
+  "id": 354
+}

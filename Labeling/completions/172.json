@@ -1,0 +1,32 @@
+{
+  "completions": [
+    {
+      "created_at": 1600787682,
+      "id": 172001,
+      "lead_time": 8.175,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "knMvWyYsD0",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 69,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 37,
+            "text": "pelayanan baik dan cepat banget."
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "dilayani oleh mas imam dan mas rudi, pelayanan baik dan cepat banget. pasti balik lagi sama teman-teman aku nanti."
+  },
+  "id": 172
+}

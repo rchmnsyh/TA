@@ -1,0 +1,117 @@
+{
+  "completions": [
+    {
+      "created_at": 1600681341,
+      "id": 345001,
+      "lead_time": 71.315,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "WqpvtVBJ4k",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 73,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 15,
+            "text": "tempatnya enak dan nyaman banget untuk ngobrol dan hangout"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "SpXRa2padX",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 196,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 152,
+            "text": "offee, deserts, and snacks are pretty decent"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "LxbqLUEr6p",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 226,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 215,
+            "text": "cheap price"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "F6bYvZ1kr0",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 342,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 316,
+            "text": "kurang sekali pelayanannya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "dPNYYJQxao",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 375,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 344,
+            "text": "makanannya cukup lama keluarnya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "SEYB8UHGv7",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 477,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 438,
+            "text": "the waiters is also not helping at all."
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "sejujurnya ini tempatnya enak dan nyaman banget untuk ngobrol dan hangout. saya sudah 2x ke wiki koffie dan pengalaman pertama saya sangat baik. their coffee, deserts, and snacks are pretty decent considering their cheap price. tapi saat saya kesini untuk kedua kalinya, kurang lebih tempatnya masih sama tapi  jadi kurang sekali pelayanannya. makanannya cukup lama keluarnya dan teman saya makanannya baru keluar setelah 1 jam ditunggu. the waiters is also not helping at all. saya pesan rice bowl chicken salted egg nya rasanya juga seperti kari bukan seperti salted egg. saran dari saya untuk wiki koffie, just focus on your beverages, snacks, and deserts ya! as they are pretty decent. untuk makanan berat nya mungkin perlu di quality check lagi untuk rasanya biar makin enak tempatnya"
+  },
+  "id": 345
+}

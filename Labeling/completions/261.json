@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600518436,
+      "id": 261001,
+      "lead_time": 19.157,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "y9PszLcEOu",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 25,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "yamin asin basonya mantap"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "SZdv2wcPHR",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 53,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 29,
+            "text": "es jeruk nipisnya mantap"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "5e8nbNgTe5",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 176,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 158,
+            "text": "highly recommended"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "yamin asin basonya mantap .. es jeruk nipisnya mantap .. juice strawberrynya juga .. apalg pisang gorengnya .. panas2 suasana mendung pula .. makin yahudd .. highly recommended"
+  },
+  "id": 261
+}

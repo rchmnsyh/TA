@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600689622,
+      "id": 115001,
+      "lead_time": 14.617,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "9fLHPc5Fws",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 40,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "tempatnya baguus, sejuk, ada kebun bunga"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "_m5ucHGtzs",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 87,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 71,
+            "text": "makanan nya enak"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "tempatnya baguus, sejuk, ada kebun bunga bayar 10rb dapet bibit bunga. makanan nya enak. cuma jalan kesana nya agak sepi & jalan nya sempit."
+  },
+  "id": 115
+}

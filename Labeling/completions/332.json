@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600787184,
+      "id": 332001,
+      "lead_time": 18.788,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "QSWC-J1M0X",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 36,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "the place was very nice and relaxing"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "KAcBmpXTQl",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 163,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 121,
+            "text": "the staff was very friendly and responsive"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "the place was very nice and relaxing. it has a small nice garden, very suitable for children to play and running around. the staff was very friendly and responsive as well. very recommended to come for breakfast or lunch so that you can enjoy chilling while having good foods."
+  },
+  "id": 332
+}

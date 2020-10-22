@@ -1,0 +1,151 @@
+{
+  "completions": [
+    {
+      "created_at": 1600681063,
+      "id": 317001,
+      "lead_time": 76.581,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "yNzljPRDjy",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 15,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "tempatnya bagus"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "QVV9CVdOeh",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 61,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 45,
+            "text": "menunya variatif"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "0ZzKOSr20Y",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 206,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 181,
+            "text": "interiornya tertata rapih"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "2NB7dJAqoO",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 176,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 154,
+            "text": "toilet nya juga bersih"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "I3yAvw8a0_",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 257,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 213,
+            "text": "appetizer sampai main course juga enak semua"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Dr7obNbyS2",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 420,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 397,
+            "text": "pelayan2 nya juga ramah"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "_fvte6CpMZ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 456,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 428,
+            "text": "kurang banyak yg ngelayangin"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "MABsSw6ngW",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 573,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 534,
+            "text": "makanannya agak keasinan untuk semuanya"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "tempatnya bagus, casual dinning yang santai, menunya variatif dari tua sampe anak-anak bisa semua disini, ada playground juga jadi anak2nya gak ilang2an. toilet nya juga bersih dan interiornya tertata rapih. dari appetizer sampai main course juga enak semua. dari western sampai indonesian course juga ada. indonesian course nya ada masakan sunda, jawa, sampai menado. saya pesen kakap dabu-dabu. pelayan2 nya juga ramah, cuman kurang banyak yg ngelayangin, mungkin karena pengurangan karyawan new normal gini.  kurangnya cuman satu; makanannya agak keasinan untuk semuanya, dari sop ayam tahu, sampai kakap nya. tapi asinnya masih normal kok."
+  },
+  "id": 317
+}

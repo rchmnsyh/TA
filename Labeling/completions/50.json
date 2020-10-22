@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600787976,
+      "id": 50001,
+      "lead_time": 36.647,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "yqsyzjjyeK",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 47,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 12,
+            "text": "wide variety of healthy baked goods"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "yumjR9ddWg",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 106,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 65,
+            "text": "quite a lot of vegan sandwiches available"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "8ge0UJWKjD",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 154,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 108,
+            "text": "the food were amazingly delicious and creative"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Im2XmMfOwB",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 297,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 275,
+            "text": "staffs were so helpful"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "they have a wide variety of healthy baked goods and even offered quite a lot of vegan sandwiches available. the food were amazingly delicious and creative like these portobello cranberry sandwich and vegan maca ball. i also ordered some ciabatta to take away for breakfast.  staffs were so helpful on explaining which ones are vegan and not, but i really wish they would expand their bakery because it was a little crowded especially during breakfast so i had to wait a little longer for my morning coffee."
+  },
+  "id": 50
+}

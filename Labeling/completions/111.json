@@ -1,0 +1,137 @@
+{
+  "completions": [
+    {
+      "created_at": 1600689758,
+      "id": 111001,
+      "lead_time": 482.643,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "dJ0C8hNtWw",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 26,
+            "labels": [
+              "Negative",
+              "Price"
+            ],
+            "start": 16,
+            "text": "rada mahal"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "N7R10LPL6R",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 82,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 69,
+            "text": "enak dan adem"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "trc6uRzrot",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 106,
+            "labels": [
+              "Negative",
+              "Ambience"
+            ],
+            "start": 84,
+            "text": "banyak lalat dan lebah"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "8fWImYFioB",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 148,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 128,
+            "text": "pelayanan juga cepet"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "u80mqMCDne",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 183,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 150,
+            "text": "makanannya ada cemilan ampe berat"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "2bWM_J-4-N",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 255,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 230,
+            "text": "sambel matahnya mantep gt"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "sViGnvnHvB",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 273,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 257,
+            "text": "bakal balik lagi"
+          }
+        }
+      ],
+      "skipped": false,
+      "was_cancelled": false
+    }
+  ],
+  "data": {
+    "text": "mukbang disini, rada mahal ya abis 500 rb wkwkwkw. tempatnya jauh tp enak dan adem. banyak lalat dan lebah ti ati ya. gede sih, pelayanan juga cepet. makanannya ada cemilan ampe berat. the best nya seblak dan ayam geprek nya sih. sambel matahnya mantep gt. bakal balik lagi buat foto2!   selamat mencoba!"
+  },
+  "id": 111,
+  "predictions": []
+}

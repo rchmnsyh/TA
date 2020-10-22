@@ -1,0 +1,32 @@
+{
+  "completions": [
+    {
+      "created_at": 1600788951,
+      "id": 386001,
+      "lead_time": 12.976,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "g2pvxtX4sL",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 20,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 0,
+            "text": "the best coffee shop"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "the best coffee shop in bandung, even in indonesia for me"
+  },
+  "id": 386
+}

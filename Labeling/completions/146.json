@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600518464,
+      "id": 146001,
+      "lead_time": 27.571,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "S8Vvxmi5gM",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 51,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 30,
+            "text": "rasanya seimbang bget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "kHekfT2FFt",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 74,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 53,
+            "text": "orange juicenya seger"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "fBNMX6lWZC",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 124,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 76,
+            "text": "tempatnya juga asik gak terlalu rame bising gitu"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "affogatonya nomor satuuuuuu.. rasanya seimbang bget. orange juicenya seger! tempatnya juga asik gak terlalu rame bising gitu.. deket dari jalan riau. gak terlalu jauh deh kalo mau ke destinasi lainnya"
+  },
+  "id": 146
+}

@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600788744,
+      "id": 117001,
+      "lead_time": 52.556,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "uUAOq4eTh2",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 24,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "puas banget sama makanan"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "7wivfjS4wn",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 99,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 76,
+            "text": "toiletnya kurang bersih"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "puas banget sama makanan dan viewnya!! bagus banget. cuman 1 kurangnya sih, toiletnya kurang bersih. tapi kalo diajak kesini lagi sih, tetep mau banget!!"
+  },
+  "id": 117
+}

@@ -1,0 +1,134 @@
+{
+  "completions": [
+    {
+      "created_at": 1600787427,
+      "id": 241001,
+      "lead_time": 58.57,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "1yftblCQq0",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 95,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 80,
+            "text": "dagingnya keras"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "wHKHXE5taD",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 180,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 165,
+            "text": "dagingnya keras"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "GXHT2nB23r",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 194,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 182,
+            "text": "rasa lumayan"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "AUMGlJatkZ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 268,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 249,
+            "text": "ikannya ga ada rasa"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "cG_KSkFHhW",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 345,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 318,
+            "text": "ini enak bgt, kuahnya seger"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "rqaRglznKU",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 375,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 363,
+            "text": "lumayan enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "gtRvuxMbGv",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 402,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 380,
+            "text": "ice creamnya enak enak"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "pertama kali kesini karena ratingnya bagus di zomato. pesen:  - beef teriyaki ( dagingnya keras, menurutku rasanya terlalu kayak semur) - blackpepper beef ricebowl (dagingnya keras, rasa lumayan) - spaghetti bolognese (biasa bgt) - fish and chips ( ikannya ga ada rasa) - zuppa soup ( lumayan) - sop buntut ( nah yang ini enak bgt, kuahnya seger) -bitterballen ( lumayan enak)  - ice creamnya enak enak!  dan yang aneh pas bayar kasirnya bilang ga bisa pake debit katanya \u201cdisini khusus kartu kredit\u201d jadi kalo kesini ga ada cc siapin cash ya guys . hmm overall not really impressed ya, mengingat ratingnya yang bagus."
+  },
+  "id": 241
+}

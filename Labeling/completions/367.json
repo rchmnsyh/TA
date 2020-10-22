@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600678252,
+      "id": 367001,
+      "lead_time": 35.158,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "xGjy8OnOtY",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 58,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 4,
+            "text": "ini adalah salah satu steakhouse yang wajib dikunjungi"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "_G2t7eSdM7",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 196,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 134,
+            "text": "menyajikan berbagai pilihan steak yang sayang untuk dilewatkan"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "CtnbTDuDYL",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 271,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 249,
+            "text": "dagingnya juicy banget"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "nah ini adalah salah satu steakhouse yang wajib dikunjungi nih oleh para penggemar steak kalo lagi main ke bandung.  justussteakhouse menyajikan berbagai pilihan steak yang sayang untuk dilewatkan dan untuk kali ini saya pesan sirloin steaknya yang dagingnya juicy banget.  in frame: us black angus sirloin steak 200gr 155k++ ice lychee tea 22k++ \u2022 \u2022 justus steakhouse"
+  },
+  "id": 367
+}

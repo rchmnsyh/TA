@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600518416,
+      "id": 17001,
+      "lead_time": 140.411,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "SHoKv6ZxqV",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 59,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 43,
+            "text": "bistiknya mantap"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "vCze8cUw5g",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 182,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 156,
+            "text": "ginger honey bee-nya seger"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "follow me on instagram : awakdoyankuliner  bistiknya mantap apalagi nasinya kyk ada butter jadinya makin nikmat, escargots favorit banget kalo tiap kesini, ginger honey bee-nya seger"
+  },
+  "id": 17
+}

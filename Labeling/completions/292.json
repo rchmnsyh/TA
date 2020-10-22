@@ -1,0 +1,117 @@
+{
+  "completions": [
+    {
+      "created_at": 1600678459,
+      "id": 292001,
+      "lead_time": 163.307,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "DFWGa3ijFx",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 107,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 63,
+            "text": "restoran dimsum favorit saya di kota bandung"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "1UGhObqE_8",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 327,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 287,
+            "text": "tempatnya cukup nyaman dan sangat bersih"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "7xesTVeDgw",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 383,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 329,
+            "text": "pelayanannya juga sangat responsif, ramah, dan cekatan"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "f0kduTk-bc",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 737,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 685,
+            "text": "pilihan dimsum di tempat ini tergolong banyak banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "8so0yXXmGI",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 929,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 878,
+            "text": " isian udangnya benar-benar segar, empuk, dan penuh"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "3o2DvktNSc",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1153,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 1093,
+            "text": "siomai disini empuk dengan citarasa daging isian yang intens"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "restoran yang berada di istana plaza ini bisa dibilang sebagai restoran dimsum favorit saya di kota bandung. dari segi tempat, restoran ini tipikal fine-chinese-family restaurant yang pastinya selalu ramai dan berisik di saat jam makan siang dan makan malam. walaupun ramai dan berisik, tempatnya cukup nyaman dan sangat bersih, pelayanannya juga sangat responsif, ramah, dan cekatan.\u00a0\u2028\u2028- various dimsum\u2028dimsum di tempat ini tersedia dalam paketan all you can eat (131k) maupun secara \u00e0 la carte (20ank in average). untuk yang perutnya ngak gede-gede banget seperti saya sebaiknya pesannya yang \u00e0 la carte karena basically dimsum kan karbo banget jadi bakalan cepat banget kenyangnya. pilihan dimsum di tempat ini tergolong banyak banget apalagi hari minggu\u2014terdapat special menu yang hanya tersedia di hari minggu. di antara semua pilihan dimsumnya, saya paling suka hakau nya. isian udangnya benar-benar segar, empuk, dan penuh, tidak seperti di restoran lain yang seringkali tebal di kulitnya saja. selain itu saya juga suka banget varian siomainya\u2014baik siomai udang, ayam, maupun seafood. siomai disini empuk dengan citarasa daging isian yang intens."
+  },
+  "id": 292
+}

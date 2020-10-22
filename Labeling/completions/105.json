@@ -1,0 +1,100 @@
+{
+  "completions": [
+    {
+      "created_at": 1600782343,
+      "id": 105001,
+      "lead_time": 48.317,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "IALVex-HQK",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 22,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "suasananya enak banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "0q4i4CnY43",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 109,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 96,
+            "text": "toilet bersih"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ATqaQfbrUV",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 124,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 111,
+            "text": "kopinya enak2"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "3-rItr_2gL",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 232,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 216,
+            "text": "cemilan jg enak2"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "FRQib5Ym6n",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 207,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 165,
+            "text": "es teh manisnya pekatttt banget dan banyak"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "suasananya enak banget. alam banget. jd bs rehat sejenak dr hiruk pikuk kota. kids friendly jg. toilet bersih. kopinya enak2. aku suka liberica (panas/dingin enak). es teh manisnya pekatttt banget dan banyak. suka.  cemilan jg enak2. tp sayang makanan beratnya vegetarian semua, jd kalau lg laper susah.  review lengkapnya ada di blog aku ya : https://www.roosvansia.com/2019/09/armor-coffee-tempat-nongkrong-hitz-di.html"
+  },
+  "id": 105
+}

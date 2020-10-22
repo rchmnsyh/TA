@@ -1,0 +1,100 @@
+{
+  "completions": [
+    {
+      "created_at": 1600689538,
+      "id": 400001,
+      "lead_time": 55.914,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "J0vf429meN",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 24,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "dagingnya lembut bngettt"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "U3G9tETgLd",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 41,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 25,
+            "text": "banyak variannya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "F7WgMQ2meY",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 67,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 48,
+            "text": "seafood nya lengkap"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "5sQSuQqqsm",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 96,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 74,
+            "text": "suasananya cozy parahh"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "88javu7rLN",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 137,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 106,
+            "text": "worth it banget makan di siniii"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "dagingnya lembut bngettt banyak variannya jugaa seafood nya lengkap juga, suasananya cozy parahh pokoknya worth it banget makan di siniii"
+  },
+  "id": 400
+}

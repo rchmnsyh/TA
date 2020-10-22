@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600781900,
+      "id": 120001,
+      "lead_time": 21.155,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "B074w3_gmn",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 14,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "tempatnya cozy"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "PEWaYwFwED",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 81,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 55,
+            "text": "kamar mandinya juga bersih"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "u8QdnI5egw",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 139,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 106,
+            "text": "ada satu menu yang lama keluarnya"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "tempatnya cozy. favorite buat brunch atau santai sore, kamar mandinya juga bersih. cuma kemaren pas makan ada satu menu yang lama keluarnya yang ternyata kelupaan, but overall ok "
+  },
+  "id": 120
+}

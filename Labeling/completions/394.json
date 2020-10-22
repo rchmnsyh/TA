@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600782147,
+      "id": 394001,
+      "lead_time": 22.992,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "dmOGBjXcqQ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 53,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "cobain flavoured coffee nya. and that was really good"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "k1Hydj9JSU",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 276,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 246,
+            "text": "harganya juga masih masuk akal"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "vcnAV8O67U",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 292,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 278,
+            "text": "not too pricey"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "cobain flavoured coffee nya. and that was really good. seiring banyaknya coffee shop yang bermunculan di bandung, banyak coffee shop yang kopinya biasa-biasa aja. but yumaju keeps its quality and you will know it, once you taste its coffee. dari harganya juga masih masuk akal. not too pricey. worth a try!"
+  },
+  "id": 394
+}

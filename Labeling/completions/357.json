@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600682332,
+      "id": 357001,
+      "lead_time": 85.645,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "JmUhZypNl-",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 91,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 78,
+            "text": "harga standar"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "QxP_je4u6r",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 133,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 113,
+            "text": "rasanya juga standar"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "kesini bareng keluarga, beli voucher di traveloka kebetulan lagi promo, untuk harga standar ayce ditempat2 lain, rasanya juga standar"
+  },
+  "id": 357
+}

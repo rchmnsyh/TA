@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600678050,
+      "id": 223001,
+      "lead_time": 23.428,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "yfKjNHYLzd",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 51,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "tempatnya enak buat ngobrol dan santai bareng temen"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "hVfyDaCUT8",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 64,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 53,
+            "text": "well served"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "_Axvys6PG3",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 127,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 87,
+            "text": "suka sama suasana bagian luar restoranya"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "tempatnya enak buat ngobrol dan santai bareng temen. well served!! ada hotelnya jugaa. suka sama suasana bagian luar restoranya. instagramable!!"
+  },
+  "id": 223
+}

@@ -1,0 +1,117 @@
+{
+  "completions": [
+    {
+      "created_at": 1600680708,
+      "id": 131001,
+      "lead_time": 90.86,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "_8O4qNhUGo",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 23,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 10,
+            "text": "cozy bangeeet"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "h8zHRnWrOp",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 68,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 57,
+            "text": "bikin betah"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "nJayGRsjEw",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 252,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 240,
+            "text": "kopinya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "sgK7h7HGTu",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 408,
+            "labels": [
+              "Negative",
+              "Price"
+            ],
+            "start": 397,
+            "text": "cukup mahal"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "LZuGIbh8VV",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 486,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 476,
+            "text": "ramah beud"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "EF15cdINST",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 739,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 707,
+            "text": "gw pribadi si bakal ke sini lagi"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "tempat 5  cozy bangeeet! ga pake ac juga adem. nikmat la bikin betah. cuman kalo yang charger mania harus cari dulu tempat nge cas nya soalnya ga semua ruangan ada tempat ngecas. tapi baguslah biar bisa ngobrol tampa hp wkwkwk  rasa : 4.5  kopinya enak! buat kalian yang mencari rasa kopi yang lebih dominan daripada rasa susu (jadi ga ketutup rasa susunya) di sini recomended dah buat kalian  ya cukup mahal 30 ribuan rata rata... tapi sebanding dengan rasanya  service : 5  ramah beud. terus kita semua bisa melihat betapa berusahanya mereka untuk menjaga pesona cappucino mereka ketika mengantarkannya pada kita  side notes : buat kerjain tugas, nongkrong, rapat recomended banget dah!  overall si 4.75. gw pribadi si bakal ke sini lagi."
+  },
+  "id": 131
+}

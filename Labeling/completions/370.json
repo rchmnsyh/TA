@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600774781,
+      "id": 370001,
+      "lead_time": 9.485,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "iJ97DBBvLU",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 12,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "nasinya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "rHlglGlu3f",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 41,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 14,
+            "text": "bumbu bbq nya strong sekali"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "nasinya enak, bumbu bbq nya strong sekali"
+  },
+  "id": 370
+}

@@ -1,0 +1,117 @@
+{
+  "completions": [
+    {
+      "created_at": 1600683609,
+      "id": 8001,
+      "lead_time": 38.489,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "-9jr5cBkzH",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 14,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "dagingnya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "GbVycTpD3h",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 38,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 21,
+            "text": "ga terlalu banyak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "u9Fxgj-x3G",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 49,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 44,
+            "text": "murah"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "2YlemvOrvk",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 73,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 54,
+            "text": "banyak pilihan rasa"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "v1mUao27nj",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 90,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 75,
+            "text": "bumbunya mantap"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "pnjs97NFKQ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 114,
+            "labels": [
+              "Negative",
+              "Ambience"
+            ],
+            "start": 92,
+            "text": "tempatnya selalu ramai"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "dagingnya enak walau ga terlalu banyak tapi murah dan banyak pilihan rasa, bumbunya mantap, tempatnya selalu ramai"
+  },
+  "id": 8
+}

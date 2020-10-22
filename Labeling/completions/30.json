@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600680360,
+      "id": 30001,
+      "lead_time": 33.755,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "PtwfsQBoDM",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 23,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "makanannya enak2 semuaa"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "asLzA9lymk",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 75,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 48,
+            "text": "makanan nya gaada yang fail"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "H9v_dzyvJS",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 181,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 170,
+            "text": "enak banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "g4Cfh48x0X",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 220,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 187,
+            "text": "pasti bakalan balik lagi pokoknya"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "makanannya enak2 semuaa, kesini ber15 dan semua makanan nya gaada yang fail. gue pribadi kemarin makan salmon alfredo, ini juga worth to try!! trs sate maranggi nya juga enak banget hehe pasti bakalan balik lagi pokoknya "
+  },
+  "id": 30
+}

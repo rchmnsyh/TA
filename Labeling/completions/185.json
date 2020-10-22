@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600786157,
+      "id": 185001,
+      "lead_time": 20.331,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "LI-OURdCqg",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 28,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 0,
+            "text": "pelayanannya sukaaa bangeeet"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ExRfGOV4fu",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 48,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 30,
+            "text": "ramah-ramah semuaa"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "lOni0dLIpY",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 124,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 106,
+            "text": "bumbunya enak enak"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "pelayanannya sukaaa bangeeet, ramah-ramah semuaa ( dibantu ka meta, mas dani, ka kokom dan ,  kak tiar).  bumbunya enak enak, paling suka bumbu rawit cabe bawang putihnya"
+  },
+  "id": 185
+}

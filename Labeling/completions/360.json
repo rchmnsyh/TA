@@ -1,0 +1,32 @@
+{
+  "completions": [
+    {
+      "created_at": 1600679156,
+      "id": 360001,
+      "lead_time": 8.936,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "ehFiJamfCU",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 9,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "god food!"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "god food!"
+  },
+  "id": 360
+}

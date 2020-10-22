@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600786202,
+      "id": 1001,
+      "lead_time": 44.346,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "8NgDCQ6iu_",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 33,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "se\u2019i sapi sambel lu\u2019at nya dabest"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "r6MxaZtWOe",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 547,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 518,
+            "text": "rasa sambelnya seru gtu seger"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "_Pml4lEkIe",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 627,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 603,
+            "text": "pelayanannya cukup cepat"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "dDm8MFH4Xf",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 651,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 632,
+            "text": "ambiance nya jg oke"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "se\u2019i sapi sambel lu\u2019at nya dabest!   pertama kesini pas jam 8 malam tp udh close order dan cuma bisa take away karna udh terlalu ramai mungkin ya, tapi ga asik ya kalo kali pertama nyobain se\u2019i tapi dibungkus    jadi kita mutusin untuk dateng lg besok paginya dan kita pesan ini:  se\u2019i sapi sambel lu\u2019at   se\u2019i sapi sambel matah  se\u2019i sapi sambel ijo  se\u2019i sapi sambel andaliman  se\u2019i sapi rica-rica  untuk semua daging rasanya sama, hanya sambel nya aja yg ngebedain. dari semua sambel, aku paling suka sambel lu\u2019at  rasa sambelnya seru gtu seger dan mungkin karna ada perasan jeruk nipis nya(?) untuk pelayanannya cukup cepat dan ambiance nya jg oke.  kalau mau kesini hindari jam makan siang ya, waiting listnya ganahan hehe. tp kalau km termasuk org yang sabar, km bisa makan cilor goreng yg dijual percis didepan kedai sambil nunggu antrian. selamat mencoba! "
+  },
+  "id": 1
+}

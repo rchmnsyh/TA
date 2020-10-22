@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600679146,
+      "id": 311001,
+      "lead_time": 74.363,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Wmi2sQ_EY0",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 14,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "tempat yg cozy"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "swMfYXXk5Z",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 77,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 56,
+            "text": "makanannya enak semua"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "wwD_VlT4r6",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 129,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 110,
+            "text": "arganya di sini pas"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "uCVN5AhGEc",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 326,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 259,
+            "text": "love this place & bakalan balik utk saladnya & mencoba menu lainnya"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "tempat yg cozy dengan udara terbuka & yg paling penting makanannya enak semuasebagai penggemar sayur, menu & harganya di sini pas, salad porsi kecil dikisaran 20-25 rb itu pas banget & yg jelas enakpastry yg digulung bersama bayam creamy cruchy sesuatu bangetlove this place & bakalan balik utk saladnya & mencoba menu lainnya"
+  },
+  "id": 311
+}

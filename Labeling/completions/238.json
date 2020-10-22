@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600788397,
+      "id": 238001,
+      "lead_time": 51.077,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "6LjxxS7kJT",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 183,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 159,
+            "text": "seporsinya banyak banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "5oBYSNija_",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 480,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 436,
+            "text": "bakso sama pangsitnya aja udah banyak banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "D36T2qo2xI",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 541,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 515,
+            "text": "rasa sih sesuai ekspektasi"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "SWUJbvyicn",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 603,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 580,
+            "text": "pangsitnya juara banget"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "akhirnya kesampean juga nyobain mie yang legendaris banget di bandung. sempet ragu sih mau pesen satu atau setengah porsi karena takut nggak kenyang, ternyata seporsinya banyak banget untuk ukuran cewek *tapi tetep abis karena enak   aku pesen mie yamin 1 porsi & bakso pangsit. aku pesen mie yamin karena di jakarta jarang banget nemuin yang jual yamin dan lumayan kangen rasa mie yamin. tadinya pengen tambah ceker juga tapi ternyata bakso sama pangsitnya aja udah banyak banget dan nggak kuat nambah lagi. untuk rasa sih sesuai ekspektasi karena emang beneran gurih dan enak . pangsitnya juara banget sih! cuma next time aku mau balik lagi coba mie biasanya karena yang yamin agak kemanisan buatku."
+  },
+  "id": 238
+}

@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600506522,
+      "id": 62001,
+      "lead_time": 54.492,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "wyEPoytndL",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 138,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 109,
+            "text": "the foods are worth the price"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "vDbmjSML9K",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 160,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 140,
+            "text": "not really expensive"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "BkB2qFciXa",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 327,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 313,
+            "text": "love the taste"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "IEfe25ar1q",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 431,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 401,
+            "text": "with that price, it's worth it"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "we had early lunch here, the second floor was only few people there, so it was great. semi outdoor, love it. the foods are worth the price, not really expensive, the taste was great.  i ordered gelato mango (forgot the full name), the real size was not as i imagined when i saw the pic in the menu but it's okay. love the taste, so fresh to have it in the middle of the day. then i had hamburg steak, with that price, it's worth it!"
+  },
+  "id": 62
+}

@@ -1,0 +1,100 @@
+{
+  "completions": [
+    {
+      "created_at": 1600784568,
+      "id": 266001,
+      "lead_time": 39.921,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "pEZyzjGV_d",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 194,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 163,
+            "text": "steak at dinner was exceptional"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "wYPqX08Lpz",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 212,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 195,
+            "text": " juicy and tender"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "bNnGdEgR7v",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 267,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 252,
+            "text": "quite wide size"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "z2LgAJsdtN",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 297,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 270,
+            "text": "breakfast buffet is awesome"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "geyGJbwDaB",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 322,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 307,
+            "text": "lots of variety"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "went for both dinner and breakfast.  ordered us angus ribeye steak set for dinner at medium well (discount of 50%), came with appetizers, soup, main and dessert.  steak at dinner was exceptional, juicy and tender. was thinly cut for easier chewing yet quite wide size.  breakfast buffet is awesome as well, lots of variety from indonesian, international eastern to western. one of the best was fish with singapore sauce."
+  },
+  "id": 266
+}

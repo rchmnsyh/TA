@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600515872,
+      "id": 156001,
+      "lead_time": 20.515,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "nPOGk8xV2h",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 22,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "empuk banget dagingnya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "toX2dIMVPl",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 35,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 24,
+            "text": "porsinya ok"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "9F331SqFcs",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 59,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 37,
+            "text": "sedap dan enak kuahnya"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "empuk banget dagingnya, porsinya ok, sedap dan enak kuahnya. rekomen sih yg rebus drpd goreng. kecuali suka manis boleh coba yg goreng :)"
+  },
+  "id": 156
+}

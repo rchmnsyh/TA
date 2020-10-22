@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600782703,
+      "id": 325001,
+      "lead_time": 16.309,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "B5KYRm2lgC",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 80,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 70,
+            "text": "tasty food"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "A-ibwGysLd",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 65,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 49,
+            "text": "affordable price"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "best bakmie daging babi cincang and baso goreng. affordable price for tasty food~"
+  },
+  "id": 325
+}

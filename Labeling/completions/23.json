@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600684698,
+      "id": 23001,
+      "lead_time": 24.231,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "xSa8fbZEJ-",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 106,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 84,
+            "text": "fullmeal dari porsinya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "XbH6f6iYUw",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 173,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 119,
+            "text": "salmon belly sama thai tea mille crepenya itu sempurna"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "wow. just wow! kita pesen mushroom rolls untuk \u201csnack\u201d dan rupanya bukan snack tapi fullmeal dari porsinya. selain itu salmon belly sama thai tea mille crepenya itu sempurna. yang agak kurang ochazuke nya, biasa banget sih."
+  },
+  "id": 23
+}

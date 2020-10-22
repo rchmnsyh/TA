@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600680326,
+      "id": 211001,
+      "lead_time": 19.9,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "UoofsEp7O4",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 59,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 39,
+            "text": "potatonya enak gurih"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "VO68PZWkY8",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 72,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 61,
+            "text": "rasanya pas"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "pesan lidah bistik with mashed potato. potatonya enak gurih, rasanya pas. lidah bistiknya juga terbaik sih. masih jadi resto keluarga terfavorit"
+  },
+  "id": 211
+}

@@ -1,0 +1,32 @@
+{
+  "completions": [
+    {
+      "created_at": 1600788635,
+      "id": 422001,
+      "lead_time": 17.679,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "e27kXOM3vb",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 122,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 68,
+            "text": "makanannya tanpa mengandung produk hewani secara total"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "buat pecinta makanan vegan, kalian wajib kesini. soalnya disini tuh makanannya tanpa mengandung produk hewani secara total. tapi, disini tuh ada makanan yang berbentuk dagingnya juga lho... tapi bukan dari daging, semuanya olahan sayuran yang dibentuk menyerupai daging.. yuk mampir ke ktpbbandung buat cicipin makanan2 vegan yang enak dan berkualitas"
+  },
+  "id": 422
+}

@@ -1,0 +1,32 @@
+{
+  "completions": [
+    {
+      "created_at": 1600784403,
+      "id": 4001,
+      "lead_time": 4.28,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "rtQ4aPPEK3",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 32,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "rasa sei nya blm ada yg ngalahin"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "rasa sei nya blm ada yg ngalahin"
+  },
+  "id": 4
+}

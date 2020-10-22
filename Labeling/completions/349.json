@@ -1,0 +1,16 @@
+{
+  "completions": [
+    {
+      "created_at": 1600684995,
+      "id": 349001,
+      "lead_time": 7.924,
+      "result": [],
+      "skipped": true,
+      "was_cancelled": true
+    }
+  ],
+  "data": {
+    "text": "escargot: 7/10 gustavo snitzel: 8/10 (9/10 if the snitzel was perfectly tender) fetuccini carbonara: 8/10 penne creamy chicken & broccoli spinach: 9/10 fettucini al pesto: 7/10 shakshouka: 8/10 roasted chicken: 8/10 spaghetti bolognese: 7/10 zupa soup: 8/10"
+  },
+  "id": 349
+}

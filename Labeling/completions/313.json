@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600788691,
+      "id": 313001,
+      "lead_time": 43.539,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "g-0HWF9Jzd",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 41,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 24,
+            "text": "pelayanan nya oke"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "lZFWR4mdWU",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 70,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 43,
+            "text": "pelayan nya pro gak tulalit"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "CCJ7CIUntZ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 111,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 82,
+            "text": "rasa dimakanan love deh enakk"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "BiAsq3BiH6",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 143,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 118,
+            "text": "harga segitu worth it bgt"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "pertama x makan disini, pelayanan nya oke. pelayan nya pro gak tulalit dsb. untuk rasa dimakanan love deh enakk untuk harga segitu worth it bgt, aku sama paksu seperti dimanjakan mata nya"
+  },
+  "id": 313
+}

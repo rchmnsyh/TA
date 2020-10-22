@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600679179,
+      "id": 387001,
+      "lead_time": 22.897,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "hs_aP8dJz0",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 34,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 19,
+            "text": "kopi cukup enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "6civrnr8MO",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 54,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 36,
+            "text": "tempat juga nyaman"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "pesan white magic. kopi cukup enak. tempat juga nyaman. kebetulan juga sedang tidak banyak orang.  yang istimewa adalah, barista (mungkin juga pemilik) memberikan pilihan sehingga kita bisa memesan kopi yang sesuai yang kita inginkan.  dia menawarkan apakah ingin yang low atau high acid. lalu menyebutkan jenis2 kopi yang dia punya. sampai menyarankan tingkat kafein yang saya inginkan.  cemilan yang saya pesan bolen pisang harga 10rb. tempat ini juga menyediakan air putih gratis.  total bill 45rb."
+  },
+  "id": 387
+}

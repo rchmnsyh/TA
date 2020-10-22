@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600683133,
+      "id": 93001,
+      "lead_time": 40.833,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "vf5FSA9oc4",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 15,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 0,
+            "text": "good experience"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ThUTUdyoo2",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 33,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 17,
+            "text": "ga terlalu mahal"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "oyt4yRWfq5",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 117,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 86,
+            "text": "buffetnya enak enak dan beragam"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ZWIKc_yPG0",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 169,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 147,
+            "text": "banyak pilihan sausnya"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "good experience, ga terlalu mahala soalnya yang reguler juga uda mantap sih, makannya buffetnya enak enak dan beragam (udon carbonaranya must try) banyak pilihan sausnya, harus coba plus sambal matah"
+  },
+  "id": 93
+}

@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600687248,
+      "id": 245001,
+      "lead_time": 25.744,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "6yuFcT9U4S",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 18,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "ice cream nya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "MITe49PPbl",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 47,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 21,
+            "text": "iga garang asamnya jg enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "k1FwW3DNFf",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 68,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 50,
+            "text": "nasgor kencur best"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "ice cream nya enak.  iga garang asamnya jg enak.  nasgor kencur best  must try kalo ke bandung. ."
+  },
+  "id": 245
+}

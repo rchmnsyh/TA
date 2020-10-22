@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600505920,
+      "id": 108001,
+      "lead_time": 32.353,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "6Gtmc57kak",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 20,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "pemandangannya bagus"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "bku4RnrSG7",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 36,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 22,
+            "text": "tempatnya luas"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "RXLnmSBLoN",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 68,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 38,
+            "text": "absolutely good place to chill"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "pemandangannya bagus. tempatnya luas. absolutely good place to chill ! ada biaya masuk per orang 25.000 dimana tiket masuk ini bisa di jadikan alat untuk membeli makan atau minum.   sore sore ke sini anginnya adem."
+  },
+  "id": 108
+}

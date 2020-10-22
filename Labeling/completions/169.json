@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600684627,
+      "id": 169001,
+      "lead_time": 15.103,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "HEVXaXNX6A",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 47,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 24,
+            "text": "pelayanannya baik ramah"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "nDNJqnUUbL",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 64,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 49,
+            "text": "makanannya enak"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "mba santi dan mba dedeh pelayanannya baik ramah, makanannya enak, yang paling disukai dragon nya mantaps "
+  },
+  "id": 169
+}

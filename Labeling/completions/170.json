@@ -1,0 +1,32 @@
+{
+  "completions": [
+    {
+      "created_at": 1600788073,
+      "id": 170001,
+      "lead_time": 7.859,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "ItldXXCrTF",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 34,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 6,
+            "text": "pelayanan nya baguss bangett"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "untuk pelayanan nya baguss bangett seneng deh sama waitress gyukaku! waitress imam, amel"
+  },
+  "id": 170
+}

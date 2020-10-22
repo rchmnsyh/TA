@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600686253,
+      "id": 158001,
+      "lead_time": 47.257,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "cfi9aBReFi",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 286,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 223,
+            "text": "sedikit oily dibalut rasa manis dan gurih yang menurut saya pas"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "tthAbAfnpt",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 361,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 297,
+            "text": "kuah kaldu segar yang sederhana tetapi melengkapi elemen rasanya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "2ijeY4jVGj",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 170,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 121,
+            "text": "rasa yang tidak berubah dari dulu sampai sekarang"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "orang bilang ini buntut paling enak di bandung. salah satu bumbu paling kuat dari olahan buntut disini adalah nostalgia. rasa yang tidak berubah dari dulu sampai sekarang.  seperti biasa, pesanan saya adalah buntut goreng. sedikit oily dibalut rasa manis dan gurih yang menurut saya pas. diiringi kuah kaldu segar yang sederhana tetapi melengkapi elemen rasanya."
+  },
+  "id": 158
+}

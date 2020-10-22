@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600774801,
+      "id": 174001,
+      "lead_time": 19.682,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "E4i8hUmKyH",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 21,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "makanan nya enak enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "D2_H6iUBVA",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 39,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 22,
+            "text": "tempat nya bersih"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "qCNiUn9n0R",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 85,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 71,
+            "text": "baik dan ramah"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "makanan nya enak enak tempat nya bersih pelayanan mas by imam dan amel baik dan ramah .. thankss gyukaku pvjj "
+  },
+  "id": 174
+}

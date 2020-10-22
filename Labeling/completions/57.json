@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600515951,
+      "id": 57001,
+      "lead_time": 78.153,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "wJjlat34Yo",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 450,
+            "labels": [
+              "Negative",
+              "Price"
+            ],
+            "start": 439,
+            "text": "agak pricey"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "87f-Mj984Q",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 557,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 536,
+            "text": "pelayanan so friendly"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "zV1e6d-Sq1",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 607,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 562,
+            "text": "tapi sayangnya agak lemot dan tidak konsisten"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "zOnOaKZ9sT",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 769,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 743,
+            "text": "menu makanan juga variatif"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "jika ingin makan di sini diwajibkan sudah mengganjel perut dan latihan sabar mungkin. waktu waiting list yang memakan sejam lebih hanya karena menginginkan tempat duduk dengan sense kaki manja di dalam air agak tidak worth menurut pribadi karena tidak se-amazed itu sih. bagian yang memiliki kolam di bawahnya juga tidak luas dan hanya terdiri dari 4 / 3 tempat duduk makanya waiting list selalu berlaku  untuk menu makanan maupun minuman agak pricey sih dan dari segi rasa standart dengan porsi yang sekedar lewat di perut. tapi untuk pelayanan so friendly sih tapi sayangnya agak lemot dan tidak konsisten.  btw bagi yang tidak ingin duduk di bagian kolam biasanya tidak antri kok. tbh tempat ini cukup luas hanya kolamnya saja yang sempit. menu makanan juga variatif dan tidak gitu-gitu aja"
+  },
+  "id": 57
+}

@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600783126,
+      "id": 147001,
+      "lead_time": 321.854,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "37y-977HKm",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 47,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 40,
+            "text": "lumayan"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "4aRrGmjghC",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 353,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 317,
+            "text": "ada jg cemilan seperti croissant dll"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "WEyjBtM5jc",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 204,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 167,
+            "text": "kopinya 2x lebih strong dr cafe latte"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "tempatnya ga begitu luas, untuk outdoor lumayan adem karena banyak tanaman2 gitu, waktu kesini aku pesen iced magic (kalo gasalah) kata baristanya itu best seller, jd kopinya 2x lebih strong dr cafe latte, dan yes bener bgt! untuk aku yg suka kopi aja masih berasa pahit bgt, dan sini jg ga hanya tersedia minuman tp ada jg cemilan seperti croissant dll. untuk nugas aku kurang recommend si, karena wifinya dibikin sengaja slow biar pengunjungnya bisa talk to each other (gitu ceunah).  btw katanya blue doors tp pas kesini agak bingung knp pintunya ga berwarna biru?"
+  },
+  "id": 147
+}

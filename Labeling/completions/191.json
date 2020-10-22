@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600685280,
+      "id": 191001,
+      "lead_time": 25.44,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "wHll9n4sxT",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 15,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "love this place"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "EWirVLWgW4",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 31,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 17,
+            "text": "harganya murah"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "I9jWP5FBFk",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 90,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 77,
+            "text": "nyaman banget"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "love this place, harganya murah, tempatnya rame, di pinggir jalan braga, dan nyaman banget, terus mereka ada 2 lantai"
+  },
+  "id": 191
+}

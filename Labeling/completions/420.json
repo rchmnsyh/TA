@@ -1,0 +1,100 @@
+{
+  "completions": [
+    {
+      "created_at": 1600784831,
+      "id": 420001,
+      "lead_time": 213.335,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "tJst8Izrrv",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 386,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 366,
+            "text": "udangnya besar-besar"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "GtZGbkkiVq",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 400,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 388,
+            "text": "overall enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "sZDQTC6sgn",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 438,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 402,
+            "text": "makanannya justified dengan harganya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "rHIaojKeFU",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 545,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 499,
+            "text": "dessertnya tampillannya menggoda selera banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "8M_fGlHcET",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 692,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 676,
+            "text": "manisnya nendang"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "pertama masuk langsung kagok. tempat apaan ini sangat gimmick sekali. kayak sebelahnya karnivor tapi benar-benar kontras. disini kayak loveable caring pokoknya sifat-sifat yang lemah lembut. konsepnya rumah jadi emang pinter2 nyari ruangan yang nyaman aja. dapat ruangan kamar tidur di sini dan lumayan senang. untuk makanan nyobain pasta teman dan nasi goreng yang udangnya besar-besar. overall enak, makanannya justified dengan harganya. tapi disini all time favoritenya adalah desserts! pertama, dessertnya tampillannya menggoda selera banget, lupa pesan dessertnya apa tapi pancake coklat depannya ynes kalau gak salah. isinya marshmellow semua plus masih anget plus lagi manisnya nendang. sangat tidak direkomendasikan bagi orang diabetes. tapi bagi yang tidak diabetes silakan nikmati surga dunia ya :)"
+  },
+  "id": 420
+}

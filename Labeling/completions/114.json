@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600691285,
+      "id": 114001,
+      "lead_time": 16.939,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "jBAhKY644i",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 17,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "ambiance nya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "h9QTex4zIx",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 186,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 162,
+            "text": "martabak nya enak banget"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "ambiance nya enak, untuk yang suka alam alam gitu. cuma kalau lagi windy banget ya agak bete sih, tapi paling kalau lagi banyak angin makannya yang di dalam aja. martabak nya enak banget!!!"
+  },
+  "id": 114
+}

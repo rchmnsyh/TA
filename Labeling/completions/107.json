@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600787578,
+      "id": 107001,
+      "lead_time": 42.794,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "6hOvECLTxp",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 72,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 61,
+            "text": "enak banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "b8P0603M4F",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 218,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 192,
+            "text": "tempatnya juga enak banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "CCUxGOMREV",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 189,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 166,
+            "text": "bumbu kacang mantep bgt"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "D9YeD8spmT",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 290,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 271,
+            "text": "banyak menu camilan"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "bala-bala with coffee!  x \ufe0f - armor kopi, tahura, bandung. - enak banget makan bala-bala terus minumnya es kopi susu!  bala-bala itu bakwan jagung  crispy2 gitu pake bumbu kacang mantep bgt!  tempatnya juga enak banget, daerah atas jd super sejuk dan cukup luas!  disini banyak menu camilan juga lohh! cocok buat nongkrong sama temen/keluarga!  follow @evelfoodstory on instagram"
+  },
+  "id": 107
+}

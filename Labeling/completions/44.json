@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600692776,
+      "id": 44001,
+      "lead_time": 37.897,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "0RpujeF9-A",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 416,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 402,
+            "text": "very delicious"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "K5lEphmKH3",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 695,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 674,
+            "text": "homey, rustic feeling"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "hey everyone! i just got back from school and i was craving some artisan sandwich, so i decided to go and est lunch at mom's.  mom's bakery recently has been my favorite breakfast spot on sunday mornings. and now it seems like i can't get enough of them. but i mean, who doesn't love their sandwiches? i decided to have tempe on multi-grain sourdough dressed in spicy thai peanut sauce. it's vegan and very delicious. trust me when i say that you're going to fall in love so hard with their home-made tempe! ambience-wise, it's a bit tight so usually coming here in the mornings might become a problem since a lot of people like to have breakfast here. but it gives you the homey, rustic feeling; just imagine eating a sandwich that is made by your mom with love."
+  },
+  "id": 44
+}

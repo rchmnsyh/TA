@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600686174,
+      "id": 199001,
+      "lead_time": 34.643,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "QhBwT2hFLn",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 196,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 146,
+            "text": "tempatnya luas , nyaman dan ada live musicnya juga"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "3IGbEvfbZA",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 294,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 265,
+            "text": "salad, steak dll rasanya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "VhwAWYgRjB",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 363,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 333,
+            "text": "avocado pineapple saladnya ena"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "salah satu caf\u00e9 favorit keluarga. setiap datang ke sini selalu malam dan pada waktu weekend jadi baristanya nga bisa membuat custom 3d latte art. tempatnya luas , nyaman dan ada live musicnya juga. beberapa kali pesan berbagai macam western & asian food mulai dari salad, steak dll rasanya enak juga. saya suka saka caesar salad dan avocado pineapple saladnya enak. masih penasaran 3d latte artnya deh, kapan2 balik lagi ke sini lagi di siang hari. recommended."
+  },
+  "id": 199
+}

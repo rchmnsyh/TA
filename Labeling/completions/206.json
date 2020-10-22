@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600677882,
+      "id": 206001,
+      "lead_time": 37.632,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "tmn6Nf4LID",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 276,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 219,
+            "text": "ambiance yang vintage dan ditemani lantunan live acoustic"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "seTaUenidq",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 583,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 566,
+            "text": "enak banget doong"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "pnIY1t-1S4",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 593,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 588,
+            "text": "murah"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "siapasih yang ga tau resto legend yang 1 ini? resto ini sudah berdiri sejak tahun 1923, yang merupakan resto paling tua di kota bandung.  braga permai buka mulai pukul 06.30, bisa jadi rekomendasi tempat sarapan dengan ambiance yang vintage dan ditemani lantunan live acoustic.  kali ini aku coba menu breakfastnya, mushroom spinach avocado omelette - 23.5k. ini sih bukan omelette, tapi telur dadar biasa yang di bagi 2 menjadi setengah lingkaran dengan isian alpukat, bayam dan jamur yang sudah di beri bumbu. ga lupa disajikan dengan chips yang garing dan gurih. enak banget doong dan murah."
+  },
+  "id": 206
+}

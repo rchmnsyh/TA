@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600626576,
+      "id": 407001,
+      "lead_time": 31.904,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "tqWXNlZ0vh",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 205,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 151,
+            "text": "beragam pilihan makanan dan minuman dengan porsi besar"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "gSU5BTN5sQ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 285,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 207,
+            "text": "rasanya jadi ingin berlama-lama sambil menikmati hidangan sedikit demi sedikit"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "toyd9tHKq_",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 104,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 36,
+            "text": "setiap elemen di tempat ini membuat kita seolah-olah berada di eropa"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "dengan mengusung nama baker street, setiap elemen di tempat ini membuat kita seolah-olah berada di eropa. tempat ini sangat cocok untuk brunch. dengan beragam pilihan makanan dan minuman dengan porsi besar, rasanya jadi ingin berlama-lama sambil menikmati hidangan sedikit demi sedikit."
+  },
+  "id": 407
+}

@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600683162,
+      "id": 75001,
+      "lead_time": 28.742,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "u9bNgdu-Q0",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 86,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 50,
+            "text": "gyu tan don dan tori karage-nya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "cEOcUcdp0Y",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 145,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 123,
+            "text": "tempatnya menyenangkan"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "TMagBLxS1F",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 48,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 0,
+            "text": "salah satu resto jepang di bandung favorite saya"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "salah satu resto jepang di bandung favorite saya. gyu tan don dan tori karage-nya enak dan sesuai selera saya. begitu juga tempatnya menyenangkan."
+  },
+  "id": 75
+}

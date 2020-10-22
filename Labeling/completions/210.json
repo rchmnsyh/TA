@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600678751,
+      "id": 210001,
+      "lead_time": 51.658,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "D9tGzBimRN",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 31,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "selalu suka dengan ambience nya"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "WEDsusTGEN",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 119,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 78,
+            "text": "vibesnya enak banget untuk nongkrong lama"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "eN9oc2c0hg",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 206,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 185,
+            "text": "pizza nya enak banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "nmfU-65qGy",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 224,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 208,
+            "text": "kejunya melimpah"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "selalu suka dengan ambience nya braga permai. terakhir kesana jumat malam dan vibesnya enak banget untuk nongkrong lama. saya pesan quattro cheese pizza, lasagna dan vanilla millshake. pizza nya enak banget, kejunya melimpah sedangkam lasagna nya biasa aja tapi worth to try kok. oh iya, khusus untuk weekend, kalau mau duduk di luar ada minimum order 150k/orang. tapi ini pas malam aja kok, kalau pagi mau duduk di luar gak ada minimum "
+  },
+  "id": 210
+}

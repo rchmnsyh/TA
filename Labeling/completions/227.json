@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600680617,
+      "id": 227001,
+      "lead_time": 32.348,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "JopEVQ3QYe",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 130,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 99,
+            "text": "cafe latte tasted not so strong"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "_nFBbrmlO9",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 186,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 167,
+            "text": "cappucino was so-so"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "came here because i was staying at kollektiv hotel (upstairs). i ordered cafe latte and cappucino. cafe latte tasted not so strong even though i didn't add any sugar. cappucino was so-so."
+  },
+  "id": 227
+}

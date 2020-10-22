@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600681750,
+      "id": 135001,
+      "lead_time": 72.082,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "24rJUSIKFu",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 193,
+            "labels": [
+              "Negative",
+              "Ambience"
+            ],
+            "start": 166,
+            "text": "tempatnya gak terlalu besar"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "b77Wbe4btw",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 512,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 481,
+            "text": "pilihan toppingnya juga beragam"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "YQPOazM5iG",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 710,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 685,
+            "text": "tekstur rotinya yang beda"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "MqQTVlKAzE",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 737,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 712,
+            "text": "kerasa banget homemadenya"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "di gempol gak cuma terkenal sama kupat tahu nya aja, tapi juga ada roti bakar legend yang lokasinya deket sama kupat tahu tinggal jalan kaki aja ke arah belakangnya. tempatnya gak terlalu besar karena jualan di rumah, tapi yang makan atau beli take away ngantri panjang banget. yang spesial disini karena roti yang digunakan itu homemade produksi sendiri. ada 2 pilihan yaitu roti putih biasa atau roti gandum, terus ada size perorangan atau ririungan yang bisa buat banyak orang. pilihan toppingnya juga beragam dari yang manis seperti coklat, susu, kacang, nanas, srikaya, strawberry dan juga yang asin seperti telur, smoked beef dan keju. yang gue suka dari roti bakar disini yaitu tekstur rotinya yang beda, kerasa banget homemadenya dan juga kerasa resep jadul gitu. buat yang mager antre bisa juga pesen via ojek online ya."
+  },
+  "id": 135
+}

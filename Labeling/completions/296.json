@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600516206,
+      "id": 296001,
+      "lead_time": 106.753,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "sg9fcI3Yzy",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 497,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 459,
+            "text": "dimsum yang enak dengan banyak pilihan"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "k8XqKTXkJR",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1404,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 1356,
+            "text": "semua makanannya lezat dan cocok bagi lidah kami"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "sebelumnya saya dan keluarga adalah pelanggan setia eastern yang berlokasi di karawaci, tangerang tapi entah kenapa resto yang menurut kami selalu ramai pengunjung itu tiba2 tutup dan membuat kami sedikit kelimpungan mencari penggantinya untuk makan pagi ala hongkong yang dikenal sebagai dim sum.  kemudian secara tidak sengaja saya mendapatkan info bahwa eastern punya cabang di bandung, yaitu di istana plaza; dan kesanalah kami pergi bila ingin menikmati dimsum yang enak dengan banyak pilihan, baik yang dikukus maupun yang digoreng.  semua rasa makanannya masih sama enaknya yang berbeda hanya porsi bubur ayamnya saja. eastern di bandung menyediakan porsi dalam mangkuk besar yg bisa disharing bertiga. ciri khas bubur ayamnya adalah adanya potongan telur pitan yang tersembunyi.  ada juga jenis dimsum yang tidak tersedia tapi pilihan penggantinya sangat banyak karena lebih banyak variasi makanan yang disediakan, termasuk singkong rebus thailand yang lezat dan juga cendol hijau sebgai pilihan untuk minuman.  yang jadi favorit saya dan keluarga adalah kodok goreng mentega, ikan malas goreng bumbu garam cabe, bak pao, hakau goreng, tahu jepang, lumpia asam manis, baso sotong goreng dan yang selalu dipesan dobel adalah pangsit udang mayonaise. jenis dimsum kukus yang kami suka adalah siomay udang yang legit dan juga pangsit kepiting jepang. semua makanannya lezat dan cocok bagi lidah kami.  sebagai makanan pencuci mulut, favorit kami adalah puding gui ling gao, puding warna hitam yang sering disebut sebagai turtle jelly yang katanya berkhasiat untuk menghaluskan kulit.  bila kamu berniat mencoba dim sum di sini pada hari minggu ( yang biasanya sangat ramai), saran saya datanglah lebih pagi karena restoran ini sudah buka sebelum mall buka, yi jam 8.00 sehingga tidak perlu antri untuk mendapatkan tempat duduk.  note : biasanya banyak tamu membawa orang tua mereka untuk menikmati dim sum di sini, kesulitannya bila orang tua sudah sulit berjalan, akan menjadi tantangan sendiri untuk menuju ke resto ini pada saat mall belum beroperasi karena tidak ada escalator yg berfungsi."
+  },
+  "id": 296
+}

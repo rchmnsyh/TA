@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600786317,
+      "id": 116001,
+      "lead_time": 20.408,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "B4EjEYpwpo",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 32,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "wonderful&very breathtaking view"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "n52i1nk-zH",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 59,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 33,
+            "text": "delicious foods &beverages"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "-cSlQJgzYc",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 82,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 60,
+            "text": "polite&friendly staffs"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "heOpADdY8X",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 136,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 85,
+            "text": "very satisfied and absolutely i will comeback again"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "wonderful&very breathtaking view,delicious foods &beverages,polite&friendly staffs.  very satisfied and absolutely i will comeback again "
+  },
+  "id": 116
+}

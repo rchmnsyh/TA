@@ -1,0 +1,117 @@
+{
+  "completions": [
+    {
+      "created_at": 1600680172,
+      "id": 404001,
+      "lead_time": 49.835,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "9AqOJLhA6_",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 23,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "tempatnya nyaman banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "9FYRjqPDev",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 124,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 106,
+            "text": "makanannya lengkap"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "xj64u5B0LV",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 174,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 154,
+            "text": "makanan overall enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "1GMAfnp35i",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 196,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 176,
+            "text": "kopinya juga lengkap"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "0nUTahL8Vc",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 215,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 202,
+            "text": "kurang berasa"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "m3EK0K652B",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 282,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 260,
+            "text": "overall ya recommended"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "tempatnya nyaman banget, buat kerja ada wifi dan colokan juga, buat nyantai cocok banyak space, 2 lantai. makanannya lengkap dari roti dan makanan berat, makanan overall enak. kopinya juga lengkap tapi kurang berasa, mungkin coba kopi barunya ada dari g*****. overall ya recommended"
+  },
+  "id": 404
+}

@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600781826,
+      "id": 136001,
+      "lead_time": 99.834,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "X1LXFezzfn",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 396,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 373,
+            "text": "roti tawar emang lembut"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "32EkfOCtnZ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 496,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 468,
+            "text": "selai home made lumayan enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "-6azqx8Bsz",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 291,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 259,
+            "text": "suka aku sama roti gandum gempol"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "legenda nih, susah amet nyari parkir ampe keliling 3x karena sempit digang. tapi worth it ko walaupun bangku penuh, agak antri & harus nunggu dipanggang  \u25ce asin gandum perseorangan (15k) nah ternyata yg asin jauh lebi mantep isi korned keju pake saos sambel. suka aku sama roti gandum gempol  \u25ce manis putih perseorangan (11k) pesen isi meses..meses kiloan gitu sepertinya..roti tawar emang lembut tapi yaudah nothing special  \u25ce manis gandum perseorangan (13k) srikaya selai home made lumayan enak dan better rotinya gandum lebi gurih euy  \u25ce teh tawar (2k) semug gede anget murcoi  tida ada pajak semua total 41.000"
+  },
+  "id": 136
+}

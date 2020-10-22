@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600782613,
+      "id": 192001,
+      "lead_time": 34.795,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "r7CQynOsGj",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 157,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 124,
+            "text": "suka sama interior nya yang homey"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "KvZyZ8hmTu",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 303,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 284,
+            "text": "kopi djawa nya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "MHtagVm_TE",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 344,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 305,
+            "text": "cemilan cake atopun donat nya juga enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Fwc10yK_fc",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 402,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 390,
+            "text": "murah meriah"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "salah satu tempat nongkrong baru yang ada di kawasan braga. deket banget sama braga city walk. pas sampe sini, aku langsung suka sama interior nya yang homey plus banyak spot yang seru untuk ditempati.  sebagai orang yang cuma bisa minum kopi asalkan kopi susu saya bisa bilang kalau kopi djawa nya enak. cemilan cake atopun donat nya juga enak. ditambah lagi harga nya bandung banget, aka murah meriah. pas pisan untuk ditampi !  ig : @makansamaoki | #makansamaoki"
+  },
+  "id": 192
+}

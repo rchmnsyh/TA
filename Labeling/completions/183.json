@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600782721,
+      "id": 183001,
+      "lead_time": 17.199,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "MS4rQf3PTG",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 28,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 16,
+            "text": "good service"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "8s867MQYYK",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 64,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 30,
+            "text": "mas mbak nya baik dan cepet banget"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "thanks  for the good service, mas mbak nya baik dan cepet banget. reccomended banget sih. thanks to mbak/mas meta, dani, kokom dan tiar yang sudah melayani."
+  },
+  "id": 183
+}

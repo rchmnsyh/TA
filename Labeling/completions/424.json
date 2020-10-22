@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600786244,
+      "id": 424001,
+      "lead_time": 41.352,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "MO_ONZab5-",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 303,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 284,
+            "text": "menu2nya enak semua"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "dH3xEL-hSf",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 428,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 417,
+            "text": "enak banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "YrBOAQDqKB",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 563,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 503,
+            "text": "tempatnya lumayan luas, nyaman, dan yg paling penting bersih"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "setelah sekian lama ingin makan disini akhirnya kesampean juga. makan disinitu sistemnya prasmanan, pertama pilih nasinya dulu, ada 2 macam yaitu nasi putih sm merah, ntar tinggal pilih sayurnya (kalo gasalah harus pilih 4 jenis sayur), aku lupa si yg aku pilih apa aja, tp menurutku menu2nya enak semua kok meskipun aku bukan vegetarian, yg paling recommend dr aku kalo kalian kesini wajib cobain satenya, jujur itu enak banget, gangerti padahal ini vegan tp rasanya kaya makan daging aja gitu.  untuk tempatnya lumayan luas, nyaman, dan yg paling penting bersih. selamat mencoba!"
+  },
+  "id": 424
+}

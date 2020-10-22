@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600681777,
+      "id": 110001,
+      "lead_time": 27.131,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "WJ_SMQeImR",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 102,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 66,
+            "text": "nice place if you really like nature"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "7bZshJ8wSP",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 187,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 169,
+            "text": "really recommended"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "definitely will always go to this place whenever i visit bandung. nice place if you really like nature. you can order hot drinks and eat fried banana or simply a toast. really recommended!"
+  },
+  "id": 110
+}

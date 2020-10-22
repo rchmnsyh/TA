@@ -1,0 +1,32 @@
+{
+  "completions": [
+    {
+      "created_at": 1600687303,
+      "id": 46001,
+      "lead_time": 23.963,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "XPOqOJKIBt",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 146,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 133,
+            "text": "rasa makannya"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "salah satu tempat sarapan sehat favorite di bandung. cuma kalau weekend biasanya suka ga kebagian tempat duduk karena terbatas. tapi rasa makannya "
+  },
+  "id": 46
+}

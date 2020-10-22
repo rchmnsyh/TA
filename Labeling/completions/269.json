@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600517151,
+      "id": 269001,
+      "lead_time": 19.649,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "5FSgZZZ8JS",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 71,
+            "labels": [
+              "Negative",
+              "Price"
+            ],
+            "start": 57,
+            "text": "harganya mahal"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "kjKYWFEVlx",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 144,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 95,
+            "text": "untuk tempat cukup bagus viewnya kalau di outdoor"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "untuk buffetnya ensk, untuk menu ala cartenya biasa aja, harganya mahal. better choose buffet. untuk tempat cukup bagus viewnya kalau di outdoor."
+  },
+  "id": 269
+}

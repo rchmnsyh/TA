@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600626610,
+      "id": 250001,
+      "lead_time": 33.308,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "wYGm03ieJF",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 76,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 41,
+            "text": "pilihan paket nya lengkap dan enak\""
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "NUIpiEifsy",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 224,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 189,
+            "text": "tempat nya juga intagramable banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Kdtzt9yns1",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 188,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 168,
+            "text": "makanan nya yg enak\""
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "sudah beberapa kali ke sini selalu puas. pilihan paket nya lengkap dan enak\". ayam telur asin recommended banget deh pokoknya!!! yang mau makan enak kesini aja, selain makanan nya yg enak\" tempat nya juga intagramable banget deh!!"
+  },
+  "id": 250
+}

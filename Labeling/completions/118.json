@@ -1,0 +1,185 @@
+{
+  "completions": [
+    {
+      "created_at": 1600692156,
+      "id": 118001,
+      "lead_time": 107.734,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "CYFncZ-2Lu",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 77,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 35,
+            "text": "cool place to hangout and nicely decorated"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "5vr0wU-BOY",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 240,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 216,
+            "text": "ikan nya tebel dan fresh"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "cozlJhchHj",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 280,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 242,
+            "text": "tepung roti nya agak kurang flavourful"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "3Tv1EUMjBE",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 305,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 286,
+            "text": "garing dan krenyes2"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "zQ_X-FD-8W",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 526,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 522,
+            "text": "enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "YH5BWLmJgo",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 567,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 528,
+            "text": "rasa ayam panggangnya penuh rasa banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "agihNQrPQg",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 633,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 619,
+            "text": "tempatnya cozy"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "2x8-WtaE53",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 698,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 666,
+            "text": "banyak tempat foto2 yang menarik"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "KcaFXe0Tzx",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 712,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 700,
+            "text": "pelayan baik"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "7VhLEVnm4C",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 753,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 720,
+            "text": "makanannya agak lama ya datengnya"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "creative food with creative taste. cool place to hangout and nicely decorated.dory parmagiana (74.5k): ikan dori yang di baluti tepung roti kemudian di deep fry dan dikasih topping mozarella dan saus tomat homemade. ikan nya tebel dan fresh, tepung roti nya agak kurang flavourful tapi garing dan krenyes2 hehe. disajikan dengan french fries dan salad dengan semacam lemon dressing yang segar. overall rasanya biasa ajamelting mozza chicken (72.5k): fillet ayam panggang dengan topping mozarella dan irisan jamur. nah ini enak, rasa ayam panggangnya penuh rasa banget, kompleks, gurih, manis, asin. highly recommended. tempatnya cozy meskipun agak padat seatingnya. banyak tempat foto2 yang menarik. pelayan baik, cuman makanannya agak lama ya datengnya. make sure to check out their cake of the day, biasanya ada diskon 50% untuk cake of the day nya."
+  },
+  "id": 118
+}

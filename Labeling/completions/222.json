@@ -1,0 +1,100 @@
+{
+  "completions": [
+    {
+      "created_at": 1600516729,
+      "id": 222001,
+      "lead_time": 40.318,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "TflJzllzii",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 12,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "kopinya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "0Ty4NQjy58",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 107,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 71,
+            "text": "omg enaknyaaa. rasanya mantep banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "oaGWtBm5Hv",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 129,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 110,
+            "text": "tempatnya jg cantik"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "i8b3IKzrtR",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 151,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 134,
+            "text": "pelayanannya baik"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "rx90dCs0Fn",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 202,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 157,
+            "text": "will i be back? definitely!!   score? 10/10!!"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "kopinya enak!!  aku pesen mushroom cream soup dan kentang goreng nori. omg enaknyaaa. rasanya mantep banget~  tempatnya jg cantik dan pelayanannya baik :)   will i be back? definitely!!   score? 10/10!!"
+  },
+  "id": 222
+}

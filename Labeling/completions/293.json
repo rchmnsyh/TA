@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600516342,
+      "id": 293001,
+      "lead_time": 22.35,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "D_HS3ItbzQ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 62,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 46,
+            "text": "pelayannya ramah"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "RToBwucEm2",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 121,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 107,
+            "text": "tempatnya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "C7y3WJsykT",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 142,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 124,
+            "text": "pelayanannya okeee"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "ke sini udh lama bangeet deh pas adek ultah.. pelayannya ramah lupa siih dulu itu makan apa aja.. yg pasti tempatnya enak.. pelayanannya okeee"
+  },
+  "id": 293
+}

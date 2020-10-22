@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600692595,
+      "id": 284001,
+      "lead_time": 25.952,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "uZKq_cMU1U",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 151,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 134,
+            "text": "tidak seenak dulu"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Hhr2AAg51H",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 182,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 153,
+            "text": "ukuran porsi nya pun mengecil"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "1VbR-FWds4",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 209,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 184,
+            "text": "tapi service nya masih ok"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "mungkin karena jarang naik harga jadi berimbas ke kualitas rasa. dulu makan disini hampir semuanya enak, tapi sekarang masi okay tapi tidak seenak dulu. ukuran porsi nya pun mengecil. tapi service nya masih ok"
+  },
+  "id": 284
+}

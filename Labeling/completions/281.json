@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600682398,
+      "id": 281001,
+      "lead_time": 31.995,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "uMf6hc6p2b",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 60,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 42,
+            "text": "service nya baguss"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "cIiHSaEuc-",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 90,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 62,
+            "text": "kualitas makanann oke banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "2Bqsh2QBd2",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 117,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 95,
+            "text": "toilet nya juga bersih"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "KJU8m04aUb",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 140,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 119,
+            "text": "ambiance nya juga oke"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "paling enak makan di sushi tei cabang ini service nya baguss, kualitas makanann oke banget dan toilet nya juga bersih. ambiance nya juga oke."
+  },
+  "id": 281
+}

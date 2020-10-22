@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600783512,
+      "id": 18001,
+      "lead_time": 150.667,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "7YZsghmbUG",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 38,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 8,
+            "text": "semua makanan disini enak enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "KehsFPVOce",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 111,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 94,
+            "text": "ambience nya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "vHE6tMGyqU",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 159,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 136,
+            "text": "servicenya juga oke bgt"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "kacau!! semua makanan disini enak enak! nggak rugi juga sih kalo harus waiting list. dan juga ambience nya enak buat kumpul sama temen. servicenya juga oke bgt. sayang pas kesana ga cobain mille crepes nya yg katanya enak."
+  },
+  "id": 18
+}

@@ -1,0 +1,117 @@
+{
+  "completions": [
+    {
+      "created_at": 1600518531,
+      "id": 119001,
+      "lead_time": 50.171,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Jq7M2awgP-",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 18,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 0,
+            "text": "suka sekali disini"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "hYSdUyQmly",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 36,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 21,
+            "text": "makanannya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "1irNeQZWXO",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 61,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 38,
+            "text": "dr dulu suasananya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "4IItaEE96l",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 257,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 241,
+            "text": "always love here"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "GnIOorihrB",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 235,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 187,
+            "text": "chicken wing nya juga enak kok dan mengenyangkan"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "y_GfliWfTn",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 175,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 170,
+            "text": "murah"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "suka sekali disini,, makanannya enak, dr dulu suasananya enak,, homey spring roll nya enak,, cm aku gak foto,,dan aku juga ditawarin semacam bolen sekotaknya hanya 35rb, murah dan enaak  chicken wing nya juga enak kok dan mengenyangkan hehe always love here!"
+  },
+  "id": 119
+}

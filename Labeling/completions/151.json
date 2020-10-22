@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600690973,
+      "id": 151001,
+      "lead_time": 21.036,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "wJF2XxQQfM",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 35,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "daging buntut goreng nya sedep abis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "AFc3Tc3EiQ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 60,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 37,
+            "text": "bawang bombaynya berasa"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "9F4r7qOK16",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 86,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 66,
+            "text": "buntut sopny, lembut"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "daging buntut goreng nya sedep abis. bawang bombaynya berasa...   buntut sopny, lembut, kayak pecah d mulut... berrrrr...."
+  },
+  "id": 151
+}

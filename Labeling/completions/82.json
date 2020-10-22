@@ -1,0 +1,117 @@
+{
+  "completions": [
+    {
+      "created_at": 1600785408,
+      "id": 82001,
+      "lead_time": 245.511,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "644vJDVaka",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 261,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 246,
+            "text": "porsinya banyak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Pe5izVyHEK",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 285,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 268,
+            "text": "sambelnya dahsyat"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "7O7LKL6B21",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 452,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 440,
+            "text": "rasanya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ohbIAFpfho",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 802,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 769,
+            "text": "rasanya enak juga porsinya banyak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "NdUtoKtvhy",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 838,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 804,
+            "text": "sambel minyaknya pedes dan nendang"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "_IDRdv25rf",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1136,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 1094,
+            "text": "hanyalah waktu pembuatannya yang agak lama"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "kalau gue bisa merangkum top 3 mainstream nasi campur di bandung ini, nasi campur 88 akan ada didalamnya. tempatnya yang selalu ramai dan ngantri memang cukup mewakili suara dari pelanggannya, tapi memang menurut gue yang spesial adalah dua hal: porsinya banyak, plus sambelnya dahsyat. kalau rasa, memang selera orang berbeda-beda, bakal ada yang bilang biasa aja, ada juga yang sampe bilang enak banget. kalau pendapat gue pribadi memang rasanya enak, dengan topping yang aman dan mayoritas orang (yang familiar sama pork) pasti suka, gak ada daging yang berbau amis maupun bau khas pork. gue juga orang yang bukan porkndie hard fan, makan pork juga milih-milih: gak mau yang bau, gak mau yang berlemak, dsb. dan nasi campur disini untungnya cocok dengan selera gue, rasanya enak juga porsinya banyak, sambel minyaknya pedes dan nendang pula. sambelnya adalah highlight gue, karena gue juga penggemar sambel minyak yang pedes instead of sambel biji yang berair dan kadang campur cuka. jadi sambelnya juga membangun karakter tersendiri buat toppingnya yang sudah aduhai.  kalaupun ada kritik, hanyalah waktu pembuatannya yang agak lama. mengingat toppingnya sudah pre-made alias sdh matang dan dipersiapkan sebelumnya dan tinggal potong, tapi pengerjaannya dirasa masih agak lama, semoga over time bisa lebih baik lagi. this is not my first visit, and certainly would not be my last."
+  },
+  "id": 82
+}

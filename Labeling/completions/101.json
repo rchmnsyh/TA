@@ -1,0 +1,100 @@
+{
+  "completions": [
+    {
+      "created_at": 1600516885,
+      "id": 101001,
+      "lead_time": 47.101,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "C4ejSnV_By",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 10,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "cozy place"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "tLlNRkwwdx",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 44,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 12,
+            "text": "great taste of food and beverage"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "-RW0IguvtI",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 56,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 46,
+            "text": "good price"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "m8QmY0uAvG",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 123,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 100,
+            "text": "the staff are help full"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "azz_txKJ2W",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 98,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 70,
+            "text": "recommended place to dine in"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "cozy place, great taste of food and beverage, good price. excellence. recommended place to dine in. the staff are help full."
+  },
+  "id": 101
+}

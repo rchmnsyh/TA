@@ -1,0 +1,117 @@
+{
+  "completions": [
+    {
+      "created_at": 1600693266,
+      "id": 267001,
+      "lead_time": 51.261,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "TNqvc2TN7i",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 69,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 51,
+            "text": "makanan lumayan ok"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "gDezgxydYz",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 141,
+            "labels": [
+              "Negative",
+              "Price"
+            ],
+            "start": 102,
+            "text": "kurang worth dengan harga yg dibayarkan"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "-ZbIRXVJH6",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 184,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 151,
+            "text": "daging yang diberikan sangat alot"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "XNx1VSY6m5",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 227,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 201,
+            "text": "ragam makanan cukup banyak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "6ikrWOOJbh",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 272,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 248,
+            "text": "tidak disediakan minuman"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "wbsUOs3QoQ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 385,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 348,
+            "text": "pelayanan yang diberikan sangat ramah"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "kami tinggal di padma bandung...  untuk breakfast, makanan lumayan ok ...  untuk dinner, menurut saya kurang worth dengan harga yg dibayarkan .... bbq daging yang diberikan sangat alot .... hanya saja ragam makanan cukup banyak ... selain itu juga tidak disediakan minuman ...  untuk suasana sangat enak dikarenakan udaranya sejuk, selain itu juga pelayanan yang diberikan sangat ramah ....\u00a0  but again, for dinner bbq with that quality, compare to other 5 star hotel in jakarta, i won't spend it\u00a0 ..."
+  },
+  "id": 267
+}

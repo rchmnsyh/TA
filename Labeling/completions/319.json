@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600686469,
+      "id": 319001,
+      "lead_time": 54.216,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "PUOcjDM7wy",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 81,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 38,
+            "text": "ambience, food, service, price semua mantap"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "nzYBKQHUAj",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 152,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 142,
+            "text": "semua enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "QBW-wyzUNu",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 335,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 288,
+            "text": "live music nya yg bikin suasana tambah romantis"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "3w4B89YOe-",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 416,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 398,
+            "text": "highly recommended"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "pertama kali kesini lgsg jatuh cinta! ambience, food, service, price semua mantap! 4x makan disini, nyobain variasi makanan2 dan dessert nya, semua enak!! paling favorit sate marangginya, dessert yg paling enak cream bulle akhirnya tiap kali ke bandung pasti wajib mampir disini, apalagi live music nya yg bikin suasana tambah romantis ditemani dinginnya kota bandung dan kelap kelip lampu remang2 highly recommended!"
+  },
+  "id": 319
+}

@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600684645,
+      "id": 255001,
+      "lead_time": 18.197,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "eeYB-wmcLs",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 29,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "nuansa cina nya terasa banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "EC06ylUxoJ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 118,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 90,
+            "text": "makanannya pun luamayan enak"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "nuansa cina nya terasa banget, mulai dari patung singa, sempoa,lampion sampe meja bundar. makanannya pun luamayan enak, apalagi sapo tahu dan sapi lada hitam nya."
+  },
+  "id": 255
+}

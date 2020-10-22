@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600518226,
+      "id": 271001,
+      "lead_time": 1061.252,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "K2oEdzdF8I",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 24,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "ambience nya woow banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "lvFM-7T9J-",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 612,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 574,
+            "text": "tapi kalo dessertnya, juaraaaa bangets"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "FT8P24Hl00",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 531,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 463,
+            "text": "diliat dari banyaknya macem makanan, masih kalah sama bintang 5 lain"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "e9f8rWKDmu",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 1113,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 1089,
+            "text": "overall, recommended deh"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "ambience nya woow banget. itu frasa yg pas buat menggambarkan suasana di restaurant padma hotel. apalagi kalo pas dapet seat diluar yg dingin, tapi view ke hutan2nya dapet, walopun malem tapi pohon2nya dikasi lampu biar tetep bs dinikmatin pas malem.  nyobain program ayce dinnernya yg dimulai jam19.00 dan pilihan makanan nya pun beragam. berhubung ini hotel bintang 5, gw juga akan bandingin sama hotel bintang 5 lain di jakarta, bandung, dan bali ya.  overal, diliat dari banyaknya macem makanan, masih kalah sama bintang 5 lain yg uda gw review sebelumnya (di jakarta). tapi kalo dessertnya, juaraaaa bangets, banyak, ada kue2 manis, brownies, coklat eclair dll. ada juga sushinya, selalu terisi penuh, dan fresh!  the best nya dan yang paling ngantri adalah slow cooked beef, alias daging sapi panggang yang uda di marinate pake bumbu special. setelah jadi, pilihan sausnya ada beberapa, tp yg paling istimewa ya barbeque sauce nya, top banget deh!  buat yg pengen wine, ada banyak pilihan wine juga disini, pas banget kalo buat dinner dimana suasana bandung juga sejuk dan romantis. overall, recommended deh."
+  },
+  "id": 271
+}

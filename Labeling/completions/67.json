@@ -1,0 +1,32 @@
+{
+  "completions": [
+    {
+      "created_at": 1600682366,
+      "id": 67001,
+      "lead_time": 33.112,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "6UgdFHVyC2",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 97,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 33,
+            "text": "annin tofu pudding sm manggo pudding nya bener bener enak banget"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "kesini karna diajakin temen tapi annin tofu pudding sm manggo pudding nya bener bener enak banget. wajib dicoba sih kalo kesini harus pesen pudding nya."
+  },
+  "id": 67
+}

@@ -1,0 +1,32 @@
+{
+  "completions": [
+    {
+      "created_at": 1600680382,
+      "id": 324001,
+      "lead_time": 21.173,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "2QczraG-Ac",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 211,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 198,
+            "text": "betul2 nikmat"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "penggemar mie di bandung pastinya uda ga asing lagi kan sama miericakejaksaan  kelezatan mienya yang sesuai dengan namanya mie rica jadi memang agak sedikit pedas dipadukan dengan daging caciangnya betul2 nikmat. \u2022 \u2022 mie rica kejaksaan jl. kejaksaan no. 7, braga, bandung"
+  },
+  "id": 324
+}

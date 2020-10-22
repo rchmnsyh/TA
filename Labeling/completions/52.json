@@ -1,0 +1,134 @@
+{
+  "completions": [
+    {
+      "created_at": 1600684878,
+      "id": 52001,
+      "lead_time": 86.598,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "8nhitv0ygn",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 46,
+            "labels": [
+              "Negative",
+              "Ambience"
+            ],
+            "start": 24,
+            "text": "cafenya nggak bermusik"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "AwYMoyj6Og",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 74,
+            "labels": [
+              "Negative",
+              "Ambience"
+            ],
+            "start": 51,
+            "text": "suasananya kurang hidup"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "kkOhwobKwl",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 22,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 0,
+            "text": "tempat parkirnya kecil"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "0-PduERoiA",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 100,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 77,
+            "text": "makanannya overall enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "XxfEgNRKW_",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 161,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 140,
+            "text": "lava cakenya the best"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Qm022K5BLL",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 281,
+            "labels": [
+              "Negative",
+              "Ambience"
+            ],
+            "start": 261,
+            "text": "bangkunya agak keras"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "PdfZVhxvL9",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 303,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 288,
+            "text": "overall is good"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "tempat parkirnya kecil. cafenya nggak bermusik, jd suasananya kurang hidup.  makanannya overall enak. aku order chicken wings dan lavacake. lava cakenya the best sih.  kalo mau duduk di dalam kolam, kusaranin pake sandal deh biar ga repot. tmptnya adem, sayang bangkunya agak keras aja.  overall is good. :)"
+  },
+  "id": 52
+}

@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600679071,
+      "id": 306001,
+      "lead_time": 18.561,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "g0BtE9dp17",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 32,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 0,
+            "text": "makanannya enak dagingnya lembut"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "RHR1DDBuIx",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 52,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 33,
+            "text": "sesuai dengan harga"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "yBlaoP43Vk",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 71,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 53,
+            "text": "worth buat dicoba."
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "makanannya enak dagingnya lembut sesuai dengan harga worth buat dicoba."
+  },
+  "id": 306
+}

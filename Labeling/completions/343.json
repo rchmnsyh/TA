@@ -1,0 +1,100 @@
+{
+  "completions": [
+    {
+      "created_at": 1600686672,
+      "id": 343001,
+      "lead_time": 45.351,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "34OeYIZGYG",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 87,
+            "labels": [
+              "Negative",
+              "Ambience"
+            ],
+            "start": 62,
+            "text": "atmosfirnya kurang nyaman"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "G4Db2nG_w2",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 110,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 92,
+            "text": "pie applie ya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "-71dsas095",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 143,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 115,
+            "text": "banana monkeynya enak banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "oa5GYFKrmP",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 168,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 145,
+            "text": "pelayanannya kurang oke"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "aH4bUDbIJI",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 207,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 189,
+            "text": "lama sekali datang"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "nemu satu coffee shop nuansa jadul, wiki koffie. terus terang atmosfirnya kurang nyaman, tp pie applie ya enak dan banana monkeynya enak banget. pelayanannya kurang oke, pesan pie apple tp lama sekali datang pdhl itu yg dipesan pas awal2 br pesan minuman belakangan. akhirnya minuman yg datang duluan. tp bisa jadi alternatif buat tempat nongrong di braga."
+  },
+  "id": 343
+}

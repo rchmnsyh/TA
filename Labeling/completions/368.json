@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600516652,
+      "id": 368001,
+      "lead_time": 27.034,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "krddtGzQuL",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 49,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 27,
+            "text": "isinya banyak bangettt"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "HozgEbwPkM",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 126,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 98,
+            "text": "blackpappernya kurang kerasa"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "v9oAVQuVFV",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 148,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 127,
+            "text": "tapi tetep enak sihhh"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "aku pesen geremany platter isinya banyak bangettt... terus sauce nya blackpapper tapi menurut aku blackpappernya kurang kerasa tapi tetep enak sihhh"
+  },
+  "id": 368
+}

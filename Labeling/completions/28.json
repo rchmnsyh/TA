@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600684791,
+      "id": 28001,
+      "lead_time": 23.976,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "UG6p9-kKGu",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 18,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 2,
+            "text": "love their place"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "37eEe0PGBv",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 127,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 91,
+            "text": "will be back to try their other menu"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "i love their place. they have indoor and outdoor seating. perfect for breakfast or brunch. will be back to try their other menu."
+  },
+  "id": 28
+}

@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600787632,
+      "id": 401001,
+      "lead_time": 15.065,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "zMWNlwWoEj",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 41,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 6,
+            "text": "lasagna and aglio olio were okayyyy"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "HnBlu_Sj63",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 69,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 47,
+            "text": "the atmosphere thooooo"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "their lasagna and aglio olio were okayyyy. but the atmosphere thooooo. it's very recommended if you wanna stay for a looong time at a cafe"
+  },
+  "id": 401
+}

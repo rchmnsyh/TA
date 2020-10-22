@@ -1,0 +1,100 @@
+{
+  "completions": [
+    {
+      "created_at": 1600692518,
+      "id": 385001,
+      "lead_time": 46.778,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "i3Z_Soxkje",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 49,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 39,
+            "text": "cukup enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "IoGE9z3Dho",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 79,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 57,
+            "text": "lumayan banyak pilihan"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "d7smThH0aN",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 295,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 291,
+            "text": "enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "8ycJZIyelj",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 331,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 301,
+            "text": "agak encer dan gampang melebur"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "5wdfXzJIGq",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 387,
+            "labels": [
+              "Negative",
+              "Ambience"
+            ],
+            "start": 345,
+            "text": "tempatnya cukup kecil dan seringkali ramai"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "let\u2019s go gelato menawarkan gelato yang cukup enak dengan lumayan banyak pilihan. walaupun demikian, berkali-kali saya datang ke sini belum menemukan pilihan gelato yang \u201cklik\u201d. sebabnya, saya selalu coba berbeda-beda setiap kali ke sini. penilaian saya secara pribadi, gelato disini kendati enak tapi agak encer dan gampang melebur.  oleh sebab tempatnya cukup kecil dan seringkali ramai, maka seringnya saya take-away saja."
+  },
+  "id": 385
+}

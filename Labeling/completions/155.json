@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600683307,
+      "id": 155001,
+      "lead_time": 30.31,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "r4yNmo2FdT",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 91,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 75,
+            "text": "tempatnya nyaman"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "LS0MjX-nUZ",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 117,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 93,
+            "text": "service nya menyenangkan"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "_46DXVMa5Q",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 137,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 122,
+            "text": "makanannya enak"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "gagal makan cuanki, jadilah kesini. mesen sop buntut goreng dan soto ayam, tempatnya nyaman, service nya menyenangkan dan makanannya enak. no wonder jadi restoran yg memang melegenda daridulu sih"
+  },
+  "id": 155
+}

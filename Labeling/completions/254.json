@@ -1,0 +1,32 @@
+{
+  "completions": [
+    {
+      "created_at": 1600782168,
+      "id": 254001,
+      "lead_time": 9.369,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "28AXo1whi-",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 35,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 0,
+            "text": "tempat makan favorit keluarga besar"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "tempat makan favorit keluarga besar! menu favorit mie goreng, udang pasir dan ayam telur asin "
+  },
+  "id": 254
+}

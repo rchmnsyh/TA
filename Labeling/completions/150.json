@@ -1,0 +1,32 @@
+{
+  "completions": [
+    {
+      "created_at": 1600677897,
+      "id": 150001,
+      "lead_time": 14.137,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "CVj_-Xev7I",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 95,
+            "labels": [
+              "Negative",
+              "Ambience"
+            ],
+            "start": 40,
+            "text": "ada binatang kecil dan remah remah daun gitu berjatohan"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "berhubung atapnya tanaman tanaman, jadi ada binatang kecil dan remah remah daun gitu berjatohan hehehehehehehehehehehehehehehehehehehehehehe"
+  },
+  "id": 150
+}

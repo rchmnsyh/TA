@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600784857,
+      "id": 240001,
+      "lead_time": 25.917,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "ULTn7zSkJy",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 52,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 28,
+            "text": "the foods are incredible"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "AkqktG8x8h",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 305,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 252,
+            "text": "delicious cakes, pastry, ice cream, traditional foods"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "bandung is my home town..., the foods are incredible..., the people are ultra polite and nice..., but now bandung is also known for the heavy traffic...  whenever i go to bandung..., there's one place that i always visit..., rasa bakery..., presenting delicious cakes, pastry, ice cream, traditional foods, etc...  rasa bakery have been maintaining the consistent quality since i was little..., two thumbs up... btw, if you decided to visit this place, don't forget to try the home made ice cream, trully great...."
+  },
+  "id": 240
+}

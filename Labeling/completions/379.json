@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600687278,
+      "id": 379001,
+      "lead_time": 29.993,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "vWBy0Vct0u",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 101,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 73,
+            "text": "rasanya segerr & enak banget"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "pSFsCzaI8y",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 129,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 105,
+            "text": "varian rasanya jg banyak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "qDKKbhf7tS",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 241,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 232,
+            "text": "ga ada ac"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "pesen es krim gelato rasa strawberry milk shake & blueberry cheese cake, rasanya segerr & enak banget..  varian rasanya jg banyak..trus bisa bayar pake ovo/gopay dpt cashback max.15rb.  tempatnya kecil..tp ada lantai atasnya.. cuma ga ada ac.."
+  },
+  "id": 379
+}

@@ -1,0 +1,86 @@
+{
+  "completions": [
+    {
+      "created_at": 1600518621,
+      "id": 34001,
+      "lead_time": 97.298,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "FgT5W71S35",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 58,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 23,
+            "text": "tempatnya super nyamaaan dan cantik"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ID_wwrnSH6",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 109,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 60,
+            "text": "makanan sama minumannya jg enak2 dan porsinya pas"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "gqMWOc9qUL",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 129,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 111,
+            "text": "pelayanannya ramah"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "qAVNvk6BpK",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 182,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 162,
+            "text": "sgt rekomen kesiniii"
+          }
+        }
+      ],
+      "skipped": false,
+      "was_cancelled": false
+    }
+  ],
+  "data": {
+    "text": "kesini pas lg sepi dan tempatnya super nyamaaan dan cantik. makanan sama minumannya jg enak2 dan porsinya pas. pelayanannya ramah. ada tempat bermain sm mushola. sgt rekomen kesiniii"
+  },
+  "id": 34,
+  "predictions": []
+}

@@ -1,0 +1,32 @@
+{
+  "completions": [
+    {
+      "created_at": 1600680554,
+      "id": 9001,
+      "lead_time": 17.125,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "9km-UP8dE4",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 113,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 86,
+            "text": "ada rasa pait yang ga ilang"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "pesen martabak jagung keju, awal dimakan enak\u2019 aja. setelahnya terutama setelah minum ada rasa pait yang ga ilang\u2019 & itu ganggu banget. apa emang gitu ya?"
+  },
+  "id": 9
+}

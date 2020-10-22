@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600686296,
+      "id": 366001,
+      "lead_time": 24.871,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "09_Gaw4TVK",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 154,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 124,
+            "text": "staff termasuk cukup attentive"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Lk99ShwgNl",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 277,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 231,
+            "text": "parkir mobil juga dibantu dengan valet service"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "-tidak ada akses untuk kursi roda -tidak ada ramp -ada undakan/step di pintu masuk -tidak ada toilet untuk kursi roda tapi, staff termasuk cukup attentive, saya dibantu masuk dengan cara diangkat (dengan kursi rodanya) oleh staff, parkir mobil juga dibantu dengan valet service.  area buffet cukup wheelchair accesible.  #redwheeliereviews wheelchair accesibility : 3/5"
+  },
+  "id": 366
+}

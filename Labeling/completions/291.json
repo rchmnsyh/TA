@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600516280,
+      "id": 291001,
+      "lead_time": 73.827,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "ymZgkF-9RL",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 67,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 50,
+            "text": "rasanya yang enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "HSWsp7zLC0",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 99,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 72,
+            "text": "hargana tidak terlalu mahal"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Uw8MWvxEIO",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 601,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 562,
+            "text": "rata\" semua yang saya makan disini enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "oWo0-5d-tP",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 759,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 674,
+            "text": "waiter/ess disini semua helpful dan respon cepat, ramah, product knowledge juga bagus"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "makan disini sudah berkali-kali dan memang karena rasanya yang enak dan hargana tidak terlalu mahal untuk makan sekeluarga atau rombongan. lokasi restaurant didalam mall istana plaza bandung, enaknya begitu masuk pintu lobby mall naik 1 lantai dan resto ada di sebelah kiri, jadi dekat sekali. disini banyak mejanya jadi jangan kahwatir, cuma kalau sabtu-minggu siang gitu biasanya ramai ada yang nge-dimsum juga. disini tersedia menu ala carte maupun all you can eat, harga ayce masih terjangkau, sorry saya lupa tapi seorang seingat saya tidak sampai 200ribu. rata\" semua yang saya makan disini enak tidak ada yang tidak enak, jadi selalu puas makan disini. hebatnya lagi waiter/ess disini semua helpful dan respon cepat, ramah, product knowledge juga bagus, jadi makin bertambah nilai plusnya."
+  },
+  "id": 291
+}

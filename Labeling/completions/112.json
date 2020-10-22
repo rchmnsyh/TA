@@ -1,0 +1,117 @@
+{
+  "completions": [
+    {
+      "created_at": 1600784506,
+      "id": 112001,
+      "lead_time": 39.446,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "s3pq127CCk",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 154,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 136,
+            "text": "hawanya enak parah"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "cbipejFFdM",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 175,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 156,
+            "text": "makanannya enduuuul"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "UtxG0NcfmG",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 223,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 209,
+            "text": "ayamnya banyak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "zupdy_zHZs",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 245,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 225,
+            "text": "sambal matahnya enak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Cx0aRyVTtX",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 261,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 247,
+            "text": "nasinya banyak"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "t4QbVwBaPW",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 323,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 298,
+            "text": "rasanya pengan balik lagi"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "tempat paling enak buat melamun sambil ditiupin angin sepoi sepoi. jaraknya gak terlalu jauh dari pusat kota bandung, sekitar 30 menit. hawanya enak parah  makanannya enduuuul waktu itu pesan nasi ayam matah. ayamnya banyak, sambal matahnya enak, nasinya banyak, view pas makannya juga nikmat huhu rasanya pengan balik lagi."
+  },
+  "id": 112
+}

@@ -1,0 +1,66 @@
+{
+  "completions": [
+    {
+      "created_at": 1600682105,
+      "id": 265001,
+      "lead_time": 29.953,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "qULTU-dvrx",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 70,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 51,
+            "text": "spectacular scenery"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "sdDVfpkF4c",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 297,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 265,
+            "text": "the staffs are nice and friendly"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "N-e-gIlX-h",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 323,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 311,
+            "text": "very helpful"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "located above a green valley, the restaurant has a spectacular scenery...  a lovely place to enjoy breakfast with extensive selection of western and indonesian traditional cuisines accompanied with morning breeze and sun... the best view will be on the balcony...  the staffs are nice and friendly..., they are very helpful..."
+  },
+  "id": 265
+}

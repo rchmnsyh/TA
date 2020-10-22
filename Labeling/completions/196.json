@@ -1,0 +1,32 @@
+{
+  "completions": [
+    {
+      "created_at": 1600781879,
+      "id": 196001,
+      "lead_time": 10.969,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "OILYyuJKqi",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 124,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 112,
+            "text": "seger banget"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "es kopi awan dan es kopi susu favoritnya,, kl buatku sekilas rasanya seperti kopi susu lainnya hanya aja memang seger banget dan pas banget kl ditemani roti dan donut jadul seperti yg aku foto diatas,, yuumm"
+  },
+  "id": 196
+}

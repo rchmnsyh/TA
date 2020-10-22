@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600689607,
+      "id": 299001,
+      "lead_time": 68.616,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "e21lthq2KD",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 72,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 58,
+            "text": "tempatnya cozy"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "NlPyxzOjNj",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 140,
+            "labels": [
+              "Negative",
+              "Service"
+            ],
+            "start": 121,
+            "text": "tempat parkir kecil"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "eGq3hHa2fY",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 323,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 241,
+            "text": "cocok buat nongski, meeting, nugas, or maybe kasih surprise ke ur friend or family"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "d278YZHUsg",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 501,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 470,
+            "text": "ambience +lumayan instagramable"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "dateng jam makan siang, beuh full cuy sampe kudu wl dulu. tempatnya cozy sih cuma rada kecil, seat ada indoor n outdoor, tempat parkir kecil cuma muat buat yg bawa motor kalo bawa mobil paling dipinggir jalan but aman sih ada mamang parkir. cocok buat nongski, meeting, nugas, or maybe kasih surprise ke ur friend or family.  meals, pasta & desserts : spaghetti spicy and sour jalapeno (7.5/10) chicken quesadilas (8/10) cholcolate crepes (6/10) vanilla crepes (6/10)  +ambience +lumayan instagramable +ada oppa oppa gantenk wkwk  #cafebandung #instagramable #cafehitsbandung"
+  },
+  "id": 299
+}

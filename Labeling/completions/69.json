@@ -1,0 +1,100 @@
+{
+  "completions": [
+    {
+      "created_at": 1600517083,
+      "id": 69001,
+      "lead_time": 40.149,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "stpz1THljR",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 57,
+            "labels": [
+              "Positive",
+              "Miscellaneous"
+            ],
+            "start": 0,
+            "text": "one of the best plce to eat a japanese cuisine in bandung"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "_Fw2ADMPgM",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 93,
+            "labels": [
+              "Positive",
+              "Price"
+            ],
+            "start": 60,
+            "text": "the price is not really expensive"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "YTgGVo4l34",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 138,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 115,
+            "text": "the taste is impressive"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "5GgXfhGBpE",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 238,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 188,
+            "text": "the ambiance and place is cozy clean and very good"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "yGJsaOQtbN",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 274,
+            "labels": [
+              "Positive",
+              "Service"
+            ],
+            "start": 241,
+            "text": "thumbs up as well for their staff"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "one of the best plce to eat a japanese cuisine in bandung.  the price is not really expensive (quite standard) for the taste is impressive considering from their pricing.  one more thing, the ambiance and place is cozy clean and very good.  thumbs up as well for their staff."
+  },
+  "id": 69
+}

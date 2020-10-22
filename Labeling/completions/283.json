@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600787617,
+      "id": 283001,
+      "lead_time": 14.679,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "4Mrj3bqf4M",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 12,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "a good place"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "nRk6KOt85t",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 54,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 17,
+            "text": "above average japanese dishes in town"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "a good place for above average japanese dishes in town. avoid lunch and dinner time as it could get packed and you must wait before you could get a table"
+  },
+  "id": 283
+}

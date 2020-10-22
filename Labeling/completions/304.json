@@ -1,0 +1,100 @@
+{
+  "completions": [
+    {
+      "created_at": 1600781867,
+      "id": 304001,
+      "lead_time": 39.803,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "SzvoPVX7d8",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 21,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 0,
+            "text": "the ambience is great"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "PA5RM9U3G2",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 47,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 23,
+            "text": "the decorations are nice"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "qu_VXootFs",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 85,
+            "labels": [
+              "Positive",
+              "Ambience"
+            ],
+            "start": 53,
+            "text": "the place is very cozy and chill"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Mgb8KAOObV",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 107,
+            "labels": [
+              "Positive",
+              "Food"
+            ],
+            "start": 87,
+            "text": "the coffee was great"
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "gCowAAqyo1",
+          "parent_id": null,
+          "source": "$text",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "end": 144,
+            "labels": [
+              "Negative",
+              "Food"
+            ],
+            "start": 113,
+            "text": "the taste of the food was basic"
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "text": "the ambience is great, the decorations are nice too. the place is very cozy and chill. the coffee was great, but the taste of the food was basic though. unfortunately, they might look like an eco-friendly cafe but it saddens me that they still use plastic straws , hopefully on my next visit they change their straws to stainless straws, no more plastic \ufe0f"
+  },
+  "id": 304
+}
