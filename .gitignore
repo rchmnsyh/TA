@@ -127,3 +127,19 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+3. CNN trigram Berita.ipynb
+Model/idwiki_word2vec_100.model
+Model/idwiki_word2vec_100.model.trainables.syn1neg.npy
+Model/idwiki_word2vec_100.model.wv.vectors.npy
+Model/idwiki_word2vec_100.zip
+Model/idwiki_word2vec_200.model
+Model/idwiki_word2vec_200.model.trainables.syn1neg.npy
+Model/idwiki_word2vec_200.model.wv.vectors.npy
+Model/idwiki_word2vec_300.model
+Model/idwiki_word2vec_200.zip
+Model/idwiki_word2vec_300.model.trainables.syn1neg.npy
+Model/idwiki_word2vec_300.model.wv.vectors.npy
+Model/idwiki_word2vec_300.zip
+Model/w2v.model
+Model/w2v.model.trainables.syn1neg.npy
+Model/w2v.model.wv.vectors.npy
